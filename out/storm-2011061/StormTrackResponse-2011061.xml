@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011061" name="FRANKLIN" pnumber="201106" hnumber="201106" from="2011-08-12 18:00:00" thru="2011-08-14 00:00:00" minlat="35.5" maxlat="40.2" minlon="-64.7" maxlon="-53.3" maxwind="40" minpress="1004" maxcat="TS" basin="AT">
+  <Track date="2011-08-12T18:00:00" category="TD" latitude="35.5" longitude="-64.7" windspeed="30" pressure="1011"/>
+  <Track date="2011-08-13T00:00:00" category="TD" latitude="36.2" longitude="-62.6" windspeed="30" pressure="1011"/>
+  <Track date="2011-08-13T06:00:00" category="TS" latitude="37.4" longitude="-60.8" windspeed="35" pressure="1006"/>
+  <Track date="2011-08-13T12:00:00" category="TS" latitude="38.6" longitude="-58.9" windspeed="40" pressure="1004"/>
+  <Track date="2011-08-13T18:00:00" category="TS" latitude="39.5" longitude="-56.3" windspeed="40" pressure="1004"/>
+  <Track date="2011-08-14T00:00:00" category="ED" latitude="40.2" longitude="-53.3" windspeed="35" pressure="1004"/>
+</StormTrackResponse>

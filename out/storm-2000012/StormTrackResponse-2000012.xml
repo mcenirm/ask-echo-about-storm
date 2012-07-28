@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2000012" name="ALETTA" pnumber="200001" hnumber="200001" from="2000-05-22 12:00:00" thru="2000-05-28 00:00:00" minlat="13.3" maxlat="16.1" minlon="-107.8" maxlon="-99.2" maxwind="90" minpress="970" maxcat="H2" basin="EP">
+  <Track date="2000-05-22T12:00:00" category="TD" latitude="13.3" longitude="-99.2" windspeed="25" pressure="1005"/>
+  <Track date="2000-05-22T18:00:00" category="TD" latitude="13.9" longitude="-100.2" windspeed="30" pressure="1004"/>
+  <Track date="2000-05-23T00:00:00" category="TD" latitude="14.3" longitude="-101.1" windspeed="30" pressure="1003"/>
+  <Track date="2000-05-23T06:00:00" category="TS" latitude="14.5" longitude="-101.8" windspeed="35" pressure="1002"/>
+  <Track date="2000-05-23T12:00:00" category="TS" latitude="14.5" longitude="-102.5" windspeed="40" pressure="1001"/>
+  <Track date="2000-05-23T18:00:00" category="TS" latitude="14.5" longitude="-103.1" windspeed="45" pressure="1000"/>
+  <Track date="2000-05-24T00:00:00" category="TS" latitude="14.6" longitude="-103.7" windspeed="50" pressure="997"/>
+  <Track date="2000-05-24T06:00:00" category="TS" latitude="14.6" longitude="-104.3" windspeed="60" pressure="990"/>
+  <Track date="2000-05-24T12:00:00" category="H1" latitude="14.7" longitude="-105.1" windspeed="70" pressure="983"/>
+  <Track date="2000-05-24T18:00:00" category="H2" latitude="14.8" longitude="-105.9" windspeed="90" pressure="975"/>
+  <Track date="2000-05-25T00:00:00" category="H2" latitude="14.9" longitude="-106.6" windspeed="90" pressure="970"/>
+  <Track date="2000-05-25T06:00:00" category="H2" latitude="15.0" longitude="-107.3" windspeed="90" pressure="972"/>
+  <Track date="2000-05-25T12:00:00" category="H2" latitude="15.1" longitude="-107.7" windspeed="85" pressure="974"/>
+  <Track date="2000-05-25T18:00:00" category="H2" latitude="15.0" longitude="-107.7" windspeed="85" pressure="975"/>
+  <Track date="2000-05-26T00:00:00" category="H1" latitude="14.8" longitude="-107.7" windspeed="80" pressure="977"/>
+  <Track date="2000-05-26T06:00:00" category="H1" latitude="14.8" longitude="-107.6" windspeed="75" pressure="979"/>
+  <Track date="2000-05-26T12:00:00" category="H1" latitude="14.8" longitude="-107.5" windspeed="70" pressure="980"/>
+  <Track date="2000-05-26T18:00:00" category="H1" latitude="15.0" longitude="-107.8" windspeed="65" pressure="985"/>
+  <Track date="2000-05-27T00:00:00" category="TS" latitude="14.8" longitude="-107.8" windspeed="60" pressure="990"/>
+  <Track date="2000-05-27T06:00:00" category="TS" latitude="15.1" longitude="-107.5" windspeed="55" pressure="995"/>
+  <Track date="2000-05-27T12:00:00" category="TS" latitude="15.4" longitude="-107.4" windspeed="45" pressure="1000"/>
+  <Track date="2000-05-27T18:00:00" category="TD" latitude="15.6" longitude="-107.5" windspeed="30" pressure="1004"/>
+  <Track date="2000-05-28T00:00:00" category="TD" latitude="16.1" longitude="-107.5" windspeed="25" pressure="1005"/>
+</StormTrackResponse>

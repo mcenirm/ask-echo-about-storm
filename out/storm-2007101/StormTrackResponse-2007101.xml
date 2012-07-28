@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007101" name="JERRY" pnumber="200710" hnumber="200710" from="2007-09-23 00:00:00" thru="2007-09-24 18:00:00" minlat="36.0" maxlat="41.0" minlon="-46.3" maxlon="-43.5" maxwind="35" minpress="1003" maxcat="TS" basin="AT">
+  <Track date="2007-09-23T00:00:00" category="SD" latitude="36.2" longitude="-46.1" windspeed="30" pressure="1008"/>
+  <Track date="2007-09-23T06:00:00" category="SS" latitude="36.2" longitude="-46.1" windspeed="35" pressure="1007"/>
+  <Track date="2007-09-23T12:00:00" category="SS" latitude="36.0" longitude="-46.3" windspeed="35" pressure="1004"/>
+  <Track date="2007-09-23T18:00:00" category="SS" latitude="36.5" longitude="-46.3" windspeed="35" pressure="1004"/>
+  <Track date="2007-09-24T00:00:00" category="TS" latitude="37.1" longitude="-46.3" windspeed="35" pressure="1003"/>
+  <Track date="2007-09-24T06:00:00" category="TS" latitude="38.1" longitude="-45.9" windspeed="35" pressure="1004"/>
+  <Track date="2007-09-24T12:00:00" category="TS" latitude="39.3" longitude="-44.7" windspeed="35" pressure="1004"/>
+  <Track date="2007-09-24T18:00:00" category="TD" latitude="41.0" longitude="-43.5" windspeed="30" pressure="1004"/>
+</StormTrackResponse>

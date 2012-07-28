@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2006012" name="ALETTA" pnumber="200601" hnumber="200601" from="2006-05-27 06:00:00" thru="2006-05-31 00:00:00" minlat="14.6" maxlat="16.4" minlon="-103.7" maxlon="-100.7" maxwind="40" minpress="1002" maxcat="TS" basin="EP">
+  <Track date="2006-05-27T06:00:00" category="TD" latitude="14.6" longitude="-101.5" windspeed="25" pressure="1005"/>
+  <Track date="2006-05-27T12:00:00" category="TD" latitude="15.0" longitude="-100.9" windspeed="30" pressure="1004"/>
+  <Track date="2006-05-27T18:00:00" category="TS" latitude="15.5" longitude="-100.7" windspeed="35" pressure="1003"/>
+  <Track date="2006-05-28T00:00:00" category="TS" latitude="15.7" longitude="-101.1" windspeed="35" pressure="1003"/>
+  <Track date="2006-05-28T06:00:00" category="TS" latitude="15.6" longitude="-101.4" windspeed="40" pressure="1002"/>
+  <Track date="2006-05-28T12:00:00" category="TS" latitude="15.3" longitude="-101.2" windspeed="40" pressure="1002"/>
+  <Track date="2006-05-28T18:00:00" category="TS" latitude="15.7" longitude="-101.0" windspeed="40" pressure="1002"/>
+  <Track date="2006-05-29T00:00:00" category="TS" latitude="15.9" longitude="-101.1" windspeed="40" pressure="1002"/>
+  <Track date="2006-05-29T06:00:00" category="TS" latitude="16.0" longitude="-101.3" windspeed="35" pressure="1002"/>
+  <Track date="2006-05-29T12:00:00" category="TS" latitude="16.0" longitude="-101.5" windspeed="35" pressure="1003"/>
+  <Track date="2006-05-29T18:00:00" category="TD" latitude="16.0" longitude="-101.7" windspeed="30" pressure="1004"/>
+  <Track date="2006-05-30T00:00:00" category="TD" latitude="16.0" longitude="-102.1" windspeed="30" pressure="1004"/>
+  <Track date="2006-05-30T06:00:00" category="TD" latitude="16.0" longitude="-102.5" windspeed="30" pressure="1005"/>
+  <Track date="2006-05-30T12:00:00" category="TD" latitude="16.2" longitude="-103.2" windspeed="25" pressure="1006"/>
+  <Track date="2006-05-30T18:00:00" category="TD" latitude="16.3" longitude="-103.5" windspeed="25" pressure="1007"/>
+  <Track date="2006-05-31T00:00:00" category="LP" latitude="16.4" longitude="-103.7" windspeed="25" pressure="1007"/>
+</StormTrackResponse>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2005061" name="FRANKLIN" pnumber="200506" hnumber="200506" from="2005-07-21 18:00:00" thru="2005-07-31 00:00:00" minlat="25.0" maxlat="47.5" minlon="-76.8" maxlon="-46.0" maxwind="60" minpress="997" maxcat="ES" basin="AT">
+  <Track date="2005-07-21T18:00:00" category="TD" latitude="25.0" longitude="-75.0" windspeed="30" pressure="1010"/>
+  <Track date="2005-07-22T00:00:00" category="TS" latitude="25.7" longitude="-75.9" windspeed="40" pressure="1009"/>
+  <Track date="2005-07-22T06:00:00" category="TS" latitude="26.2" longitude="-76.4" windspeed="40" pressure="1008"/>
+  <Track date="2005-07-22T12:00:00" category="TS" latitude="26.6" longitude="-76.8" windspeed="45" pressure="1007"/>
+  <Track date="2005-07-22T18:00:00" category="TS" latitude="27.4" longitude="-76.7" windspeed="45" pressure="1006"/>
+  <Track date="2005-07-23T00:00:00" category="TS" latitude="28.1" longitude="-76.6" windspeed="45" pressure="1003"/>
+  <Track date="2005-07-23T06:00:00" category="TS" latitude="28.7" longitude="-76.1" windspeed="50" pressure="1001"/>
+  <Track date="2005-07-23T12:00:00" category="TS" latitude="29.2" longitude="-75.4" windspeed="60" pressure="1001"/>
+  <Track date="2005-07-23T18:00:00" category="TS" latitude="29.7" longitude="-74.7" windspeed="60" pressure="1001"/>
+  <Track date="2005-07-24T00:00:00" category="TS" latitude="30.1" longitude="-73.5" windspeed="55" pressure="1001"/>
+  <Track date="2005-07-24T06:00:00" category="TS" latitude="30.3" longitude="-72.6" windspeed="55" pressure="1001"/>
+  <Track date="2005-07-24T12:00:00" category="TS" latitude="30.7" longitude="-71.9" windspeed="45" pressure="1001"/>
+  <Track date="2005-07-24T18:00:00" category="TS" latitude="31.1" longitude="-71.2" windspeed="45" pressure="1000"/>
+  <Track date="2005-07-25T00:00:00" category="TS" latitude="31.1" longitude="-71.2" windspeed="40" pressure="1000"/>
+  <Track date="2005-07-25T06:00:00" category="TS" latitude="31.0" longitude="-70.5" windspeed="40" pressure="1000"/>
+  <Track date="2005-07-25T12:00:00" category="TS" latitude="30.9" longitude="-69.8" windspeed="40" pressure="999"/>
+  <Track date="2005-07-25T18:00:00" category="TS" latitude="30.9" longitude="-69.6" windspeed="40" pressure="999"/>
+  <Track date="2005-07-26T00:00:00" category="TS" latitude="30.9" longitude="-68.6" windspeed="35" pressure="1000"/>
+  <Track date="2005-07-26T06:00:00" category="TS" latitude="31.2" longitude="-68.2" windspeed="35" pressure="1001"/>
+  <Track date="2005-07-26T12:00:00" category="TS" latitude="31.7" longitude="-68.1" windspeed="35" pressure="1002"/>
+  <Track date="2005-07-26T18:00:00" category="TS" latitude="32.2" longitude="-68.3" windspeed="35" pressure="1001"/>
+  <Track date="2005-07-27T00:00:00" category="TS" latitude="32.4" longitude="-68.5" windspeed="40" pressure="1000"/>
+  <Track date="2005-07-27T06:00:00" category="TS" latitude="32.8" longitude="-68.8" windspeed="40" pressure="1000"/>
+  <Track date="2005-07-27T12:00:00" category="TS" latitude="33.2" longitude="-69.1" windspeed="45" pressure="999"/>
+  <Track date="2005-07-27T18:00:00" category="TS" latitude="33.6" longitude="-69.3" windspeed="45" pressure="999"/>
+  <Track date="2005-07-28T00:00:00" category="TS" latitude="34.2" longitude="-69.4" windspeed="50" pressure="997"/>
+  <Track date="2005-07-28T06:00:00" category="TS" latitude="35.0" longitude="-69.3" windspeed="50" pressure="997"/>
+  <Track date="2005-07-28T12:00:00" category="TS" latitude="36.0" longitude="-69.1" windspeed="45" pressure="999"/>
+  <Track date="2005-07-28T18:00:00" category="TS" latitude="37.1" longitude="-68.0" windspeed="50" pressure="997"/>
+  <Track date="2005-07-29T00:00:00" category="TS" latitude="38.4" longitude="-66.6" windspeed="50" pressure="997"/>
+  <Track date="2005-07-29T06:00:00" category="TS" latitude="39.6" longitude="-64.8" windspeed="50" pressure="997"/>
+  <Track date="2005-07-29T12:00:00" category="TS" latitude="40.8" longitude="-62.8" windspeed="50" pressure="997"/>
+  <Track date="2005-07-29T18:00:00" category="TS" latitude="42.2" longitude="-60.2" windspeed="50" pressure="999"/>
+  <Track date="2005-07-30T00:00:00" category="ES" latitude="43.5" longitude="-57.5" windspeed="50" pressure="1001"/>
+  <Track date="2005-07-30T06:00:00" category="ES" latitude="44.7" longitude="-54.6" windspeed="45" pressure="1003"/>
+  <Track date="2005-07-30T12:00:00" category="ES" latitude="45.8" longitude="-51.7" windspeed="40" pressure="1005"/>
+  <Track date="2005-07-30T18:00:00" category="ES" latitude="46.4" longitude="-48.8" windspeed="40" pressure="1006"/>
+  <Track date="2005-07-31T00:00:00" category="ES" latitude="47.5" longitude="-46.0" windspeed="40" pressure="1006"/>
+</StormTrackResponse>

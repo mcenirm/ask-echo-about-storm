@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011111" name="JOSE" pnumber="201111" hnumber="201111" from="2011-08-26 12:00:00" thru="2011-08-29 12:00:00" minlat="27.4" maxlat="38.4" minlon="-65.7" maxlon="-59.0" maxwind="40" minpress="1007" maxcat="TS" basin="AT">
+  <Track date="2011-08-26T12:00:00" category="LP" latitude="27.4" longitude="-59.0" windspeed="30" pressure="1017"/>
+  <Track date="2011-08-26T18:00:00" category="LP" latitude="27.4" longitude="-60.2" windspeed="30" pressure="1015"/>
+  <Track date="2011-08-27T00:00:00" category="LP" latitude="27.6" longitude="-61.3" windspeed="30" pressure="1014"/>
+  <Track date="2011-08-27T06:00:00" category="LP" latitude="27.8" longitude="-62.5" windspeed="30" pressure="1011"/>
+  <Track date="2011-08-27T12:00:00" category="LP" latitude="27.9" longitude="-63.4" windspeed="30" pressure="1008"/>
+  <Track date="2011-08-27T18:00:00" category="LP" latitude="28.3" longitude="-64.3" windspeed="30" pressure="1008"/>
+  <Track date="2011-08-28T00:00:00" category="LP" latitude="29.1" longitude="-64.9" windspeed="30" pressure="1010"/>
+  <Track date="2011-08-28T06:00:00" category="TS" latitude="29.7" longitude="-65.4" windspeed="35" pressure="1009"/>
+  <Track date="2011-08-28T12:00:00" category="TS" latitude="30.9" longitude="-65.7" windspeed="35" pressure="1008"/>
+  <Track date="2011-08-28T18:00:00" category="TS" latitude="32.3" longitude="-65.7" windspeed="40" pressure="1007"/>
+  <Track date="2011-08-29T00:00:00" category="TS" latitude="34.1" longitude="-65.6" windspeed="40" pressure="1007"/>
+  <Track date="2011-08-29T06:00:00" category="TS" latitude="36.2" longitude="-65.2" windspeed="35" pressure="1008"/>
+  <Track date="2011-08-29T12:00:00" category="XX" latitude="38.4" longitude="-63.7" windspeed="25" pressure="1009"/>
+</StormTrackResponse>

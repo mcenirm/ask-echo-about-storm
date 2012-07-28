@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2009052" name="LANA" pnumber="200905" hnumber="200905" from="2009-07-30 12:00:00" thru="2009-08-03 06:00:00" minlat="12.0" maxlat="14.5" minlon="-161.7" maxlon="-139.1" maxwind="55" minpress="995" maxcat="TS" basin="EP">
+  <Track date="2009-07-30T12:00:00" category="TD" latitude="12.0" longitude="-139.1" windspeed="30" pressure="1008"/>
+  <Track date="2009-07-30T18:00:00" category="TS" latitude="12.1" longitude="-140.6" windspeed="35" pressure="1005"/>
+  <Track date="2009-07-31T00:00:00" category="TS" latitude="12.6" longitude="-142.3" windspeed="45" pressure="1000"/>
+  <Track date="2009-07-31T06:00:00" category="TS" latitude="13.0" longitude="-143.9" windspeed="50" pressure="997"/>
+  <Track date="2009-07-31T12:00:00" category="TS" latitude="13.4" longitude="-145.5" windspeed="50" pressure="997"/>
+  <Track date="2009-07-31T18:00:00" category="TS" latitude="13.8" longitude="-146.9" windspeed="55" pressure="995"/>
+  <Track date="2009-08-01T00:00:00" category="TS" latitude="14.0" longitude="-148.4" windspeed="50" pressure="997"/>
+  <Track date="2009-08-01T06:00:00" category="TS" latitude="14.2" longitude="-149.8" windspeed="45" pressure="999"/>
+  <Track date="2009-08-01T12:00:00" category="TS" latitude="14.4" longitude="-151.2" windspeed="45" pressure="1000"/>
+  <Track date="2009-08-01T18:00:00" category="TS" latitude="14.4" longitude="-152.6" windspeed="45" pressure="1000"/>
+  <Track date="2009-08-02T00:00:00" category="TS" latitude="14.5" longitude="-154.2" windspeed="40" pressure="1002"/>
+  <Track date="2009-08-02T06:00:00" category="TS" latitude="14.5" longitude="-155.9" windspeed="40" pressure="1003"/>
+  <Track date="2009-08-02T12:00:00" category="TS" latitude="14.4" longitude="-157.4" windspeed="35" pressure="1004"/>
+  <Track date="2009-08-02T18:00:00" category="TD" latitude="14.4" longitude="-158.9" windspeed="30" pressure="1006"/>
+  <Track date="2009-08-03T00:00:00" category="LP" latitude="14.4" longitude="-160.3" windspeed="25" pressure="1008"/>
+  <Track date="2009-08-03T06:00:00" category="LP" latitude="14.4" longitude="-161.7" windspeed="20" pressure="1010"/>
+</StormTrackResponse>

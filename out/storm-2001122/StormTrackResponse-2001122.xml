@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2001122" name="LORENA" pnumber="200112" hnumber="200112" from="2001-10-02 00:00:00" thru="2001-10-04 18:00:00" minlat="11.9" maxlat="19.6" minlon="-107.0" maxlon="-102.0" maxwind="50" minpress="997" maxcat="TS" basin="EP">
+  <Track date="2001-10-02T00:00:00" category="TD" latitude="11.9" longitude="-102.0" windspeed="30" pressure="1006"/>
+  <Track date="2001-10-02T06:00:00" category="TD" latitude="12.0" longitude="-103.1" windspeed="30" pressure="1005"/>
+  <Track date="2001-10-02T12:00:00" category="TS" latitude="12.6" longitude="-104.3" windspeed="35" pressure="1004"/>
+  <Track date="2001-10-02T18:00:00" category="TS" latitude="13.2" longitude="-105.4" windspeed="40" pressure="1002"/>
+  <Track date="2001-10-03T00:00:00" category="TS" latitude="14.3" longitude="-106.0" windspeed="40" pressure="1002"/>
+  <Track date="2001-10-03T06:00:00" category="TS" latitude="15.0" longitude="-106.3" windspeed="45" pressure="1000"/>
+  <Track date="2001-10-03T12:00:00" category="TS" latitude="15.7" longitude="-106.5" windspeed="50" pressure="997"/>
+  <Track date="2001-10-03T18:00:00" category="TS" latitude="16.2" longitude="-106.7" windspeed="45" pressure="1000"/>
+  <Track date="2001-10-04T00:00:00" category="TS" latitude="16.8" longitude="-106.7" windspeed="40" pressure="1004"/>
+  <Track date="2001-10-04T06:00:00" category="TS" latitude="17.6" longitude="-107.0" windspeed="35" pressure="1004"/>
+  <Track date="2001-10-04T12:00:00" category="TD" latitude="18.5" longitude="-107.0" windspeed="30" pressure="1006"/>
+  <Track date="2001-10-04T18:00:00" category="TD" latitude="19.6" longitude="-106.7" windspeed="25" pressure="1009"/>
+</StormTrackResponse>

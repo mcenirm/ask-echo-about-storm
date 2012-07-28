@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2008012" name="ALMA" pnumber="200801" hnumber="200801" from="2008-05-29 00:00:00" thru="2008-05-30 12:00:00" minlat="10.1" maxlat="15.0" minlon="-88.0" maxlon="-86.5" maxwind="55" minpress="994" maxcat="TS" basin="EP">
+  <Track date="2008-05-29T00:00:00" category="TD" latitude="10.1" longitude="-86.5" windspeed="30" pressure="1003"/>
+  <Track date="2008-05-29T06:00:00" category="TS" latitude="10.7" longitude="-86.7" windspeed="35" pressure="1002"/>
+  <Track date="2008-05-29T12:00:00" category="TS" latitude="11.3" longitude="-86.8" windspeed="45" pressure="1000"/>
+  <Track date="2008-05-29T18:00:00" category="TS" latitude="12.0" longitude="-86.9" windspeed="55" pressure="994"/>
+  <Track date="2008-05-30T00:00:00" category="TS" latitude="12.9" longitude="-87.1" windspeed="45" pressure="998"/>
+  <Track date="2008-05-30T06:00:00" category="TD" latitude="14.1" longitude="-87.4" windspeed="30" pressure="1004"/>
+  <Track date="2008-05-30T12:00:00" category="TD" latitude="15.0" longitude="-88.0" windspeed="25" pressure="1006"/>
+</StormTrackResponse>

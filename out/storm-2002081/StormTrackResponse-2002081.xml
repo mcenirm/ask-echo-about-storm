@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2002081" name="HANNA" pnumber="200208" hnumber="200208" from="2002-09-12 00:00:00" thru="2002-09-15 12:00:00" minlat="26.3" maxlat="33.0" minlon="-89.3" maxlon="-85.0" maxwind="50" minpress="1001" maxcat="TS" basin="AT">
+  <Track date="2002-09-12T00:00:00" category="TD" latitude="26.3" longitude="-86.6" windspeed="30" pressure="1001"/>
+  <Track date="2002-09-12T06:00:00" category="TS" latitude="26.7" longitude="-86.4" windspeed="35" pressure="1001"/>
+  <Track date="2002-09-12T12:00:00" category="TS" latitude="27.0" longitude="-86.7" windspeed="35" pressure="1001"/>
+  <Track date="2002-09-12T18:00:00" category="TS" latitude="27.1" longitude="-87.5" windspeed="35" pressure="1001"/>
+  <Track date="2002-09-13T00:00:00" category="TS" latitude="26.7" longitude="-88.0" windspeed="35" pressure="1001"/>
+  <Track date="2002-09-13T06:00:00" category="TS" latitude="26.9" longitude="-88.8" windspeed="40" pressure="1002"/>
+  <Track date="2002-09-13T12:00:00" category="TS" latitude="27.4" longitude="-89.3" windspeed="45" pressure="1002"/>
+  <Track date="2002-09-13T18:00:00" category="TS" latitude="27.7" longitude="-89.3" windspeed="45" pressure="1003"/>
+  <Track date="2002-09-14T00:00:00" category="TS" latitude="28.0" longitude="-89.2" windspeed="50" pressure="1001"/>
+  <Track date="2002-09-14T06:00:00" category="TS" latitude="28.7" longitude="-89.1" windspeed="50" pressure="1003"/>
+  <Track date="2002-09-14T12:00:00" category="TS" latitude="30.0" longitude="-88.8" windspeed="50" pressure="1003"/>
+  <Track date="2002-09-14T18:00:00" category="TD" latitude="30.8" longitude="-88.0" windspeed="30" pressure="1005"/>
+  <Track date="2002-09-15T00:00:00" category="TD" latitude="31.5" longitude="-87.0" windspeed="20" pressure="1009"/>
+  <Track date="2002-09-15T06:00:00" category="TD" latitude="32.0" longitude="-86.0" windspeed="20" pressure="1011"/>
+  <Track date="2002-09-15T12:00:00" category="TD" latitude="33.0" longitude="-85.0" windspeed="20" pressure="1014"/>
+</StormTrackResponse>

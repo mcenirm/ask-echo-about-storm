@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2003072" name="GUILLERMO" pnumber="200307" hnumber="200307" from="2003-08-07 06:00:00" thru="2003-08-13 00:00:00" minlat="15.4" maxlat="16.6" minlon="-141.5" maxlon="-115.7" maxwind="50" minpress="997" maxcat="TS" basin="EP">
+  <Track date="2003-08-07T06:00:00" category="TD" latitude="16.0" longitude="-115.7" windspeed="25" pressure="1009"/>
+  <Track date="2003-08-07T12:00:00" category="TD" latitude="16.3" longitude="-116.1" windspeed="25" pressure="1009"/>
+  <Track date="2003-08-07T18:00:00" category="TD" latitude="16.5" longitude="-116.6" windspeed="30" pressure="1007"/>
+  <Track date="2003-08-08T00:00:00" category="TS" latitude="16.6" longitude="-117.2" windspeed="40" pressure="1003"/>
+  <Track date="2003-08-08T06:00:00" category="TS" latitude="16.6" longitude="-117.8" windspeed="40" pressure="1002"/>
+  <Track date="2003-08-08T12:00:00" category="TS" latitude="16.5" longitude="-118.5" windspeed="45" pressure="1000"/>
+  <Track date="2003-08-08T18:00:00" category="TS" latitude="16.1" longitude="-119.2" windspeed="50" pressure="997"/>
+  <Track date="2003-08-09T00:00:00" category="TS" latitude="15.9" longitude="-120.0" windspeed="50" pressure="997"/>
+  <Track date="2003-08-09T06:00:00" category="TS" latitude="15.8" longitude="-121.0" windspeed="50" pressure="997"/>
+  <Track date="2003-08-09T12:00:00" category="TS" latitude="15.7" longitude="-122.2" windspeed="50" pressure="998"/>
+  <Track date="2003-08-09T18:00:00" category="TS" latitude="15.5" longitude="-123.4" windspeed="45" pressure="999"/>
+  <Track date="2003-08-10T00:00:00" category="TS" latitude="15.4" longitude="-124.6" windspeed="45" pressure="1000"/>
+  <Track date="2003-08-10T06:00:00" category="TS" latitude="15.4" longitude="-125.8" windspeed="45" pressure="1000"/>
+  <Track date="2003-08-10T12:00:00" category="TS" latitude="15.5" longitude="-126.9" windspeed="40" pressure="1002"/>
+  <Track date="2003-08-10T18:00:00" category="TS" latitude="15.5" longitude="-128.0" windspeed="35" pressure="1004"/>
+  <Track date="2003-08-11T00:00:00" category="TS" latitude="15.6" longitude="-129.3" windspeed="35" pressure="1005"/>
+  <Track date="2003-08-11T06:00:00" category="TS" latitude="15.7" longitude="-130.6" windspeed="35" pressure="1005"/>
+  <Track date="2003-08-11T12:00:00" category="TD" latitude="15.9" longitude="-132.0" windspeed="30" pressure="1006"/>
+  <Track date="2003-08-11T18:00:00" category="TD" latitude="16.2" longitude="-133.5" windspeed="30" pressure="1007"/>
+  <Track date="2003-08-12T00:00:00" category="TD" latitude="16.3" longitude="-135.0" windspeed="30" pressure="1007"/>
+  <Track date="2003-08-12T06:00:00" category="TD" latitude="16.3" longitude="-136.5" windspeed="30" pressure="1007"/>
+  <Track date="2003-08-12T12:00:00" category="TD" latitude="16.3" longitude="-138.2" windspeed="30" pressure="1007"/>
+  <Track date="2003-08-12T18:00:00" category="LP" latitude="16.3" longitude="-139.8" windspeed="25" pressure="1008"/>
+  <Track date="2003-08-13T00:00:00" category="LP" latitude="16.1" longitude="-141.5" windspeed="25" pressure="1009"/>
+</StormTrackResponse>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2005121" name="LEE" pnumber="200512" hnumber="200512" from="2005-08-28 12:00:00" thru="2005-09-03 18:00:00" minlat="14.0" maxlat="37.4" minlon="-54.2" maxlon="-45.1" maxwind="35" minpress="1006" maxcat="TS" basin="AT">
+  <Track date="2005-08-28T12:00:00" category="TD" latitude="14.0" longitude="-45.1" windspeed="25" pressure="1009"/>
+  <Track date="2005-08-28T18:00:00" category="TD" latitude="14.9" longitude="-46.4" windspeed="25" pressure="1007"/>
+  <Track date="2005-08-29T00:00:00" category="TD" latitude="15.7" longitude="-47.6" windspeed="25" pressure="1007"/>
+  <Track date="2005-08-29T06:00:00" category="TD" latitude="17.0" longitude="-48.9" windspeed="25" pressure="1007"/>
+  <Track date="2005-08-29T12:00:00" category="TD" latitude="17.7" longitude="-50.6" windspeed="25" pressure="1008"/>
+  <Track date="2005-08-29T18:00:00" category="LP" latitude="18.5" longitude="-52.5" windspeed="20" pressure="1009"/>
+  <Track date="2005-08-30T00:00:00" category="LP" latitude="20.5" longitude="-53.2" windspeed="20" pressure="1010"/>
+  <Track date="2005-08-30T06:00:00" category="LP" latitude="22.1" longitude="-53.6" windspeed="20" pressure="1010"/>
+  <Track date="2005-08-30T12:00:00" category="LP" latitude="24.2" longitude="-54.2" windspeed="20" pressure="1010"/>
+  <Track date="2005-08-30T18:00:00" category="LP" latitude="25.5" longitude="-53.6" windspeed="25" pressure="1010"/>
+  <Track date="2005-08-31T00:00:00" category="LP" latitude="26.9" longitude="-52.7" windspeed="25" pressure="1010"/>
+  <Track date="2005-08-31T06:00:00" category="TD" latitude="28.0" longitude="-51.6" windspeed="30" pressure="1007"/>
+  <Track date="2005-08-31T12:00:00" category="TS" latitude="29.0" longitude="-50.4" windspeed="35" pressure="1006"/>
+  <Track date="2005-08-31T18:00:00" category="TS" latitude="30.1" longitude="-50.1" windspeed="35" pressure="1007"/>
+  <Track date="2005-09-01T00:00:00" category="TD" latitude="31.1" longitude="-50.3" windspeed="30" pressure="1009"/>
+  <Track date="2005-09-01T06:00:00" category="TD" latitude="31.9" longitude="-51.2" windspeed="30" pressure="1010"/>
+  <Track date="2005-09-01T12:00:00" category="TD" latitude="31.9" longitude="-51.4" windspeed="30" pressure="1010"/>
+  <Track date="2005-09-01T18:00:00" category="TD" latitude="32.3" longitude="-51.5" windspeed="30" pressure="1010"/>
+  <Track date="2005-09-02T00:00:00" category="TD" latitude="32.4" longitude="-52.0" windspeed="25" pressure="1010"/>
+  <Track date="2005-09-02T06:00:00" category="LP" latitude="32.6" longitude="-52.3" windspeed="25" pressure="1010"/>
+  <Track date="2005-09-02T12:00:00" category="LP" latitude="33.2" longitude="-52.3" windspeed="25" pressure="1010"/>
+  <Track date="2005-09-02T18:00:00" category="LP" latitude="33.9" longitude="-52.7" windspeed="25" pressure="1010"/>
+  <Track date="2005-09-03T00:00:00" category="LP" latitude="34.7" longitude="-53.2" windspeed="25" pressure="1010"/>
+  <Track date="2005-09-03T06:00:00" category="LP" latitude="35.5" longitude="-53.9" windspeed="25" pressure="1010"/>
+  <Track date="2005-09-03T12:00:00" category="LP" latitude="36.6" longitude="-54.2" windspeed="25" pressure="1010"/>
+  <Track date="2005-09-03T18:00:00" category="LP" latitude="37.4" longitude="-53.9" windspeed="25" pressure="1010"/>
+</StormTrackResponse>

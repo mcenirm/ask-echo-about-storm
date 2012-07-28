@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2003032" name="CARLOS" pnumber="200303" hnumber="200303" from="2003-06-26 00:00:00" thru="2003-06-28 18:00:00" minlat="13.9" maxlat="16.7" minlon="-101.8" maxlon="-97.2" maxwind="55" minpress="996" maxcat="TS" basin="EP">
+  <Track date="2003-06-26T00:00:00" category="TD" latitude="13.9" longitude="-97.2" windspeed="25" pressure="1007"/>
+  <Track date="2003-06-26T06:00:00" category="TD" latitude="14.1" longitude="-97.8" windspeed="30" pressure="1006"/>
+  <Track date="2003-06-26T12:00:00" category="TS" latitude="14.7" longitude="-97.8" windspeed="35" pressure="1003"/>
+  <Track date="2003-06-26T18:00:00" category="TS" latitude="15.0" longitude="-97.3" windspeed="45" pressure="998"/>
+  <Track date="2003-06-27T00:00:00" category="TS" latitude="15.7" longitude="-97.6" windspeed="55" pressure="996"/>
+  <Track date="2003-06-27T06:00:00" category="TS" latitude="16.3" longitude="-98.1" windspeed="45" pressure="999"/>
+  <Track date="2003-06-27T12:00:00" category="TD" latitude="16.5" longitude="-98.6" windspeed="30" pressure="1001"/>
+  <Track date="2003-06-27T18:00:00" category="LP" latitude="16.7" longitude="-99.3" windspeed="25" pressure="1005"/>
+  <Track date="2003-06-28T00:00:00" category="LP" latitude="16.6" longitude="-99.9" windspeed="25" pressure="1008"/>
+  <Track date="2003-06-28T06:00:00" category="LP" latitude="16.4" longitude="-100.6" windspeed="25" pressure="1008"/>
+  <Track date="2003-06-28T12:00:00" category="LP" latitude="16.1" longitude="-101.2" windspeed="25" pressure="1008"/>
+  <Track date="2003-06-28T18:00:00" category="LP" latitude="15.7" longitude="-101.8" windspeed="25" pressure="1008"/>
+</StormTrackResponse>

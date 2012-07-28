@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2002011" name="ARTHUR" pnumber="200201" hnumber="200201" from="2002-07-14 18:00:00" thru="2002-07-19 12:00:00" minlat="34.3" maxlat="58.0" minlon="-76.8" maxlon="-51.0" maxwind="50" minpress="992" maxcat="ES" basin="AT">
+  <Track date="2002-07-14T18:00:00" category="TD" latitude="34.3" longitude="-76.8" windspeed="30" pressure="1009"/>
+  <Track date="2002-07-15T00:00:00" category="TD" latitude="35.0" longitude="-75.1" windspeed="30" pressure="1008"/>
+  <Track date="2002-07-15T06:00:00" category="TS" latitude="35.5" longitude="-73.3" windspeed="35" pressure="1006"/>
+  <Track date="2002-07-15T12:00:00" category="TS" latitude="36.1" longitude="-71.0" windspeed="45" pressure="1004"/>
+  <Track date="2002-07-15T18:00:00" category="TS" latitude="36.8" longitude="-68.2" windspeed="45" pressure="1002"/>
+  <Track date="2002-07-16T00:00:00" category="TS" latitude="37.9" longitude="-65.1" windspeed="50" pressure="1000"/>
+  <Track date="2002-07-16T06:00:00" category="TS" latitude="38.6" longitude="-61.7" windspeed="50" pressure="998"/>
+  <Track date="2002-07-16T12:00:00" category="TS" latitude="40.5" longitude="-57.9" windspeed="50" pressure="998"/>
+  <Track date="2002-07-16T18:00:00" category="TS" latitude="42.5" longitude="-54.5" windspeed="50" pressure="997"/>
+  <Track date="2002-07-17T00:00:00" category="ES" latitude="44.5" longitude="-53.0" windspeed="50" pressure="998"/>
+  <Track date="2002-07-17T06:00:00" category="ES" latitude="46.5" longitude="-53.9" windspeed="45" pressure="999"/>
+  <Track date="2002-07-17T12:00:00" category="ES" latitude="48.0" longitude="-54.0" windspeed="40" pressure="1002"/>
+  <Track date="2002-07-17T18:00:00" category="ES" latitude="49.0" longitude="-53.0" windspeed="40" pressure="1001"/>
+  <Track date="2002-07-18T00:00:00" category="ES" latitude="50.5" longitude="-52.5" windspeed="40" pressure="999"/>
+  <Track date="2002-07-18T06:00:00" category="ES" latitude="53.0" longitude="-52.5" windspeed="40" pressure="997"/>
+  <Track date="2002-07-18T12:00:00" category="ES" latitude="55.5" longitude="-53.0" windspeed="35" pressure="995"/>
+  <Track date="2002-07-18T18:00:00" category="ES" latitude="58.0" longitude="-53.0" windspeed="35" pressure="992"/>
+  <Track date="2002-07-19T00:00:00" category="ES" latitude="57.0" longitude="-52.0" windspeed="35" pressure="996"/>
+  <Track date="2002-07-19T06:00:00" category="ES" latitude="56.5" longitude="-51.5" windspeed="35" pressure="1000"/>
+  <Track date="2002-07-19T12:00:00" category="ES" latitude="56.0" longitude="-51.0" windspeed="35" pressure="1005"/>
+</StormTrackResponse>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2008151" name="OMAR" pnumber="200815" hnumber="200815" from="2008-10-13 06:00:00" thru="2008-10-21 00:00:00" minlat="13.9" maxlat="38.3" minlon="-69.8" maxlon="-43.3" maxwind="115" minpress="958" maxcat="H4" basin="AT">
+  <Track date="2008-10-13T06:00:00" category="TD" latitude="15.4" longitude="-69.0" windspeed="25" pressure="1005"/>
+  <Track date="2008-10-13T12:00:00" category="TD" latitude="15.2" longitude="-69.6" windspeed="30" pressure="1005"/>
+  <Track date="2008-10-13T18:00:00" category="TD" latitude="14.8" longitude="-69.8" windspeed="30" pressure="1004"/>
+  <Track date="2008-10-14T00:00:00" category="TS" latitude="14.5" longitude="-69.6" windspeed="35" pressure="1001"/>
+  <Track date="2008-10-14T06:00:00" category="TS" latitude="14.3" longitude="-69.3" windspeed="40" pressure="997"/>
+  <Track date="2008-10-14T12:00:00" category="TS" latitude="14.2" longitude="-69.1" windspeed="50" pressure="991"/>
+  <Track date="2008-10-14T18:00:00" category="TS" latitude="13.9" longitude="-68.8" windspeed="60" pressure="983"/>
+  <Track date="2008-10-15T00:00:00" category="H1" latitude="14.1" longitude="-68.3" windspeed="65" pressure="983"/>
+  <Track date="2008-10-15T06:00:00" category="H1" latitude="14.4" longitude="-68.0" windspeed="70" pressure="985"/>
+  <Track date="2008-10-15T12:00:00" category="H1" latitude="14.9" longitude="-67.4" windspeed="75" pressure="984"/>
+  <Track date="2008-10-15T18:00:00" category="H1" latitude="15.6" longitude="-66.5" windspeed="80" pressure="977"/>
+  <Track date="2008-10-16T00:00:00" category="H2" latitude="16.7" longitude="-65.2" windspeed="95" pressure="970"/>
+  <Track date="2008-10-16T06:00:00" category="H4" latitude="18.2" longitude="-63.9" windspeed="115" pressure="958"/>
+  <Track date="2008-10-16T12:00:00" category="H2" latitude="19.6" longitude="-62.1" windspeed="90" pressure="975"/>
+  <Track date="2008-10-16T18:00:00" category="H1" latitude="21.1" longitude="-60.4" windspeed="70" pressure="985"/>
+  <Track date="2008-10-17T00:00:00" category="H1" latitude="22.8" longitude="-58.8" windspeed="65" pressure="986"/>
+  <Track date="2008-10-17T06:00:00" category="H1" latitude="25.1" longitude="-57.1" windspeed="70" pressure="984"/>
+  <Track date="2008-10-17T12:00:00" category="H1" latitude="27.9" longitude="-55.7" windspeed="75" pressure="982"/>
+  <Track date="2008-10-17T18:00:00" category="H1" latitude="30.1" longitude="-54.4" windspeed="65" pressure="985"/>
+  <Track date="2008-10-18T00:00:00" category="TS" latitude="31.3" longitude="-53.2" windspeed="55" pressure="988"/>
+  <Track date="2008-10-18T06:00:00" category="TS" latitude="32.4" longitude="-52.1" windspeed="50" pressure="991"/>
+  <Track date="2008-10-18T12:00:00" category="LP" latitude="33.0" longitude="-51.3" windspeed="40" pressure="996"/>
+  <Track date="2008-10-18T18:00:00" category="LP" latitude="33.5" longitude="-50.5" windspeed="35" pressure="1002"/>
+  <Track date="2008-10-19T00:00:00" category="LP" latitude="34.0" longitude="-49.7" windspeed="30" pressure="1006"/>
+  <Track date="2008-10-19T06:00:00" category="LP" latitude="34.5" longitude="-49.0" windspeed="30" pressure="1009"/>
+  <Track date="2008-10-19T12:00:00" category="LP" latitude="35.1" longitude="-48.3" windspeed="25" pressure="1011"/>
+  <Track date="2008-10-19T18:00:00" category="LP" latitude="35.7" longitude="-47.5" windspeed="25" pressure="1012"/>
+  <Track date="2008-10-20T00:00:00" category="LP" latitude="36.4" longitude="-46.8" windspeed="25" pressure="1013"/>
+  <Track date="2008-10-20T06:00:00" category="LP" latitude="37.0" longitude="-46.2" windspeed="25" pressure="1014"/>
+  <Track date="2008-10-20T12:00:00" category="LP" latitude="37.6" longitude="-45.3" windspeed="25" pressure="1015"/>
+  <Track date="2008-10-20T18:00:00" category="LP" latitude="37.9" longitude="-44.3" windspeed="25" pressure="1016"/>
+  <Track date="2008-10-21T00:00:00" category="LP" latitude="38.3" longitude="-43.3" windspeed="25" pressure="1016"/>
+</StormTrackResponse>

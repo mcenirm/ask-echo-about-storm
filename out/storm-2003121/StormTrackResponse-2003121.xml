@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2003121" name="LARRY" pnumber="200312" hnumber="200312" from="2003-09-27 18:00:00" thru="2003-10-07 18:00:00" minlat="15.8" maxlat="21.4" minlon="-95.3" maxlon="-84.7" maxwind="55" minpress="993" maxcat="TS" basin="AT">
+  <Track date="2003-09-27T18:00:00" category="LP" latitude="18.5" longitude="-84.7" windspeed="15" pressure="1009"/>
+  <Track date="2003-09-28T00:00:00" category="LP" latitude="18.7" longitude="-84.9" windspeed="15" pressure="1009"/>
+  <Track date="2003-09-28T06:00:00" category="LP" latitude="19.0" longitude="-85.3" windspeed="20" pressure="1008"/>
+  <Track date="2003-09-28T12:00:00" category="LP" latitude="19.3" longitude="-86.0" windspeed="20" pressure="1008"/>
+  <Track date="2003-09-28T18:00:00" category="LP" latitude="19.7" longitude="-86.9" windspeed="20" pressure="1008"/>
+  <Track date="2003-09-29T00:00:00" category="LP" latitude="20.0" longitude="-87.5" windspeed="20" pressure="1007"/>
+  <Track date="2003-09-29T06:00:00" category="LP" latitude="20.3" longitude="-88.2" windspeed="20" pressure="1007"/>
+  <Track date="2003-09-29T12:00:00" category="LP" latitude="20.6" longitude="-88.9" windspeed="20" pressure="1007"/>
+  <Track date="2003-09-29T18:00:00" category="LP" latitude="21.0" longitude="-89.6" windspeed="20" pressure="1007"/>
+  <Track date="2003-09-30T00:00:00" category="ED" latitude="21.2" longitude="-90.5" windspeed="25" pressure="1007"/>
+  <Track date="2003-09-30T06:00:00" category="ED" latitude="21.4" longitude="-91.5" windspeed="25" pressure="1007"/>
+  <Track date="2003-09-30T12:00:00" category="ED" latitude="21.3" longitude="-92.1" windspeed="30" pressure="1007"/>
+  <Track date="2003-09-30T18:00:00" category="ES" latitude="21.2" longitude="-92.5" windspeed="35" pressure="1006"/>
+  <Track date="2003-10-01T00:00:00" category="ES" latitude="20.9" longitude="-92.9" windspeed="40" pressure="1006"/>
+  <Track date="2003-10-01T06:00:00" category="ES" latitude="20.9" longitude="-92.9" windspeed="40" pressure="1005"/>
+  <Track date="2003-10-01T12:00:00" category="ES" latitude="21.0" longitude="-93.0" windspeed="40" pressure="1004"/>
+  <Track date="2003-10-01T18:00:00" category="TS" latitude="21.0" longitude="-93.2" windspeed="45" pressure="1003"/>
+  <Track date="2003-10-02T00:00:00" category="TS" latitude="20.9" longitude="-93.4" windspeed="45" pressure="1002"/>
+  <Track date="2003-10-02T06:00:00" category="TS" latitude="20.7" longitude="-93.4" windspeed="45" pressure="1000"/>
+  <Track date="2003-10-02T12:00:00" category="TS" latitude="20.5" longitude="-93.4" windspeed="45" pressure="998"/>
+  <Track date="2003-10-02T18:00:00" category="TS" latitude="20.4" longitude="-93.6" windspeed="50" pressure="996"/>
+  <Track date="2003-10-03T00:00:00" category="TS" latitude="20.5" longitude="-94.0" windspeed="55" pressure="993"/>
+  <Track date="2003-10-03T06:00:00" category="TS" latitude="20.3" longitude="-94.3" windspeed="50" pressure="994"/>
+  <Track date="2003-10-03T12:00:00" category="TS" latitude="20.1" longitude="-94.5" windspeed="50" pressure="994"/>
+  <Track date="2003-10-03T18:00:00" category="TS" latitude="19.9" longitude="-94.7" windspeed="50" pressure="995"/>
+  <Track date="2003-10-04T00:00:00" category="TS" latitude="19.6" longitude="-94.5" windspeed="50" pressure="995"/>
+  <Track date="2003-10-04T06:00:00" category="TS" latitude="19.5" longitude="-94.0" windspeed="50" pressure="994"/>
+  <Track date="2003-10-04T12:00:00" category="TS" latitude="19.3" longitude="-93.8" windspeed="50" pressure="994"/>
+  <Track date="2003-10-04T18:00:00" category="TS" latitude="18.8" longitude="-93.8" windspeed="50" pressure="996"/>
+  <Track date="2003-10-05T00:00:00" category="TS" latitude="18.6" longitude="-93.6" windspeed="50" pressure="996"/>
+  <Track date="2003-10-05T06:00:00" category="TS" latitude="18.5" longitude="-93.5" windspeed="50" pressure="996"/>
+  <Track date="2003-10-05T12:00:00" category="TS" latitude="18.4" longitude="-93.5" windspeed="50" pressure="997"/>
+  <Track date="2003-10-05T18:00:00" category="TS" latitude="18.2" longitude="-93.7" windspeed="40" pressure="1000"/>
+  <Track date="2003-10-06T00:00:00" category="TS" latitude="17.9" longitude="-93.8" windspeed="35" pressure="1003"/>
+  <Track date="2003-10-06T06:00:00" category="TD" latitude="17.5" longitude="-93.9" windspeed="25" pressure="1005"/>
+  <Track date="2003-10-06T12:00:00" category="LP" latitude="17.2" longitude="-94.1" windspeed="20" pressure="1006"/>
+  <Track date="2003-10-06T18:00:00" category="LP" latitude="16.9" longitude="-94.3" windspeed="20" pressure="1006"/>
+  <Track date="2003-10-07T00:00:00" category="LP" latitude="16.6" longitude="-94.5" windspeed="15" pressure="1007"/>
+  <Track date="2003-10-07T06:00:00" category="LP" latitude="16.3" longitude="-94.7" windspeed="15" pressure="1007"/>
+  <Track date="2003-10-07T12:00:00" category="LP" latitude="16.0" longitude="-95.0" windspeed="15" pressure="1008"/>
+  <Track date="2003-10-07T18:00:00" category="LP" latitude="15.8" longitude="-95.3" windspeed="15" pressure="1009"/>
+</StormTrackResponse>

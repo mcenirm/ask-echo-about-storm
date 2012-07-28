@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2003081" name="HENRI" pnumber="200308" hnumber="200308" from="2003-09-03 18:00:00" thru="2003-09-08 18:00:00" minlat="27.4" maxlat="32.9" minlon="-87.8" maxlon="-75.3" maxwind="50" minpress="997" maxcat="TS" basin="AT">
+  <Track date="2003-09-03T18:00:00" category="TD" latitude="27.4" longitude="-87.7" windspeed="25" pressure="1013"/>
+  <Track date="2003-09-04T00:00:00" category="TD" latitude="27.6" longitude="-87.8" windspeed="25" pressure="1011"/>
+  <Track date="2003-09-04T06:00:00" category="TD" latitude="27.8" longitude="-87.6" windspeed="25" pressure="1009"/>
+  <Track date="2003-09-04T12:00:00" category="TD" latitude="27.8" longitude="-87.2" windspeed="30" pressure="1010"/>
+  <Track date="2003-09-04T18:00:00" category="TD" latitude="27.8" longitude="-86.3" windspeed="30" pressure="1002"/>
+  <Track date="2003-09-05T00:00:00" category="TD" latitude="27.6" longitude="-85.8" windspeed="30" pressure="1004"/>
+  <Track date="2003-09-05T06:00:00" category="TS" latitude="27.7" longitude="-85.1" windspeed="35" pressure="1000"/>
+  <Track date="2003-09-05T12:00:00" category="TS" latitude="28.1" longitude="-84.4" windspeed="40" pressure="997"/>
+  <Track date="2003-09-05T18:00:00" category="TS" latitude="28.3" longitude="-84.2" windspeed="50" pressure="997"/>
+  <Track date="2003-09-06T00:00:00" category="TD" latitude="27.9" longitude="-83.9" windspeed="30" pressure="1002"/>
+  <Track date="2003-09-06T06:00:00" category="TD" latitude="27.7" longitude="-83.5" windspeed="30" pressure="1005"/>
+  <Track date="2003-09-06T12:00:00" category="TD" latitude="28.4" longitude="-81.8" windspeed="25" pressure="1007"/>
+  <Track date="2003-09-06T18:00:00" category="TD" latitude="29.2" longitude="-80.4" windspeed="25" pressure="1006"/>
+  <Track date="2003-09-07T00:00:00" category="TD" latitude="30.0" longitude="-79.5" windspeed="30" pressure="1006"/>
+  <Track date="2003-09-07T06:00:00" category="TD" latitude="30.5" longitude="-79.2" windspeed="30" pressure="1008"/>
+  <Track date="2003-09-07T12:00:00" category="TD" latitude="30.8" longitude="-78.5" windspeed="30" pressure="1006"/>
+  <Track date="2003-09-07T18:00:00" category="TD" latitude="31.3" longitude="-77.9" windspeed="30" pressure="1006"/>
+  <Track date="2003-09-08T00:00:00" category="TD" latitude="31.7" longitude="-77.1" windspeed="30" pressure="1006"/>
+  <Track date="2003-09-08T06:00:00" category="TD" latitude="32.1" longitude="-76.5" windspeed="30" pressure="1007"/>
+  <Track date="2003-09-08T12:00:00" category="TD" latitude="32.5" longitude="-75.9" windspeed="30" pressure="1006"/>
+  <Track date="2003-09-08T18:00:00" category="ED" latitude="32.9" longitude="-75.3" windspeed="25" pressure="1006"/>
+</StormTrackResponse>

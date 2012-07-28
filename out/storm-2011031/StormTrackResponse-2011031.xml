@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011031" name="CINDY" pnumber="201103" hnumber="201103" from="2011-07-20 18:00:00" thru="2011-07-23 00:00:00" minlat="34.5" maxlat="48.3" minlon="-54.7" maxlon="-32.9" maxwind="50" minpress="1000" maxcat="TS" basin="AT">
+  <Track date="2011-07-20T18:00:00" category="TD" latitude="34.5" longitude="-54.7" windspeed="30" pressure="1009"/>
+  <Track date="2011-07-21T00:00:00" category="TS" latitude="35.7" longitude="-52.6" windspeed="45" pressure="1004"/>
+  <Track date="2011-07-21T06:00:00" category="TS" latitude="37.5" longitude="-50.1" windspeed="50" pressure="1002"/>
+  <Track date="2011-07-21T12:00:00" category="TS" latitude="39.4" longitude="-48.4" windspeed="50" pressure="1002"/>
+  <Track date="2011-07-21T18:00:00" category="TS" latitude="41.4" longitude="-46.2" windspeed="50" pressure="1002"/>
+  <Track date="2011-07-22T00:00:00" category="TS" latitude="42.6" longitude="-43.8" windspeed="45" pressure="1000"/>
+  <Track date="2011-07-22T06:00:00" category="TS" latitude="43.7" longitude="-41.2" windspeed="45" pressure="1000"/>
+  <Track date="2011-07-22T12:00:00" category="TS" latitude="45.0" longitude="-38.6" windspeed="45" pressure="1000"/>
+  <Track date="2011-07-22T18:00:00" category="TS" latitude="46.7" longitude="-35.6" windspeed="40" pressure="1003"/>
+  <Track date="2011-07-23T00:00:00" category="LP" latitude="48.3" longitude="-32.9" windspeed="35" pressure="1005"/>
+</StormTrackResponse>

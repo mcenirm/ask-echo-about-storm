@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2002152" name="HUKO" pnumber="200215" hnumber="200215" from="2002-10-24 06:00:00" thru="2002-11-03 06:00:00" minlat="9.1" maxlat="15.7" minlon="-179.1" maxlon="-154.2" maxwind="75" minpress="980" maxcat="H1" basin="EP">
+  <Track date="2002-10-24T06:00:00" category="TD" latitude="9.1" longitude="-154.2" windspeed="20" pressure="1009"/>
+  <Track date="2002-10-24T12:00:00" category="TD" latitude="9.3" longitude="-154.3" windspeed="25" pressure="1008"/>
+  <Track date="2002-10-24T18:00:00" category="TD" latitude="9.5" longitude="-154.3" windspeed="25" pressure="1007"/>
+  <Track date="2002-10-25T00:00:00" category="TD" latitude="9.8" longitude="-154.3" windspeed="25" pressure="1007"/>
+  <Track date="2002-10-25T06:00:00" category="TD" latitude="10.0" longitude="-154.2" windspeed="25" pressure="1007"/>
+  <Track date="2002-10-25T12:00:00" category="TD" latitude="10.3" longitude="-154.2" windspeed="25" pressure="1006"/>
+  <Track date="2002-10-25T18:00:00" category="TD" latitude="10.6" longitude="-154.6" windspeed="30" pressure="1005"/>
+  <Track date="2002-10-26T00:00:00" category="TS" latitude="10.8" longitude="-154.9" windspeed="35" pressure="1004"/>
+  <Track date="2002-10-26T06:00:00" category="TS" latitude="11.4" longitude="-155.1" windspeed="35" pressure="1005"/>
+  <Track date="2002-10-26T12:00:00" category="TS" latitude="11.4" longitude="-155.7" windspeed="40" pressure="1009"/>
+  <Track date="2002-10-26T18:00:00" category="TS" latitude="11.5" longitude="-156.3" windspeed="45" pressure="1006"/>
+  <Track date="2002-10-27T00:00:00" category="TS" latitude="11.5" longitude="-156.8" windspeed="45" pressure="1000"/>
+  <Track date="2002-10-27T06:00:00" category="TS" latitude="11.7" longitude="-157.6" windspeed="50" pressure="997"/>
+  <Track date="2002-10-27T12:00:00" category="TS" latitude="11.4" longitude="-157.7" windspeed="55" pressure="994"/>
+  <Track date="2002-10-27T18:00:00" category="TS" latitude="12.2" longitude="-158.1" windspeed="55" pressure="994"/>
+  <Track date="2002-10-28T00:00:00" category="TS" latitude="12.3" longitude="-158.5" windspeed="55" pressure="994"/>
+  <Track date="2002-10-28T06:00:00" category="TS" latitude="12.5" longitude="-158.8" windspeed="55" pressure="994"/>
+  <Track date="2002-10-28T12:00:00" category="TS" latitude="12.7" longitude="-159.0" windspeed="60" pressure="993"/>
+  <Track date="2002-10-28T18:00:00" category="H1" latitude="12.8" longitude="-160.0" windspeed="65" pressure="987"/>
+  <Track date="2002-10-29T00:00:00" category="H1" latitude="12.8" longitude="-160.0" windspeed="65" pressure="987"/>
+  <Track date="2002-10-29T06:00:00" category="H1" latitude="12.9" longitude="-160.4" windspeed="65" pressure="987"/>
+  <Track date="2002-10-29T12:00:00" category="H1" latitude="13.2" longitude="-160.5" windspeed="65" pressure="987"/>
+  <Track date="2002-10-29T18:00:00" category="H1" latitude="13.6" longitude="-160.4" windspeed="65" pressure="987"/>
+  <Track date="2002-10-30T00:00:00" category="TS" latitude="14.0" longitude="-161.3" windspeed="55" pressure="994"/>
+  <Track date="2002-10-30T06:00:00" category="TS" latitude="14.0" longitude="-162.6" windspeed="55" pressure="996"/>
+  <Track date="2002-10-30T12:00:00" category="TS" latitude="13.8" longitude="-163.4" windspeed="50" pressure="998"/>
+  <Track date="2002-10-30T18:00:00" category="TS" latitude="13.7" longitude="-164.3" windspeed="55" pressure="998"/>
+  <Track date="2002-10-31T00:00:00" category="TS" latitude="13.9" longitude="-165.3" windspeed="60" pressure="998"/>
+  <Track date="2002-10-31T06:00:00" category="H1" latitude="13.8" longitude="-166.2" windspeed="65" pressure="987"/>
+  <Track date="2002-10-31T12:00:00" category="H1" latitude="13.7" longitude="-166.9" windspeed="65" pressure="987"/>
+  <Track date="2002-10-31T18:00:00" category="H1" latitude="13.5" longitude="-168.1" windspeed="65" pressure="987"/>
+  <Track date="2002-11-01T00:00:00" category="H1" latitude="13.4" longitude="-169.2" windspeed="65" pressure="990"/>
+  <Track date="2002-11-01T06:00:00" category="H1" latitude="13.7" longitude="-170.3" windspeed="65" pressure="987"/>
+  <Track date="2002-11-01T12:00:00" category="H1" latitude="14.1" longitude="-171.4" windspeed="75" pressure="981"/>
+  <Track date="2002-11-01T18:00:00" category="H1" latitude="14.6" longitude="-172.0" windspeed="75" pressure="980"/>
+  <Track date="2002-11-02T00:00:00" category="H1" latitude="14.7" longitude="-172.6" windspeed="75" pressure="981"/>
+  <Track date="2002-11-02T06:00:00" category="H1" latitude="14.7" longitude="-173.5" windspeed="75" pressure="980"/>
+  <Track date="2002-11-02T12:00:00" category="H1" latitude="14.8" longitude="-174.2" windspeed="75" pressure="980"/>
+  <Track date="2002-11-02T18:00:00" category="H1" latitude="15.0" longitude="-175.2" windspeed="75" pressure="981"/>
+  <Track date="2002-11-03T00:00:00" category="H1" latitude="15.4" longitude="-176.6" windspeed="75" pressure="981"/>
+  <Track date="2002-11-03T06:00:00" category="H1" latitude="15.7" longitude="-179.1" windspeed="75" pressure="981"/>
+</StormTrackResponse>

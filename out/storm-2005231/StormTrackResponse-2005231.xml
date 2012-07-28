@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2005231" name="ALPHA" pnumber="200522" hnumber="200523" from="2005-10-22 12:00:00" thru="2005-10-24 18:00:00" minlat="15.8" maxlat="27.9" minlon="-73.0" maxlon="-67.5" maxwind="45" minpress="998" maxcat="TS" basin="AT">
+  <Track date="2005-10-22T12:00:00" category="TD" latitude="15.8" longitude="-67.5" windspeed="30" pressure="1007"/>
+  <Track date="2005-10-22T18:00:00" category="TS" latitude="16.5" longitude="-68.5" windspeed="35" pressure="1005"/>
+  <Track date="2005-10-23T00:00:00" category="TS" latitude="17.3" longitude="-69.6" windspeed="45" pressure="1000"/>
+  <Track date="2005-10-23T06:00:00" category="TS" latitude="17.8" longitude="-70.5" windspeed="45" pressure="998"/>
+  <Track date="2005-10-23T12:00:00" category="TS" latitude="18.6" longitude="-72.2" windspeed="35" pressure="1002"/>
+  <Track date="2005-10-23T18:00:00" category="TD" latitude="19.8" longitude="-72.7" windspeed="30" pressure="1004"/>
+  <Track date="2005-10-24T00:00:00" category="TD" latitude="21.6" longitude="-72.9" windspeed="30" pressure="1004"/>
+  <Track date="2005-10-24T06:00:00" category="TD" latitude="23.5" longitude="-73.0" windspeed="30" pressure="1004"/>
+  <Track date="2005-10-24T12:00:00" category="TD" latitude="25.1" longitude="-72.4" windspeed="30" pressure="1004"/>
+  <Track date="2005-10-24T18:00:00" category="TD" latitude="27.9" longitude="-70.8" windspeed="30" pressure="1004"/>
+</StormTrackResponse>

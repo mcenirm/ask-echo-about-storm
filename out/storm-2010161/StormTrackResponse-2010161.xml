@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2010161" name="PAULA" pnumber="201016" hnumber="201016" from="2010-10-11 00:00:00" thru="2010-10-15 18:00:00" minlat="13.9" maxlat="23.0" minlon="-86.0" maxlon="-79.1" maxwind="90" minpress="981" maxcat="H2" basin="AT">
+  <Track date="2010-10-11T00:00:00" category="TD" latitude="13.9" longitude="-81.8" windspeed="30" pressure="1006"/>
+  <Track date="2010-10-11T06:00:00" category="TS" latitude="14.4" longitude="-82.5" windspeed="35" pressure="1005"/>
+  <Track date="2010-10-11T12:00:00" category="TS" latitude="15.0" longitude="-83.2" windspeed="45" pressure="1004"/>
+  <Track date="2010-10-11T18:00:00" category="TS" latitude="15.7" longitude="-83.8" windspeed="60" pressure="1001"/>
+  <Track date="2010-10-12T00:00:00" category="H1" latitude="16.5" longitude="-84.4" windspeed="65" pressure="996"/>
+  <Track date="2010-10-12T06:00:00" category="H1" latitude="17.3" longitude="-85.0" windspeed="65" pressure="991"/>
+  <Track date="2010-10-12T12:00:00" category="H1" latitude="18.1" longitude="-85.6" windspeed="75" pressure="986"/>
+  <Track date="2010-10-12T18:00:00" category="H2" latitude="18.8" longitude="-85.9" windspeed="90" pressure="981"/>
+  <Track date="2010-10-13T00:00:00" category="H2" latitude="19.6" longitude="-86.0" windspeed="90" pressure="981"/>
+  <Track date="2010-10-13T06:00:00" category="H2" latitude="20.3" longitude="-86.0" windspeed="85" pressure="984"/>
+  <Track date="2010-10-13T12:00:00" category="H2" latitude="20.9" longitude="-85.9" windspeed="85" pressure="987"/>
+  <Track date="2010-10-13T18:00:00" category="H1" latitude="21.4" longitude="-85.8" windspeed="75" pressure="990"/>
+  <Track date="2010-10-14T00:00:00" category="H1" latitude="21.8" longitude="-85.6" windspeed="75" pressure="993"/>
+  <Track date="2010-10-14T06:00:00" category="H1" latitude="22.2" longitude="-85.2" windspeed="70" pressure="995"/>
+  <Track date="2010-10-14T12:00:00" category="TS" latitude="22.6" longitude="-84.5" windspeed="60" pressure="999"/>
+  <Track date="2010-10-14T18:00:00" category="TS" latitude="22.8" longitude="-83.5" windspeed="50" pressure="1001"/>
+  <Track date="2010-10-15T00:00:00" category="TS" latitude="22.9" longitude="-82.0" windspeed="40" pressure="1004"/>
+  <Track date="2010-10-15T06:00:00" category="TD" latitude="22.9" longitude="-80.9" windspeed="30" pressure="1008"/>
+  <Track date="2010-10-15T12:00:00" category="LP" latitude="22.9" longitude="-79.9" windspeed="25" pressure="1009"/>
+  <Track date="2010-10-15T18:00:00" category="LP" latitude="23.0" longitude="-79.1" windspeed="20" pressure="1009"/>
+</StormTrackResponse>

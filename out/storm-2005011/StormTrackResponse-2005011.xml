@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2005011" name="ARLENE" pnumber="200501" hnumber="200501" from="2005-06-08 18:00:00" thru="2005-06-14 06:00:00" minlat="16.9" maxlat="44.8" minlon="-88.0" maxlon="-77.6" maxwind="60" minpress="990" maxcat="TS" basin="AT">
+  <Track date="2005-06-08T18:00:00" category="TD" latitude="16.9" longitude="-84.0" windspeed="25" pressure="1004"/>
+  <Track date="2005-06-09T00:00:00" category="TD" latitude="17.4" longitude="-83.9" windspeed="30" pressure="1003"/>
+  <Track date="2005-06-09T06:00:00" category="TS" latitude="18.2" longitude="-83.9" windspeed="35" pressure="1003"/>
+  <Track date="2005-06-09T12:00:00" category="TS" latitude="19.0" longitude="-84.0" windspeed="35" pressure="1002"/>
+  <Track date="2005-06-09T18:00:00" category="TS" latitude="19.7" longitude="-84.1" windspeed="35" pressure="1002"/>
+  <Track date="2005-06-10T00:00:00" category="TS" latitude="20.4" longitude="-84.2" windspeed="40" pressure="1001"/>
+  <Track date="2005-06-10T06:00:00" category="TS" latitude="21.2" longitude="-84.4" windspeed="45" pressure="1000"/>
+  <Track date="2005-06-10T12:00:00" category="TS" latitude="23.0" longitude="-84.7" windspeed="50" pressure="1000"/>
+  <Track date="2005-06-10T18:00:00" category="TS" latitude="24.9" longitude="-85.1" windspeed="55" pressure="995"/>
+  <Track date="2005-06-11T00:00:00" category="TS" latitude="26.5" longitude="-85.6" windspeed="60" pressure="990"/>
+  <Track date="2005-06-11T06:00:00" category="TS" latitude="27.7" longitude="-86.8" windspeed="60" pressure="993"/>
+  <Track date="2005-06-11T12:00:00" category="TS" latitude="28.9" longitude="-87.2" windspeed="55" pressure="990"/>
+  <Track date="2005-06-11T18:00:00" category="TS" latitude="30.1" longitude="-87.5" windspeed="50" pressure="991"/>
+  <Track date="2005-06-12T00:00:00" category="TD" latitude="31.4" longitude="-87.6" windspeed="30" pressure="994"/>
+  <Track date="2005-06-12T06:00:00" category="TD" latitude="32.7" longitude="-87.7" windspeed="25" pressure="998"/>
+  <Track date="2005-06-12T12:00:00" category="TD" latitude="35.0" longitude="-88.0" windspeed="20" pressure="1003"/>
+  <Track date="2005-06-12T18:00:00" category="TD" latitude="37.0" longitude="-87.8" windspeed="20" pressure="1005"/>
+  <Track date="2005-06-13T00:00:00" category="TD" latitude="38.5" longitude="-87.5" windspeed="20" pressure="1006"/>
+  <Track date="2005-06-13T06:00:00" category="TD" latitude="40.5" longitude="-86.0" windspeed="20" pressure="1006"/>
+  <Track date="2005-06-13T12:00:00" category="LP" latitude="42.0" longitude="-85.0" windspeed="20" pressure="1005"/>
+  <Track date="2005-06-13T18:00:00" category="ED" latitude="43.0" longitude="-84.0" windspeed="20" pressure="1005"/>
+  <Track date="2005-06-14T00:00:00" category="ED" latitude="43.7" longitude="-81.1" windspeed="20" pressure="1003"/>
+  <Track date="2005-06-14T06:00:00" category="ED" latitude="44.8" longitude="-77.6" windspeed="20" pressure="1001"/>
+</StormTrackResponse>

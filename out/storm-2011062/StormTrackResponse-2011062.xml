@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011062" name="FERNANDA" pnumber="201106" hnumber="201106" from="2011-08-12 12:00:00" thru="2011-08-19 18:00:00" minlat="11.6" maxlat="15.4" minlon="-145.3" maxlon="-119.4" maxwind="55" minpress="994" maxcat="TS" basin="EP">
+  <Track date="2011-08-12T12:00:00" category="LP" latitude="13.3" longitude="-119.4" windspeed="25" pressure="1009"/>
+  <Track date="2011-08-12T18:00:00" category="LP" latitude="12.9" longitude="-120.1" windspeed="25" pressure="1009"/>
+  <Track date="2011-08-13T00:00:00" category="LP" latitude="12.5" longitude="-120.8" windspeed="25" pressure="1008"/>
+  <Track date="2011-08-13T06:00:00" category="LP" latitude="12.5" longitude="-121.4" windspeed="25" pressure="1008"/>
+  <Track date="2011-08-13T12:00:00" category="LP" latitude="12.3" longitude="-122.3" windspeed="25" pressure="1008"/>
+  <Track date="2011-08-13T18:00:00" category="LP" latitude="12.3" longitude="-123.1" windspeed="25" pressure="1008"/>
+  <Track date="2011-08-14T00:00:00" category="LP" latitude="12.3" longitude="-123.8" windspeed="25" pressure="1008"/>
+  <Track date="2011-08-14T06:00:00" category="LP" latitude="12.3" longitude="-125.0" windspeed="25" pressure="1008"/>
+  <Track date="2011-08-14T12:00:00" category="LP" latitude="12.3" longitude="-126.5" windspeed="25" pressure="1008"/>
+  <Track date="2011-08-14T18:00:00" category="LP" latitude="12.3" longitude="-127.8" windspeed="25" pressure="1008"/>
+  <Track date="2011-08-15T00:00:00" category="LP" latitude="12.4" longitude="-128.9" windspeed="25" pressure="1008"/>
+  <Track date="2011-08-15T06:00:00" category="LP" latitude="12.3" longitude="-130.1" windspeed="25" pressure="1008"/>
+  <Track date="2011-08-15T12:00:00" category="LP" latitude="12.1" longitude="-131.1" windspeed="30" pressure="1007"/>
+  <Track date="2011-08-15T18:00:00" category="LP" latitude="12.1" longitude="-131.8" windspeed="30" pressure="1007"/>
+  <Track date="2011-08-16T00:00:00" category="TD" latitude="12.2" longitude="-132.6" windspeed="30" pressure="1007"/>
+  <Track date="2011-08-16T06:00:00" category="TS" latitude="12.2" longitude="-133.4" windspeed="35" pressure="1005"/>
+  <Track date="2011-08-16T12:00:00" category="TS" latitude="11.9" longitude="-134.2" windspeed="40" pressure="1004"/>
+  <Track date="2011-08-16T18:00:00" category="TS" latitude="11.6" longitude="-135.1" windspeed="45" pressure="1001"/>
+  <Track date="2011-08-17T00:00:00" category="TS" latitude="11.6" longitude="-135.9" windspeed="45" pressure="1000"/>
+  <Track date="2011-08-17T06:00:00" category="TS" latitude="11.6" longitude="-136.6" windspeed="45" pressure="1000"/>
+  <Track date="2011-08-17T12:00:00" category="TS" latitude="11.8" longitude="-137.4" windspeed="45" pressure="1001"/>
+  <Track date="2011-08-17T18:00:00" category="TS" latitude="12.1" longitude="-138.1" windspeed="45" pressure="1001"/>
+  <Track date="2011-08-18T00:00:00" category="TS" latitude="12.4" longitude="-138.8" windspeed="50" pressure="997"/>
+  <Track date="2011-08-18T06:00:00" category="TS" latitude="12.9" longitude="-139.5" windspeed="55" pressure="994"/>
+  <Track date="2011-08-18T12:00:00" category="TS" latitude="13.5" longitude="-140.4" windspeed="55" pressure="994"/>
+  <Track date="2011-08-18T18:00:00" category="TS" latitude="14.1" longitude="-141.4" windspeed="55" pressure="994"/>
+  <Track date="2011-08-19T00:00:00" category="TS" latitude="14.6" longitude="-142.2" windspeed="55" pressure="994"/>
+  <Track date="2011-08-19T06:00:00" category="TS" latitude="14.8" longitude="-143.2" windspeed="45" pressure="997"/>
+  <Track date="2011-08-19T12:00:00" category="TS" latitude="15.0" longitude="-144.1" windspeed="35" pressure="1002"/>
+  <Track date="2011-08-19T18:00:00" category="TD" latitude="15.4" longitude="-145.3" windspeed="30" pressure="1005"/>
+</StormTrackResponse>

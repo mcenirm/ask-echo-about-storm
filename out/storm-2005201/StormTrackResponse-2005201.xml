@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2005201" name="TAMMY" pnumber="200519" hnumber="200520" from="2005-10-05 06:00:00" thru="2005-10-07 00:00:00" minlat="27.3" maxlat="31.8" minlon="-85.8" maxlon="-79.7" maxwind="45" minpress="1001" maxcat="TS" basin="AT">
+  <Track date="2005-10-05T06:00:00" category="TS" latitude="27.3" longitude="-79.7" windspeed="35" pressure="1006"/>
+  <Track date="2005-10-05T12:00:00" category="TS" latitude="28.3" longitude="-80.2" windspeed="40" pressure="1004"/>
+  <Track date="2005-10-05T18:00:00" category="TS" latitude="29.5" longitude="-80.9" windspeed="45" pressure="1001"/>
+  <Track date="2005-10-06T00:00:00" category="TS" latitude="30.5" longitude="-81.6" windspeed="45" pressure="1002"/>
+  <Track date="2005-10-06T06:00:00" category="TS" latitude="31.3" longitude="-82.8" windspeed="35" pressure="1005"/>
+  <Track date="2005-10-06T12:00:00" category="TD" latitude="31.8" longitude="-84.6" windspeed="25" pressure="1005"/>
+  <Track date="2005-10-06T18:00:00" category="TD" latitude="31.2" longitude="-85.8" windspeed="15" pressure="1006"/>
+  <Track date="2005-10-07T00:00:00" category="LP" latitude="30.3" longitude="-85.6" windspeed="10" pressure="1005"/>
+</StormTrackResponse>

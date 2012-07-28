@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2001052" name="DALILA" pnumber="200105" hnumber="200105" from="2001-07-21 00:00:00" thru="2001-07-28 12:00:00" minlat="11.3" maxlat="22.4" minlon="-121.1" maxlon="-93.8" maxwind="65" minpress="987" maxcat="H1" basin="EP">
+  <Track date="2001-07-21T00:00:00" category="TD" latitude="11.3" longitude="-93.8" windspeed="30" pressure="1007"/>
+  <Track date="2001-07-21T06:00:00" category="TD" latitude="11.9" longitude="-94.9" windspeed="30" pressure="1006"/>
+  <Track date="2001-07-21T12:00:00" category="TS" latitude="12.4" longitude="-96.0" windspeed="35" pressure="1004"/>
+  <Track date="2001-07-21T18:00:00" category="TS" latitude="13.0" longitude="-97.0" windspeed="40" pressure="1001"/>
+  <Track date="2001-07-22T00:00:00" category="TS" latitude="13.6" longitude="-98.2" windspeed="50" pressure="997"/>
+  <Track date="2001-07-22T06:00:00" category="TS" latitude="14.2" longitude="-99.4" windspeed="55" pressure="994"/>
+  <Track date="2001-07-22T12:00:00" category="TS" latitude="14.8" longitude="-100.7" windspeed="55" pressure="994"/>
+  <Track date="2001-07-22T18:00:00" category="TS" latitude="15.5" longitude="-102.1" windspeed="55" pressure="994"/>
+  <Track date="2001-07-23T00:00:00" category="TS" latitude="16.1" longitude="-103.4" windspeed="55" pressure="994"/>
+  <Track date="2001-07-23T06:00:00" category="TS" latitude="16.7" longitude="-104.5" windspeed="55" pressure="994"/>
+  <Track date="2001-07-23T12:00:00" category="TS" latitude="17.2" longitude="-105.6" windspeed="55" pressure="994"/>
+  <Track date="2001-07-23T18:00:00" category="TS" latitude="17.5" longitude="-106.4" windspeed="55" pressure="994"/>
+  <Track date="2001-07-24T00:00:00" category="TS" latitude="17.7" longitude="-107.3" windspeed="60" pressure="990"/>
+  <Track date="2001-07-24T06:00:00" category="TS" latitude="18.0" longitude="-108.1" windspeed="60" pressure="988"/>
+  <Track date="2001-07-24T12:00:00" category="H1" latitude="18.2" longitude="-109.0" windspeed="65" pressure="987"/>
+  <Track date="2001-07-24T18:00:00" category="TS" latitude="18.4" longitude="-109.8" windspeed="60" pressure="988"/>
+  <Track date="2001-07-25T00:00:00" category="TS" latitude="18.6" longitude="-110.5" windspeed="60" pressure="989"/>
+  <Track date="2001-07-25T06:00:00" category="TS" latitude="18.8" longitude="-111.1" windspeed="55" pressure="990"/>
+  <Track date="2001-07-25T12:00:00" category="TS" latitude="19.0" longitude="-111.6" windspeed="55" pressure="990"/>
+  <Track date="2001-07-25T18:00:00" category="TS" latitude="19.1" longitude="-112.2" windspeed="55" pressure="990"/>
+  <Track date="2001-07-26T00:00:00" category="TS" latitude="19.3" longitude="-112.8" windspeed="55" pressure="990"/>
+  <Track date="2001-07-26T06:00:00" category="TS" latitude="19.5" longitude="-113.4" windspeed="55" pressure="990"/>
+  <Track date="2001-07-26T12:00:00" category="TS" latitude="19.7" longitude="-114.0" windspeed="55" pressure="990"/>
+  <Track date="2001-07-26T18:00:00" category="TS" latitude="19.9" longitude="-114.7" windspeed="55" pressure="990"/>
+  <Track date="2001-07-27T00:00:00" category="TS" latitude="20.1" longitude="-115.5" windspeed="55" pressure="990"/>
+  <Track date="2001-07-27T06:00:00" category="TS" latitude="20.4" longitude="-116.3" windspeed="50" pressure="992"/>
+  <Track date="2001-07-27T12:00:00" category="TS" latitude="20.7" longitude="-117.1" windspeed="45" pressure="994"/>
+  <Track date="2001-07-27T18:00:00" category="TS" latitude="21.1" longitude="-117.9" windspeed="40" pressure="996"/>
+  <Track date="2001-07-28T00:00:00" category="TS" latitude="21.5" longitude="-118.9" windspeed="35" pressure="999"/>
+  <Track date="2001-07-28T06:00:00" category="TD" latitude="22.0" longitude="-119.9" windspeed="30" pressure="1003"/>
+  <Track date="2001-07-28T12:00:00" category="TD" latitude="22.4" longitude="-121.1" windspeed="25" pressure="1007"/>
+</StormTrackResponse>

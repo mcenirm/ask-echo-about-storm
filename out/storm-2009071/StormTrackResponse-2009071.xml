@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2009071" name="GRACE" pnumber="200907" hnumber="200907" from="2009-09-27 18:00:00" thru="2009-10-06 18:00:00" minlat="36.6" maxlat="50.8" minlon="-43.2" maxlon="-7.7" maxwind="55" minpress="986" maxcat="ES" basin="AT">
+  <Track date="2009-09-27T18:00:00" category="ES" latitude="46.0" longitude="-43.2" windspeed="55" pressure="995"/>
+  <Track date="2009-09-28T00:00:00" category="ES" latitude="45.3" longitude="-42.9" windspeed="50" pressure="994"/>
+  <Track date="2009-09-28T06:00:00" category="ES" latitude="44.7" longitude="-42.0" windspeed="45" pressure="992"/>
+  <Track date="2009-09-28T12:00:00" category="ES" latitude="44.0" longitude="-40.3" windspeed="45" pressure="992"/>
+  <Track date="2009-09-28T18:00:00" category="ES" latitude="43.8" longitude="-38.7" windspeed="40" pressure="994"/>
+  <Track date="2009-09-29T00:00:00" category="ES" latitude="43.6" longitude="-37.1" windspeed="40" pressure="996"/>
+  <Track date="2009-09-29T06:00:00" category="ES" latitude="43.4" longitude="-35.8" windspeed="35" pressure="998"/>
+  <Track date="2009-09-29T12:00:00" category="ES" latitude="42.9" longitude="-35.3" windspeed="35" pressure="1000"/>
+  <Track date="2009-09-29T18:00:00" category="ES" latitude="42.3" longitude="-35.2" windspeed="35" pressure="999"/>
+  <Track date="2009-09-30T00:00:00" category="ES" latitude="41.4" longitude="-35.4" windspeed="35" pressure="998"/>
+  <Track date="2009-09-30T06:00:00" category="ES" latitude="40.3" longitude="-35.3" windspeed="35" pressure="997"/>
+  <Track date="2009-09-30T12:00:00" category="ES" latitude="38.7" longitude="-34.6" windspeed="40" pressure="996"/>
+  <Track date="2009-09-30T18:00:00" category="ES" latitude="37.4" longitude="-33.2" windspeed="40" pressure="995"/>
+  <Track date="2009-10-01T00:00:00" category="ES" latitude="36.6" longitude="-31.5" windspeed="40" pressure="995"/>
+  <Track date="2009-10-01T06:00:00" category="ES" latitude="36.7" longitude="-29.7" windspeed="40" pressure="995"/>
+  <Track date="2009-10-01T12:00:00" category="ES" latitude="37.7" longitude="-28.7" windspeed="40" pressure="996"/>
+  <Track date="2009-10-01T18:00:00" category="ES" latitude="38.6" longitude="-28.5" windspeed="40" pressure="996"/>
+  <Track date="2009-10-02T00:00:00" category="ES" latitude="39.3" longitude="-28.8" windspeed="35" pressure="997"/>
+  <Track date="2009-10-02T06:00:00" category="ES" latitude="39.7" longitude="-29.4" windspeed="35" pressure="997"/>
+  <Track date="2009-10-02T12:00:00" category="ES" latitude="40.2" longitude="-30.0" windspeed="35" pressure="997"/>
+  <Track date="2009-10-02T18:00:00" category="ES" latitude="40.9" longitude="-30.4" windspeed="40" pressure="996"/>
+  <Track date="2009-10-03T00:00:00" category="ES" latitude="41.4" longitude="-31.0" windspeed="40" pressure="996"/>
+  <Track date="2009-10-03T06:00:00" category="ES" latitude="41.4" longitude="-31.9" windspeed="35" pressure="996"/>
+  <Track date="2009-10-03T12:00:00" category="ES" latitude="40.8" longitude="-32.5" windspeed="35" pressure="996"/>
+  <Track date="2009-10-03T18:00:00" category="LP" latitude="39.9" longitude="-32.3" windspeed="40" pressure="995"/>
+  <Track date="2009-10-04T00:00:00" category="LP" latitude="39.1" longitude="-31.3" windspeed="40" pressure="994"/>
+  <Track date="2009-10-04T06:00:00" category="TS" latitude="38.5" longitude="-29.5" windspeed="40" pressure="993"/>
+  <Track date="2009-10-04T12:00:00" category="TS" latitude="38.3" longitude="-26.8" windspeed="45" pressure="992"/>
+  <Track date="2009-10-04T18:00:00" category="TS" latitude="38.8" longitude="-23.9" windspeed="50" pressure="991"/>
+  <Track date="2009-10-05T00:00:00" category="TS" latitude="40.2" longitude="-21.3" windspeed="55" pressure="989"/>
+  <Track date="2009-10-05T06:00:00" category="TS" latitude="42.0" longitude="-19.0" windspeed="55" pressure="988"/>
+  <Track date="2009-10-05T12:00:00" category="TS" latitude="44.3" longitude="-17.1" windspeed="55" pressure="987"/>
+  <Track date="2009-10-05T18:00:00" category="TS" latitude="46.6" longitude="-15.5" windspeed="50" pressure="986"/>
+  <Track date="2009-10-06T00:00:00" category="TS" latitude="48.8" longitude="-14.3" windspeed="45" pressure="986"/>
+  <Track date="2009-10-06T06:00:00" category="ES" latitude="50.0" longitude="-12.7" windspeed="40" pressure="989"/>
+  <Track date="2009-10-06T12:00:00" category="ES" latitude="50.4" longitude="-10.6" windspeed="35" pressure="993"/>
+  <Track date="2009-10-06T18:00:00" category="ED" latitude="50.8" longitude="-7.7" windspeed="30" pressure="997"/>
+</StormTrackResponse>

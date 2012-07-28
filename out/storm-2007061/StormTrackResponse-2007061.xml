@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007061" name="FELIX" pnumber="200706" hnumber="200706" from="2007-08-31 12:00:00" thru="2007-09-06 18:00:00" minlat="11.5" maxlat="17.7" minlon="-93.8" maxlon="-56.6" maxwind="150" minpress="930" maxcat="H5" basin="AT">
+  <Track date="2007-08-31T12:00:00" category="TD" latitude="11.5" longitude="-56.6" windspeed="25" pressure="1009"/>
+  <Track date="2007-08-31T18:00:00" category="TD" latitude="11.5" longitude="-58.0" windspeed="30" pressure="1008"/>
+  <Track date="2007-09-01T00:00:00" category="TS" latitude="12.1" longitude="-59.4" windspeed="35" pressure="1007"/>
+  <Track date="2007-09-01T06:00:00" category="TS" latitude="12.1" longitude="-61.1" windspeed="40" pressure="1005"/>
+  <Track date="2007-09-01T12:00:00" category="TS" latitude="12.2" longitude="-62.8" windspeed="50" pressure="1001"/>
+  <Track date="2007-09-01T18:00:00" category="TS" latitude="12.4" longitude="-64.5" windspeed="60" pressure="999"/>
+  <Track date="2007-09-02T00:00:00" category="H1" latitude="12.6" longitude="-66.1" windspeed="65" pressure="992"/>
+  <Track date="2007-09-02T06:00:00" category="H2" latitude="12.7" longitude="-67.8" windspeed="85" pressure="985"/>
+  <Track date="2007-09-02T12:00:00" category="H2" latitude="13.0" longitude="-69.4" windspeed="90" pressure="980"/>
+  <Track date="2007-09-02T18:00:00" category="H4" latitude="13.4" longitude="-71.1" windspeed="115" pressure="962"/>
+  <Track date="2007-09-03T00:00:00" category="H5" latitude="13.8" longitude="-73.0" windspeed="150" pressure="935"/>
+  <Track date="2007-09-03T06:00:00" category="H5" latitude="14.0" longitude="-75.0" windspeed="150" pressure="930"/>
+  <Track date="2007-09-03T12:00:00" category="H5" latitude="14.2" longitude="-76.9" windspeed="140" pressure="937"/>
+  <Track date="2007-09-03T18:00:00" category="H4" latitude="14.3" longitude="-78.7" windspeed="115" pressure="951"/>
+  <Track date="2007-09-04T00:00:00" category="H4" latitude="14.4" longitude="-80.4" windspeed="115" pressure="950"/>
+  <Track date="2007-09-04T06:00:00" category="H4" latitude="14.3" longitude="-81.9" windspeed="135" pressure="939"/>
+  <Track date="2007-09-04T12:00:00" category="H5" latitude="14.3" longitude="-83.2" windspeed="140" pressure="934"/>
+  <Track date="2007-09-04T18:00:00" category="H2" latitude="14.3" longitude="-84.4" windspeed="85" pressure="962"/>
+  <Track date="2007-09-05T00:00:00" category="TS" latitude="14.6" longitude="-85.4" windspeed="50" pressure="982"/>
+  <Track date="2007-09-05T06:00:00" category="TD" latitude="15.0" longitude="-86.4" windspeed="25" pressure="1004"/>
+  <Track date="2007-09-05T12:00:00" category="LP" latitude="15.5" longitude="-87.3" windspeed="20" pressure="1006"/>
+  <Track date="2007-09-05T18:00:00" category="LP" latitude="16.1" longitude="-88.3" windspeed="20" pressure="1007"/>
+  <Track date="2007-09-06T00:00:00" category="LP" latitude="16.5" longitude="-89.5" windspeed="20" pressure="1007"/>
+  <Track date="2007-09-06T06:00:00" category="LP" latitude="16.7" longitude="-90.8" windspeed="20" pressure="1007"/>
+  <Track date="2007-09-06T12:00:00" category="LP" latitude="17.2" longitude="-92.4" windspeed="20" pressure="1007"/>
+  <Track date="2007-09-06T18:00:00" category="LP" latitude="17.7" longitude="-93.8" windspeed="15" pressure="1010"/>
+</StormTrackResponse>

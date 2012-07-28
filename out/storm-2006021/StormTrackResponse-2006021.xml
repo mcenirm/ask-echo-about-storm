@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2006021" name="UNNAMED" pnumber="200602" hnumber="200602" from="2006-07-16 12:00:00" thru="2006-07-19 12:00:00" minlat="37.2" maxlat="49.8" minlon="-68.7" maxlon="-46.1" maxwind="45" minpress="998" maxcat="TS" basin="AT">
+  <Track date="2006-07-16T12:00:00" category="ED" latitude="37.2" longitude="-68.7" windspeed="30" pressure="1009"/>
+  <Track date="2006-07-16T18:00:00" category="ED" latitude="37.7" longitude="-68.2" windspeed="30" pressure="1009"/>
+  <Track date="2006-07-17T00:00:00" category="ED" latitude="38.3" longitude="-67.6" windspeed="30" pressure="1009"/>
+  <Track date="2006-07-17T06:00:00" category="TD" latitude="39.1" longitude="-66.4" windspeed="30" pressure="1008"/>
+  <Track date="2006-07-17T12:00:00" category="TS" latitude="40.0" longitude="-65.1" windspeed="40" pressure="1003"/>
+  <Track date="2006-07-17T18:00:00" category="TS" latitude="41.1" longitude="-63.7" windspeed="45" pressure="998"/>
+  <Track date="2006-07-18T00:00:00" category="TS" latitude="42.4" longitude="-62.1" windspeed="40" pressure="999"/>
+  <Track date="2006-07-18T06:00:00" category="TS" latitude="43.7" longitude="-60.1" windspeed="35" pressure="1004"/>
+  <Track date="2006-07-18T12:00:00" category="LP" latitude="45.5" longitude="-58.0" windspeed="30" pressure="1007"/>
+  <Track date="2006-07-18T18:00:00" category="LP" latitude="47.1" longitude="-55.8" windspeed="25" pressure="1009"/>
+  <Track date="2006-07-19T00:00:00" category="LP" latitude="48.6" longitude="-52.9" windspeed="25" pressure="1012"/>
+  <Track date="2006-07-19T06:00:00" category="LP" latitude="49.2" longitude="-49.4" windspeed="25" pressure="1012"/>
+  <Track date="2006-07-19T12:00:00" category="LP" latitude="49.8" longitude="-46.1" windspeed="25" pressure="1014"/>
+</StormTrackResponse>

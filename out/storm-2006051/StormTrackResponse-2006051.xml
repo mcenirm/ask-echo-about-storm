@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2006051" name="DEBBY" pnumber="200605" hnumber="200605" from="2006-08-21 18:00:00" thru="2006-08-28 00:00:00" minlat="11.6" maxlat="32.1" minlon="-49.1" maxlon="-21.7" maxwind="45" minpress="999" maxcat="TS" basin="AT">
+  <Track date="2006-08-21T18:00:00" category="TD" latitude="11.6" longitude="-21.7" windspeed="30" pressure="1007"/>
+  <Track date="2006-08-22T00:00:00" category="TD" latitude="12.0" longitude="-22.7" windspeed="30" pressure="1007"/>
+  <Track date="2006-08-22T06:00:00" category="TD" latitude="12.6" longitude="-23.9" windspeed="30" pressure="1007"/>
+  <Track date="2006-08-22T12:00:00" category="TD" latitude="13.4" longitude="-25.3" windspeed="30" pressure="1007"/>
+  <Track date="2006-08-22T18:00:00" category="TD" latitude="14.2" longitude="-26.7" windspeed="30" pressure="1005"/>
+  <Track date="2006-08-23T00:00:00" category="TS" latitude="14.9" longitude="-28.1" windspeed="35" pressure="1003"/>
+  <Track date="2006-08-23T06:00:00" category="TS" latitude="15.7" longitude="-29.5" windspeed="40" pressure="1002"/>
+  <Track date="2006-08-23T12:00:00" category="TS" latitude="16.7" longitude="-31.0" windspeed="45" pressure="1001"/>
+  <Track date="2006-08-23T18:00:00" category="TS" latitude="17.6" longitude="-32.4" windspeed="45" pressure="1001"/>
+  <Track date="2006-08-24T00:00:00" category="TS" latitude="18.4" longitude="-33.9" windspeed="45" pressure="1000"/>
+  <Track date="2006-08-24T06:00:00" category="TS" latitude="19.2" longitude="-35.5" windspeed="45" pressure="999"/>
+  <Track date="2006-08-24T12:00:00" category="TS" latitude="20.1" longitude="-37.1" windspeed="45" pressure="1000"/>
+  <Track date="2006-08-24T18:00:00" category="TS" latitude="20.9" longitude="-38.7" windspeed="45" pressure="1000"/>
+  <Track date="2006-08-25T00:00:00" category="TS" latitude="21.7" longitude="-40.2" windspeed="45" pressure="1000"/>
+  <Track date="2006-08-25T06:00:00" category="TS" latitude="22.6" longitude="-41.5" windspeed="45" pressure="1001"/>
+  <Track date="2006-08-25T12:00:00" category="TS" latitude="23.6" longitude="-42.7" windspeed="40" pressure="1002"/>
+  <Track date="2006-08-25T18:00:00" category="TS" latitude="24.4" longitude="-44.1" windspeed="35" pressure="1005"/>
+  <Track date="2006-08-26T00:00:00" category="TS" latitude="24.8" longitude="-45.1" windspeed="35" pressure="1008"/>
+  <Track date="2006-08-26T06:00:00" category="TD" latitude="25.2" longitude="-46.1" windspeed="30" pressure="1009"/>
+  <Track date="2006-08-26T12:00:00" category="LP" latitude="25.7" longitude="-46.9" windspeed="25" pressure="1010"/>
+  <Track date="2006-08-26T18:00:00" category="LP" latitude="26.5" longitude="-47.5" windspeed="25" pressure="1011"/>
+  <Track date="2006-08-27T00:00:00" category="LP" latitude="27.3" longitude="-48.1" windspeed="25" pressure="1012"/>
+  <Track date="2006-08-27T06:00:00" category="LP" latitude="28.3" longitude="-48.8" windspeed="25" pressure="1012"/>
+  <Track date="2006-08-27T12:00:00" category="LP" latitude="29.4" longitude="-49.1" windspeed="25" pressure="1012"/>
+  <Track date="2006-08-27T18:00:00" category="LP" latitude="30.6" longitude="-48.9" windspeed="25" pressure="1012"/>
+  <Track date="2006-08-28T00:00:00" category="LP" latitude="32.1" longitude="-48.3" windspeed="25" pressure="1012"/>
+</StormTrackResponse>

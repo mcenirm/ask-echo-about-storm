@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011131" name="LEE" pnumber="201113" hnumber="201113" from="2011-09-01 18:00:00" thru="2011-09-05 12:00:00" minlat="26.3" maxlat="30.6" minlon="-92.5" maxlon="-90.2" maxwind="50" minpress="986" maxcat="TS" basin="AT">
+  <Track date="2011-09-01T18:00:00" category="TD" latitude="26.3" longitude="-90.8" windspeed="30" pressure="1008"/>
+  <Track date="2011-09-02T00:00:00" category="TD" latitude="26.6" longitude="-91.4" windspeed="30" pressure="1007"/>
+  <Track date="2011-09-02T06:00:00" category="TD" latitude="26.8" longitude="-91.5" windspeed="30" pressure="1006"/>
+  <Track date="2011-09-02T12:00:00" category="TD" latitude="27.2" longitude="-91.4" windspeed="30" pressure="1005"/>
+  <Track date="2011-09-02T18:00:00" category="TS" latitude="27.4" longitude="-91.5" windspeed="35" pressure="1003"/>
+  <Track date="2011-09-03T00:00:00" category="TS" latitude="28.0" longitude="-91.5" windspeed="40" pressure="1001"/>
+  <Track date="2011-09-03T06:00:00" category="TS" latitude="28.5" longitude="-91.8" windspeed="45" pressure="997"/>
+  <Track date="2011-09-03T12:00:00" category="TS" latitude="29.0" longitude="-91.9" windspeed="50" pressure="993"/>
+  <Track date="2011-09-03T18:00:00" category="TS" latitude="29.2" longitude="-92.1" windspeed="50" pressure="989"/>
+  <Track date="2011-09-04T00:00:00" category="TS" latitude="29.4" longitude="-92.5" windspeed="45" pressure="988"/>
+  <Track date="2011-09-04T06:00:00" category="TS" latitude="29.5" longitude="-92.4" windspeed="40" pressure="987"/>
+  <Track date="2011-09-04T12:00:00" category="TS" latitude="29.7" longitude="-92.0" windspeed="40" pressure="986"/>
+  <Track date="2011-09-04T18:00:00" category="TS" latitude="30.4" longitude="-91.8" windspeed="40" pressure="987"/>
+  <Track date="2011-09-05T00:00:00" category="TS" latitude="30.6" longitude="-91.6" windspeed="35" pressure="990"/>
+  <Track date="2011-09-05T06:00:00" category="TS" latitude="30.5" longitude="-91.4" windspeed="35" pressure="992"/>
+  <Track date="2011-09-05T12:00:00" category="TS" latitude="30.4" longitude="-90.2" windspeed="35" pressure="994"/>
+</StormTrackResponse>

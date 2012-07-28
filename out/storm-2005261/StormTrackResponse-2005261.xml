@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2005261" name="DELTA" pnumber="200525" hnumber="200526" from="2005-11-19 12:00:00" thru="2005-11-29 18:00:00" minlat="21.8" maxlat="35.3" minlon="-48.0" maxlon="-1.0" maxwind="60" minpress="980" maxcat="ES" basin="AT">
+  <Track date="2005-11-19T12:00:00" category="ED" latitude="27.0" longitude="-48.0" windspeed="25" pressure="1010"/>
+  <Track date="2005-11-19T18:00:00" category="ED" latitude="26.7" longitude="-47.5" windspeed="25" pressure="1009"/>
+  <Track date="2005-11-20T00:00:00" category="ED" latitude="26.7" longitude="-46.7" windspeed="25" pressure="1008"/>
+  <Track date="2005-11-20T06:00:00" category="ED" latitude="27.2" longitude="-45.9" windspeed="25" pressure="1008"/>
+  <Track date="2005-11-20T12:00:00" category="ED" latitude="27.7" longitude="-44.8" windspeed="30" pressure="1007"/>
+  <Track date="2005-11-20T18:00:00" category="ES" latitude="28.0" longitude="-43.5" windspeed="35" pressure="1003"/>
+  <Track date="2005-11-21T00:00:00" category="ES" latitude="28.3" longitude="-42.2" windspeed="35" pressure="1000"/>
+  <Track date="2005-11-21T06:00:00" category="ES" latitude="29.0" longitude="-41.1" windspeed="35" pressure="998"/>
+  <Track date="2005-11-21T12:00:00" category="ES" latitude="29.9" longitude="-40.1" windspeed="35" pressure="996"/>
+  <Track date="2005-11-21T18:00:00" category="ES" latitude="30.9" longitude="-39.6" windspeed="40" pressure="994"/>
+  <Track date="2005-11-22T00:00:00" category="ES" latitude="31.5" longitude="-40.1" windspeed="40" pressure="992"/>
+  <Track date="2005-11-22T06:00:00" category="ES" latitude="31.4" longitude="-39.9" windspeed="45" pressure="990"/>
+  <Track date="2005-11-22T12:00:00" category="ES" latitude="31.2" longitude="-39.8" windspeed="45" pressure="988"/>
+  <Track date="2005-11-22T18:00:00" category="SS" latitude="30.7" longitude="-40.5" windspeed="45" pressure="986"/>
+  <Track date="2005-11-23T00:00:00" category="SS" latitude="29.9" longitude="-40.9" windspeed="45" pressure="984"/>
+  <Track date="2005-11-23T06:00:00" category="SS" latitude="28.8" longitude="-41.3" windspeed="45" pressure="983"/>
+  <Track date="2005-11-23T12:00:00" category="TS" latitude="27.4" longitude="-41.2" windspeed="50" pressure="983"/>
+  <Track date="2005-11-23T18:00:00" category="TS" latitude="26.4" longitude="-40.8" windspeed="50" pressure="983"/>
+  <Track date="2005-11-24T00:00:00" category="TS" latitude="25.5" longitude="-40.2" windspeed="55" pressure="982"/>
+  <Track date="2005-11-24T06:00:00" category="TS" latitude="25.0" longitude="-39.6" windspeed="55" pressure="981"/>
+  <Track date="2005-11-24T12:00:00" category="TS" latitude="24.8" longitude="-39.0" windspeed="60" pressure="980"/>
+  <Track date="2005-11-24T18:00:00" category="TS" latitude="24.6" longitude="-38.9" windspeed="60" pressure="980"/>
+  <Track date="2005-11-25T00:00:00" category="TS" latitude="24.1" longitude="-39.0" windspeed="60" pressure="980"/>
+  <Track date="2005-11-25T06:00:00" category="TS" latitude="23.8" longitude="-39.3" windspeed="55" pressure="982"/>
+  <Track date="2005-11-25T12:00:00" category="TS" latitude="23.3" longitude="-39.6" windspeed="55" pressure="982"/>
+  <Track date="2005-11-25T18:00:00" category="TS" latitude="22.8" longitude="-39.8" windspeed="50" pressure="985"/>
+  <Track date="2005-11-26T00:00:00" category="TS" latitude="22.3" longitude="-39.8" windspeed="45" pressure="989"/>
+  <Track date="2005-11-26T06:00:00" category="TS" latitude="21.8" longitude="-39.4" windspeed="40" pressure="993"/>
+  <Track date="2005-11-26T12:00:00" category="TS" latitude="22.0" longitude="-38.4" windspeed="35" pressure="997"/>
+  <Track date="2005-11-26T18:00:00" category="TS" latitude="22.6" longitude="-37.3" windspeed="35" pressure="997"/>
+  <Track date="2005-11-27T00:00:00" category="TS" latitude="23.5" longitude="-35.8" windspeed="35" pressure="998"/>
+  <Track date="2005-11-27T06:00:00" category="TS" latitude="24.8" longitude="-34.0" windspeed="45" pressure="993"/>
+  <Track date="2005-11-27T12:00:00" category="TS" latitude="26.7" longitude="-31.9" windspeed="60" pressure="982"/>
+  <Track date="2005-11-27T18:00:00" category="TS" latitude="28.3" longitude="-29.9" windspeed="60" pressure="982"/>
+  <Track date="2005-11-28T00:00:00" category="TS" latitude="29.1" longitude="-27.5" windspeed="60" pressure="983"/>
+  <Track date="2005-11-28T06:00:00" category="TS" latitude="29.9" longitude="-24.8" windspeed="60" pressure="984"/>
+  <Track date="2005-11-28T12:00:00" category="ES" latitude="30.2" longitude="-21.6" windspeed="60" pressure="985"/>
+  <Track date="2005-11-28T18:00:00" category="ES" latitude="30.2" longitude="-18.2" windspeed="60" pressure="986"/>
+  <Track date="2005-11-29T00:00:00" category="ES" latitude="30.2" longitude="-14.6" windspeed="55" pressure="988"/>
+  <Track date="2005-11-29T06:00:00" category="ES" latitude="30.7" longitude="-10.9" windspeed="50" pressure="992"/>
+  <Track date="2005-11-29T12:00:00" category="ES" latitude="32.6" longitude="-6.6" windspeed="35" pressure="1000"/>
+  <Track date="2005-11-29T18:00:00" category="ED" latitude="35.3" longitude="-1.0" windspeed="30" pressure="1003"/>
+</StormTrackResponse>

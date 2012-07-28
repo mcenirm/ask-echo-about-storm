@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2008162" name="ODILE" pnumber="200816" hnumber="200816" from="2008-10-08 12:00:00" thru="2008-10-13 12:00:00" minlat="11.7" maxlat="18.6" minlon="-105.0" maxlon="-89.4" maxwind="50" minpress="997" maxcat="TS" basin="EP">
+  <Track date="2008-10-08T12:00:00" category="TD" latitude="11.7" longitude="-89.4" windspeed="25" pressure="1006"/>
+  <Track date="2008-10-08T18:00:00" category="TD" latitude="11.9" longitude="-90.5" windspeed="30" pressure="1006"/>
+  <Track date="2008-10-09T00:00:00" category="TD" latitude="12.2" longitude="-91.5" windspeed="30" pressure="1006"/>
+  <Track date="2008-10-09T06:00:00" category="TS" latitude="12.5" longitude="-92.8" windspeed="35" pressure="1005"/>
+  <Track date="2008-10-09T12:00:00" category="TS" latitude="12.7" longitude="-93.9" windspeed="45" pressure="1000"/>
+  <Track date="2008-10-09T18:00:00" category="TS" latitude="13.1" longitude="-94.7" windspeed="45" pressure="1000"/>
+  <Track date="2008-10-10T00:00:00" category="TS" latitude="13.5" longitude="-95.4" windspeed="45" pressure="1000"/>
+  <Track date="2008-10-10T06:00:00" category="TS" latitude="13.8" longitude="-96.2" windspeed="50" pressure="997"/>
+  <Track date="2008-10-10T12:00:00" category="TS" latitude="14.2" longitude="-96.9" windspeed="50" pressure="997"/>
+  <Track date="2008-10-10T18:00:00" category="TS" latitude="15.0" longitude="-97.9" windspeed="50" pressure="997"/>
+  <Track date="2008-10-11T00:00:00" category="TS" latitude="15.7" longitude="-98.9" windspeed="50" pressure="997"/>
+  <Track date="2008-10-11T06:00:00" category="TS" latitude="16.3" longitude="-100.1" windspeed="50" pressure="997"/>
+  <Track date="2008-10-11T12:00:00" category="TS" latitude="16.8" longitude="-101.2" windspeed="50" pressure="997"/>
+  <Track date="2008-10-11T18:00:00" category="TS" latitude="17.4" longitude="-102.3" windspeed="45" pressure="1004"/>
+  <Track date="2008-10-12T00:00:00" category="TS" latitude="17.8" longitude="-103.5" windspeed="35" pressure="1005"/>
+  <Track date="2008-10-12T06:00:00" category="TD" latitude="18.1" longitude="-104.1" windspeed="30" pressure="1006"/>
+  <Track date="2008-10-12T12:00:00" category="TD" latitude="18.3" longitude="-104.3" windspeed="25" pressure="1006"/>
+  <Track date="2008-10-12T18:00:00" category="TD" latitude="18.6" longitude="-104.5" windspeed="25" pressure="1007"/>
+  <Track date="2008-10-13T00:00:00" category="LP" latitude="18.4" longitude="-104.6" windspeed="25" pressure="1007"/>
+  <Track date="2008-10-13T06:00:00" category="LP" latitude="18.0" longitude="-105.0" windspeed="20" pressure="1008"/>
+  <Track date="2008-10-13T12:00:00" category="LP" latitude="17.4" longitude="-105.0" windspeed="20" pressure="1008"/>
+</StormTrackResponse>

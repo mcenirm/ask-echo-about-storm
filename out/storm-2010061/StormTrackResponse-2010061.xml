@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2010061" name="FIONA" pnumber="201006" hnumber="201006" from="2010-08-30 00:00:00" thru="2010-09-04 18:00:00" minlat="14.0" maxlat="34.1" minlon="-67.0" maxlon="-41.8" maxwind="55" minpress="998" maxcat="TS" basin="AT">
+  <Track date="2010-08-30T00:00:00" category="LP" latitude="14.0" longitude="-41.8" windspeed="25" pressure="1007"/>
+  <Track date="2010-08-30T06:00:00" category="LP" latitude="14.1" longitude="-43.8" windspeed="30" pressure="1007"/>
+  <Track date="2010-08-30T12:00:00" category="TD" latitude="14.4" longitude="-45.7" windspeed="30" pressure="1007"/>
+  <Track date="2010-08-30T18:00:00" category="TS" latitude="14.9" longitude="-47.7" windspeed="35" pressure="1007"/>
+  <Track date="2010-08-31T00:00:00" category="TS" latitude="15.5" longitude="-50.0" windspeed="35" pressure="1007"/>
+  <Track date="2010-08-31T06:00:00" category="TS" latitude="15.9" longitude="-52.5" windspeed="35" pressure="1006"/>
+  <Track date="2010-08-31T12:00:00" category="TS" latitude="16.1" longitude="-54.8" windspeed="35" pressure="1006"/>
+  <Track date="2010-08-31T18:00:00" category="TS" latitude="16.3" longitude="-56.9" windspeed="40" pressure="1006"/>
+  <Track date="2010-09-01T00:00:00" category="TS" latitude="16.6" longitude="-58.5" windspeed="45" pressure="1004"/>
+  <Track date="2010-09-01T06:00:00" category="TS" latitude="17.2" longitude="-59.8" windspeed="50" pressure="1001"/>
+  <Track date="2010-09-01T12:00:00" category="TS" latitude="18.2" longitude="-61.0" windspeed="50" pressure="998"/>
+  <Track date="2010-09-01T18:00:00" category="TS" latitude="19.5" longitude="-62.5" windspeed="55" pressure="999"/>
+  <Track date="2010-09-02T00:00:00" category="TS" latitude="21.0" longitude="-63.8" windspeed="50" pressure="1000"/>
+  <Track date="2010-09-02T06:00:00" category="TS" latitude="22.3" longitude="-64.9" windspeed="45" pressure="1001"/>
+  <Track date="2010-09-02T12:00:00" category="TS" latitude="23.6" longitude="-65.9" windspeed="45" pressure="1002"/>
+  <Track date="2010-09-02T18:00:00" category="TS" latitude="25.0" longitude="-66.6" windspeed="45" pressure="1003"/>
+  <Track date="2010-09-03T00:00:00" category="TS" latitude="26.3" longitude="-67.0" windspeed="40" pressure="1005"/>
+  <Track date="2010-09-03T06:00:00" category="TS" latitude="27.5" longitude="-67.0" windspeed="40" pressure="1007"/>
+  <Track date="2010-09-03T12:00:00" category="TS" latitude="28.5" longitude="-66.7" windspeed="35" pressure="1010"/>
+  <Track date="2010-09-03T18:00:00" category="TS" latitude="29.6" longitude="-66.0" windspeed="35" pressure="1011"/>
+  <Track date="2010-09-04T00:00:00" category="LP" latitude="30.7" longitude="-65.0" windspeed="35" pressure="1011"/>
+  <Track date="2010-09-04T06:00:00" category="LP" latitude="31.8" longitude="-63.9" windspeed="30" pressure="1011"/>
+  <Track date="2010-09-04T12:00:00" category="LP" latitude="32.9" longitude="-62.9" windspeed="25" pressure="1011"/>
+  <Track date="2010-09-04T18:00:00" category="LP" latitude="34.1" longitude="-62.0" windspeed="25" pressure="1011"/>
+</StormTrackResponse>

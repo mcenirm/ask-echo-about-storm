@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2004141" name="NICOLE" pnumber="200414" hnumber="200414" from="2004-10-10 00:00:00" thru="2004-10-11 18:00:00" minlat="30.0" maxlat="38.5" minlon="-66.5" maxlon="-60.5" maxwind="45" minpress="986" maxcat="SS" basin="AT">
+  <Track date="2004-10-10T00:00:00" category="ES" latitude="30.0" longitude="-65.2" windspeed="40" pressure="1000"/>
+  <Track date="2004-10-10T06:00:00" category="SS" latitude="31.0" longitude="-66.3" windspeed="40" pressure="1000"/>
+  <Track date="2004-10-10T12:00:00" category="SS" latitude="31.5" longitude="-66.5" windspeed="40" pressure="1000"/>
+  <Track date="2004-10-10T18:00:00" category="SS" latitude="32.1" longitude="-66.5" windspeed="40" pressure="998"/>
+  <Track date="2004-10-11T00:00:00" category="SS" latitude="32.9" longitude="-65.5" windspeed="40" pressure="994"/>
+  <Track date="2004-10-11T06:00:00" category="SS" latitude="34.3" longitude="-63.9" windspeed="40" pressure="992"/>
+  <Track date="2004-10-11T12:00:00" category="SS" latitude="36.0" longitude="-61.8" windspeed="45" pressure="986"/>
+  <Track date="2004-10-11T18:00:00" category="SS" latitude="38.5" longitude="-60.5" windspeed="45" pressure="986"/>
+</StormTrackResponse>

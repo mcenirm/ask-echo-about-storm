@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2000112" name="WENE" pnumber="200011" hnumber="200011" from="2000-08-16 00:00:00" thru="2000-08-17 06:00:00" minlat="34.4" maxlat="40.2" minlon="-178.5" maxlon="-176.0" maxwind="45" minpress="0" maxcat="TS" basin="EP">
+  <Track date="2000-08-16T00:00:00" category="TS" latitude="34.4" longitude="-178.5" windspeed="45" pressure="0"/>
+  <Track date="2000-08-16T06:00:00" category="TS" latitude="35.3" longitude="-177.9" windspeed="45" pressure="0"/>
+  <Track date="2000-08-16T12:00:00" category="TS" latitude="36.4" longitude="-177.4" windspeed="40" pressure="0"/>
+  <Track date="2000-08-16T18:00:00" category="TS" latitude="37.6" longitude="-176.9" windspeed="40" pressure="0"/>
+  <Track date="2000-08-17T00:00:00" category="TS" latitude="39.0" longitude="-176.4" windspeed="40" pressure="0"/>
+  <Track date="2000-08-17T06:00:00" category="TS" latitude="40.2" longitude="-176.0" windspeed="35" pressure="0"/>
+</StormTrackResponse>

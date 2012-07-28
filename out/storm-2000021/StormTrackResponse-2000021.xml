@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2000021" name="BERYL" pnumber="200002" hnumber="200002" from="2000-08-13 18:00:00" thru="2000-08-15 18:00:00" minlat="22.5" maxlat="25.2" minlon="-99.8" maxlon="-93.5" maxwind="45" minpress="1007" maxcat="TS" basin="AT">
+  <Track date="2000-08-13T18:00:00" category="TD" latitude="22.5" longitude="-93.5" windspeed="30" pressure="1008"/>
+  <Track date="2000-08-14T00:00:00" category="TD" latitude="22.7" longitude="-93.8" windspeed="30" pressure="1008"/>
+  <Track date="2000-08-14T06:00:00" category="TS" latitude="23.1" longitude="-94.6" windspeed="35" pressure="1007"/>
+  <Track date="2000-08-14T12:00:00" category="TS" latitude="23.5" longitude="-95.4" windspeed="40" pressure="1009"/>
+  <Track date="2000-08-14T18:00:00" category="TS" latitude="23.9" longitude="-96.3" windspeed="45" pressure="1009"/>
+  <Track date="2000-08-15T00:00:00" category="TS" latitude="24.1" longitude="-97.0" windspeed="45" pressure="1007"/>
+  <Track date="2000-08-15T06:00:00" category="TS" latitude="24.5" longitude="-97.7" windspeed="45" pressure="1009"/>
+  <Track date="2000-08-15T12:00:00" category="TD" latitude="24.9" longitude="-98.6" windspeed="30" pressure="1010"/>
+  <Track date="2000-08-15T18:00:00" category="TD" latitude="25.2" longitude="-99.8" windspeed="25" pressure="1012"/>
+</StormTrackResponse>

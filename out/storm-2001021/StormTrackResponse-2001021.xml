@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2001021" name="BARRY" pnumber="200102" hnumber="200102" from="2001-08-02 12:00:00" thru="2001-08-08 06:00:00" minlat="25.7" maxlat="37.5" minlon="-90.0" maxlon="-84.8" maxwind="60" minpress="990" maxcat="TS" basin="AT">
+  <Track date="2001-08-02T12:00:00" category="TD" latitude="25.7" longitude="-84.8" windspeed="30" pressure="1011"/>
+  <Track date="2001-08-02T18:00:00" category="TS" latitude="26.2" longitude="-84.9" windspeed="45" pressure="1010"/>
+  <Track date="2001-08-03T00:00:00" category="TS" latitude="26.4" longitude="-85.6" windspeed="40" pressure="1007"/>
+  <Track date="2001-08-03T06:00:00" category="TS" latitude="26.6" longitude="-86.3" windspeed="35" pressure="1008"/>
+  <Track date="2001-08-03T12:00:00" category="TS" latitude="26.9" longitude="-87.0" windspeed="35" pressure="1007"/>
+  <Track date="2001-08-03T18:00:00" category="TS" latitude="26.8" longitude="-87.2" windspeed="35" pressure="1007"/>
+  <Track date="2001-08-04T00:00:00" category="TD" latitude="26.7" longitude="-87.5" windspeed="30" pressure="1005"/>
+  <Track date="2001-08-04T06:00:00" category="TD" latitude="26.6" longitude="-87.8" windspeed="30" pressure="1005"/>
+  <Track date="2001-08-04T12:00:00" category="TD" latitude="26.9" longitude="-87.7" windspeed="30" pressure="1006"/>
+  <Track date="2001-08-04T18:00:00" category="TS" latitude="27.1" longitude="-87.5" windspeed="35" pressure="1005"/>
+  <Track date="2001-08-05T00:00:00" category="TS" latitude="27.3" longitude="-87.3" windspeed="35" pressure="1003"/>
+  <Track date="2001-08-05T06:00:00" category="TS" latitude="27.5" longitude="-86.7" windspeed="40" pressure="1004"/>
+  <Track date="2001-08-05T12:00:00" category="TS" latitude="28.1" longitude="-86.4" windspeed="50" pressure="990"/>
+  <Track date="2001-08-05T18:00:00" category="TS" latitude="28.6" longitude="-86.4" windspeed="60" pressure="991"/>
+  <Track date="2001-08-06T00:00:00" category="TS" latitude="29.5" longitude="-86.3" windspeed="60" pressure="992"/>
+  <Track date="2001-08-06T06:00:00" category="TS" latitude="30.6" longitude="-86.4" windspeed="60" pressure="991"/>
+  <Track date="2001-08-06T12:00:00" category="TD" latitude="31.8" longitude="-86.9" windspeed="25" pressure="1007"/>
+  <Track date="2001-08-06T18:00:00" category="TD" latitude="32.7" longitude="-87.7" windspeed="20" pressure="1009"/>
+  <Track date="2001-08-07T00:00:00" category="TD" latitude="33.3" longitude="-88.5" windspeed="15" pressure="1012"/>
+  <Track date="2001-08-07T06:00:00" category="LP" latitude="34.0" longitude="-89.1" windspeed="15" pressure="1015"/>
+  <Track date="2001-08-07T12:00:00" category="LP" latitude="34.7" longitude="-89.7" windspeed="10" pressure="1017"/>
+  <Track date="2001-08-07T18:00:00" category="LP" latitude="35.6" longitude="-89.8" windspeed="10" pressure="1018"/>
+  <Track date="2001-08-08T00:00:00" category="LP" latitude="36.6" longitude="-89.9" windspeed="10" pressure="1016"/>
+  <Track date="2001-08-08T06:00:00" category="LP" latitude="37.5" longitude="-90.0" windspeed="10" pressure="1017"/>
+</StormTrackResponse>

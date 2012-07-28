@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2001082" name="HENRIETTE" pnumber="200108" hnumber="200108" from="2001-09-04 12:00:00" thru="2001-09-08 12:00:00" minlat="16.9" maxlat="22.9" minlon="-134.3" maxlon="-108.8" maxwind="55" minpress="994" maxcat="TS" basin="EP">
+  <Track date="2001-09-04T12:00:00" category="TD" latitude="16.9" longitude="-108.8" windspeed="25" pressure="1006"/>
+  <Track date="2001-09-04T18:00:00" category="TD" latitude="17.5" longitude="-110.1" windspeed="25" pressure="1006"/>
+  <Track date="2001-09-05T00:00:00" category="TD" latitude="17.8" longitude="-111.5" windspeed="30" pressure="1006"/>
+  <Track date="2001-09-05T06:00:00" category="TS" latitude="17.9" longitude="-112.9" windspeed="35" pressure="1005"/>
+  <Track date="2001-09-05T12:00:00" category="TS" latitude="17.8" longitude="-114.3" windspeed="40" pressure="1005"/>
+  <Track date="2001-09-05T18:00:00" category="TS" latitude="17.7" longitude="-115.7" windspeed="40" pressure="1003"/>
+  <Track date="2001-09-06T00:00:00" category="TS" latitude="17.7" longitude="-117.1" windspeed="45" pressure="1000"/>
+  <Track date="2001-09-06T06:00:00" category="TS" latitude="18.2" longitude="-118.5" windspeed="50" pressure="997"/>
+  <Track date="2001-09-06T12:00:00" category="TS" latitude="18.8" longitude="-119.9" windspeed="50" pressure="997"/>
+  <Track date="2001-09-06T18:00:00" category="TS" latitude="19.6" longitude="-121.5" windspeed="50" pressure="997"/>
+  <Track date="2001-09-07T00:00:00" category="TS" latitude="20.5" longitude="-122.9" windspeed="55" pressure="994"/>
+  <Track date="2001-09-07T06:00:00" category="TS" latitude="21.3" longitude="-124.5" windspeed="50" pressure="997"/>
+  <Track date="2001-09-07T12:00:00" category="TS" latitude="22.1" longitude="-126.0" windspeed="45" pressure="1000"/>
+  <Track date="2001-09-07T18:00:00" category="TS" latitude="22.6" longitude="-127.7" windspeed="45" pressure="1000"/>
+  <Track date="2001-09-08T00:00:00" category="TS" latitude="22.9" longitude="-129.8" windspeed="40" pressure="1002"/>
+  <Track date="2001-09-08T06:00:00" category="TS" latitude="22.6" longitude="-132.2" windspeed="35" pressure="1004"/>
+  <Track date="2001-09-08T12:00:00" category="TD" latitude="21.6" longitude="-134.3" windspeed="30" pressure="1010"/>
+</StormTrackResponse>

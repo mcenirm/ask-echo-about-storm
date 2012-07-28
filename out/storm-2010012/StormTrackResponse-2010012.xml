@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2010012" name="AGATHA" pnumber="201001" hnumber="201001" from="2010-05-28 18:00:00" thru="2010-05-30 12:00:00" minlat="12.7" maxlat="15.7" minlon="-94.3" maxlon="-91.4" maxwind="40" minpress="1001" maxcat="TS" basin="EP">
+  <Track date="2010-05-28T18:00:00" category="LP" latitude="12.7" longitude="-94.3" windspeed="30" pressure="1005"/>
+  <Track date="2010-05-29T00:00:00" category="TD" latitude="12.8" longitude="-94.1" windspeed="30" pressure="1005"/>
+  <Track date="2010-05-29T06:00:00" category="TS" latitude="13.0" longitude="-93.6" windspeed="35" pressure="1004"/>
+  <Track date="2010-05-29T12:00:00" category="TS" latitude="13.3" longitude="-93.1" windspeed="35" pressure="1003"/>
+  <Track date="2010-05-29T18:00:00" category="TS" latitude="13.9" longitude="-92.5" windspeed="40" pressure="1001"/>
+  <Track date="2010-05-30T00:00:00" category="TS" latitude="14.6" longitude="-91.9" windspeed="35" pressure="1003"/>
+  <Track date="2010-05-30T06:00:00" category="TD" latitude="15.2" longitude="-91.6" windspeed="25" pressure="1006"/>
+  <Track date="2010-05-30T12:00:00" category="LP" latitude="15.7" longitude="-91.4" windspeed="15" pressure="1008"/>
+</StormTrackResponse>

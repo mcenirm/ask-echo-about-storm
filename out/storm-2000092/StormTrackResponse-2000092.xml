@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2000092" name="HECTOR" pnumber="200009" hnumber="200009" from="2000-08-10 18:00:00" thru="2000-08-16 18:00:00" minlat="17.7" maxlat="20.3" minlon="-128.0" maxlon="-106.6" maxwind="70" minpress="983" maxcat="H1" basin="EP">
+  <Track date="2000-08-10T18:00:00" category="TD" latitude="17.8" longitude="-106.6" windspeed="25" pressure="1006"/>
+  <Track date="2000-08-11T00:00:00" category="TD" latitude="17.7" longitude="-108.1" windspeed="25" pressure="1005"/>
+  <Track date="2000-08-11T06:00:00" category="TD" latitude="17.9" longitude="-109.2" windspeed="25" pressure="1003"/>
+  <Track date="2000-08-11T12:00:00" category="TD" latitude="18.1" longitude="-110.4" windspeed="30" pressure="1003"/>
+  <Track date="2000-08-11T18:00:00" category="TD" latitude="18.3" longitude="-111.7" windspeed="30" pressure="1003"/>
+  <Track date="2000-08-12T00:00:00" category="TS" latitude="18.5" longitude="-112.9" windspeed="35" pressure="1002"/>
+  <Track date="2000-08-12T06:00:00" category="TS" latitude="18.5" longitude="-114.1" windspeed="40" pressure="1001"/>
+  <Track date="2000-08-12T12:00:00" category="TS" latitude="18.4" longitude="-115.1" windspeed="45" pressure="999"/>
+  <Track date="2000-08-12T18:00:00" category="TS" latitude="18.2" longitude="-115.8" windspeed="50" pressure="997"/>
+  <Track date="2000-08-13T00:00:00" category="TS" latitude="18.1" longitude="-116.5" windspeed="50" pressure="996"/>
+  <Track date="2000-08-13T06:00:00" category="TS" latitude="18.2" longitude="-117.2" windspeed="55" pressure="994"/>
+  <Track date="2000-08-13T12:00:00" category="TS" latitude="18.2" longitude="-117.7" windspeed="55" pressure="993"/>
+  <Track date="2000-08-13T18:00:00" category="TS" latitude="18.3" longitude="-118.1" windspeed="60" pressure="990"/>
+  <Track date="2000-08-14T00:00:00" category="H1" latitude="18.4" longitude="-118.4" windspeed="65" pressure="986"/>
+  <Track date="2000-08-14T06:00:00" category="H1" latitude="18.7" longitude="-118.9" windspeed="65" pressure="985"/>
+  <Track date="2000-08-14T12:00:00" category="H1" latitude="19.1" longitude="-119.3" windspeed="70" pressure="983"/>
+  <Track date="2000-08-14T18:00:00" category="H1" latitude="19.5" longitude="-119.9" windspeed="70" pressure="984"/>
+  <Track date="2000-08-15T00:00:00" category="H1" latitude="20.0" longitude="-120.5" windspeed="65" pressure="987"/>
+  <Track date="2000-08-15T06:00:00" category="TS" latitude="20.3" longitude="-121.2" windspeed="60" pressure="990"/>
+  <Track date="2000-08-15T12:00:00" category="TS" latitude="20.3" longitude="-122.1" windspeed="55" pressure="994"/>
+  <Track date="2000-08-15T18:00:00" category="TS" latitude="20.2" longitude="-123.0" windspeed="45" pressure="998"/>
+  <Track date="2000-08-16T00:00:00" category="TS" latitude="20.0" longitude="-123.9" windspeed="35" pressure="1000"/>
+  <Track date="2000-08-16T06:00:00" category="TD" latitude="20.0" longitude="-125.0" windspeed="30" pressure="1004"/>
+  <Track date="2000-08-16T12:00:00" category="TD" latitude="20.0" longitude="-126.6" windspeed="25" pressure="1005"/>
+  <Track date="2000-08-16T18:00:00" category="TD" latitude="20.0" longitude="-128.0" windspeed="25" pressure="1006"/>
+</StormTrackResponse>

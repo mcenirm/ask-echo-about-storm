@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011041" name="DON" pnumber="201104" hnumber="201104" from="2011-07-27 12:00:00" thru="2011-07-30 06:00:00" minlat="21.7" maxlat="27.7" minlon="-98.1" maxlon="-86.2" maxwind="45" minpress="998" maxcat="TS" basin="AT">
+  <Track date="2011-07-27T12:00:00" category="TD" latitude="21.7" longitude="-86.2" windspeed="30" pressure="1008"/>
+  <Track date="2011-07-27T18:00:00" category="TS" latitude="22.0" longitude="-86.8" windspeed="35" pressure="1004"/>
+  <Track date="2011-07-28T00:00:00" category="TS" latitude="22.4" longitude="-87.5" windspeed="35" pressure="1000"/>
+  <Track date="2011-07-28T06:00:00" category="TS" latitude="22.9" longitude="-88.4" windspeed="35" pressure="1000"/>
+  <Track date="2011-07-28T12:00:00" category="TS" latitude="23.6" longitude="-89.5" windspeed="40" pressure="1001"/>
+  <Track date="2011-07-28T18:00:00" category="TS" latitude="24.3" longitude="-90.7" windspeed="40" pressure="1001"/>
+  <Track date="2011-07-29T00:00:00" category="TS" latitude="24.5" longitude="-91.9" windspeed="45" pressure="998"/>
+  <Track date="2011-07-29T06:00:00" category="TS" latitude="25.0" longitude="-93.0" windspeed="45" pressure="1000"/>
+  <Track date="2011-07-29T12:00:00" category="TS" latitude="25.8" longitude="-94.3" windspeed="45" pressure="1002"/>
+  <Track date="2011-07-29T18:00:00" category="TS" latitude="26.5" longitude="-95.6" windspeed="45" pressure="1004"/>
+  <Track date="2011-07-30T00:00:00" category="TS" latitude="27.1" longitude="-96.9" windspeed="35" pressure="1006"/>
+  <Track date="2011-07-30T06:00:00" category="LP" latitude="27.7" longitude="-98.1" windspeed="25" pressure="1009"/>
+</StormTrackResponse>

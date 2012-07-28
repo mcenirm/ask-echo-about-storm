@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2000182" name="PAUL" pnumber="200018" hnumber="200018" from="2000-10-25 06:00:00" thru="2000-10-29 00:00:00" minlat="10.2" maxlat="11.7" minlon="-128.5" maxlon="-108.4" maxwind="40" minpress="1003" maxcat="TS" basin="EP">
+  <Track date="2000-10-25T06:00:00" category="TD" latitude="10.2" longitude="-108.4" windspeed="25" pressure="1007"/>
+  <Track date="2000-10-25T12:00:00" category="TD" latitude="10.2" longitude="-109.7" windspeed="30" pressure="1007"/>
+  <Track date="2000-10-25T18:00:00" category="TD" latitude="10.4" longitude="-111.3" windspeed="30" pressure="1007"/>
+  <Track date="2000-10-26T00:00:00" category="TD" latitude="10.4" longitude="-112.7" windspeed="30" pressure="1007"/>
+  <Track date="2000-10-26T06:00:00" category="TD" latitude="10.4" longitude="-114.0" windspeed="30" pressure="1007"/>
+  <Track date="2000-10-26T12:00:00" category="TS" latitude="10.3" longitude="-115.4" windspeed="35" pressure="1005"/>
+  <Track date="2000-10-26T18:00:00" category="TS" latitude="10.3" longitude="-116.7" windspeed="40" pressure="1003"/>
+  <Track date="2000-10-27T00:00:00" category="TS" latitude="10.6" longitude="-117.7" windspeed="35" pressure="1004"/>
+  <Track date="2000-10-27T06:00:00" category="TS" latitude="11.1" longitude="-118.7" windspeed="35" pressure="1005"/>
+  <Track date="2000-10-27T12:00:00" category="TS" latitude="11.5" longitude="-119.5" windspeed="35" pressure="1005"/>
+  <Track date="2000-10-27T18:00:00" category="TS" latitude="11.7" longitude="-120.7" windspeed="35" pressure="1005"/>
+  <Track date="2000-10-28T00:00:00" category="TD" latitude="11.7" longitude="-122.0" windspeed="30" pressure="1006"/>
+  <Track date="2000-10-28T06:00:00" category="TD" latitude="11.7" longitude="-123.4" windspeed="30" pressure="1006"/>
+  <Track date="2000-10-28T12:00:00" category="TD" latitude="11.7" longitude="-124.9" windspeed="30" pressure="1006"/>
+  <Track date="2000-10-28T18:00:00" category="TD" latitude="11.6" longitude="-126.7" windspeed="30" pressure="1006"/>
+  <Track date="2000-10-29T00:00:00" category="TD" latitude="11.7" longitude="-128.5" windspeed="25" pressure="1007"/>
+</StormTrackResponse>

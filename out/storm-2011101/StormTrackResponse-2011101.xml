@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011101" name="TEN" pnumber="201110" hnumber="201110" from="2011-08-24 00:00:00" thru="2011-08-27 00:00:00" minlat="11.6" maxlat="15.8" minlon="-33.9" maxlon="-25.0" maxwind="30" minpress="1007" maxcat="TD" basin="AT">
+  <Track date="2011-08-24T00:00:00" category="LP" latitude="11.6" longitude="-25.0" windspeed="25" pressure="1007"/>
+  <Track date="2011-08-24T06:00:00" category="LP" latitude="11.7" longitude="-25.9" windspeed="25" pressure="1007"/>
+  <Track date="2011-08-24T12:00:00" category="LP" latitude="11.7" longitude="-26.8" windspeed="25" pressure="1008"/>
+  <Track date="2011-08-24T18:00:00" category="LP" latitude="11.9" longitude="-27.6" windspeed="25" pressure="1008"/>
+  <Track date="2011-08-25T00:00:00" category="LP" latitude="12.4" longitude="-28.7" windspeed="30" pressure="1010"/>
+  <Track date="2011-08-25T06:00:00" category="TD" latitude="12.7" longitude="-30.0" windspeed="30" pressure="1010"/>
+  <Track date="2011-08-25T12:00:00" category="TD" latitude="13.2" longitude="-31.2" windspeed="30" pressure="1010"/>
+  <Track date="2011-08-25T18:00:00" category="TD" latitude="13.6" longitude="-32.1" windspeed="30" pressure="1009"/>
+  <Track date="2011-08-26T00:00:00" category="TD" latitude="13.9" longitude="-32.8" windspeed="30" pressure="1009"/>
+  <Track date="2011-08-26T06:00:00" category="TD" latitude="14.4" longitude="-33.3" windspeed="30" pressure="1009"/>
+  <Track date="2011-08-26T12:00:00" category="TD" latitude="14.8" longitude="-33.5" windspeed="30" pressure="1009"/>
+  <Track date="2011-08-26T18:00:00" category="TD" latitude="15.3" longitude="-33.7" windspeed="30" pressure="1009"/>
+  <Track date="2011-08-27T00:00:00" category="TD" latitude="15.8" longitude="-33.9" windspeed="25" pressure="1010"/>
+</StormTrackResponse>

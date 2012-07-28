@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2010181" name="SHARY" pnumber="201018" hnumber="201018" from="2010-10-28 18:00:00" thru="2010-10-30 18:00:00" minlat="25.6" maxlat="37.0" minlon="-65.9" maxlon="-53.5" maxwind="65" minpress="989" maxcat="H1" basin="AT">
+  <Track date="2010-10-28T18:00:00" category="TD" latitude="25.6" longitude="-61.2" windspeed="30" pressure="1006"/>
+  <Track date="2010-10-29T00:00:00" category="TS" latitude="26.8" longitude="-63.0" windspeed="35" pressure="1004"/>
+  <Track date="2010-10-29T06:00:00" category="TS" latitude="28.1" longitude="-64.6" windspeed="40" pressure="1002"/>
+  <Track date="2010-10-29T12:00:00" category="TS" latitude="29.3" longitude="-65.9" windspeed="50" pressure="998"/>
+  <Track date="2010-10-29T18:00:00" category="TS" latitude="30.2" longitude="-65.8" windspeed="55" pressure="993"/>
+  <Track date="2010-10-30T00:00:00" category="H1" latitude="31.3" longitude="-64.0" windspeed="65" pressure="990"/>
+  <Track date="2010-10-30T06:00:00" category="H1" latitude="32.9" longitude="-60.9" windspeed="65" pressure="989"/>
+  <Track date="2010-10-30T12:00:00" category="H1" latitude="35.1" longitude="-57.2" windspeed="65" pressure="991"/>
+  <Track date="2010-10-30T18:00:00" category="ES" latitude="37.0" longitude="-53.5" windspeed="55" pressure="993"/>
+</StormTrackResponse>

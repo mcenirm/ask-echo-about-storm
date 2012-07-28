@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2000132" name="KRISTY" pnumber="200013" hnumber="200013" from="2000-08-31 00:00:00" thru="2000-09-03 00:00:00" minlat="13.0" maxlat="14.7" minlon="-133.5" maxlon="-131.4" maxwind="35" minpress="1004" maxcat="TS" basin="EP">
+  <Track date="2000-08-31T00:00:00" category="TD" latitude="13.0" longitude="-131.4" windspeed="25" pressure="1008"/>
+  <Track date="2000-08-31T06:00:00" category="TD" latitude="13.2" longitude="-132.2" windspeed="25" pressure="1008"/>
+  <Track date="2000-08-31T12:00:00" category="TD" latitude="13.4" longitude="-132.6" windspeed="30" pressure="1008"/>
+  <Track date="2000-08-31T18:00:00" category="TD" latitude="13.5" longitude="-133.0" windspeed="30" pressure="1007"/>
+  <Track date="2000-09-01T00:00:00" category="TD" latitude="13.7" longitude="-133.2" windspeed="30" pressure="1007"/>
+  <Track date="2000-09-01T06:00:00" category="TD" latitude="13.8" longitude="-133.2" windspeed="30" pressure="1007"/>
+  <Track date="2000-09-01T12:00:00" category="TD" latitude="13.8" longitude="-133.3" windspeed="30" pressure="1006"/>
+  <Track date="2000-09-01T18:00:00" category="TD" latitude="13.5" longitude="-133.3" windspeed="30" pressure="1006"/>
+  <Track date="2000-09-02T00:00:00" category="TS" latitude="13.2" longitude="-133.3" windspeed="35" pressure="1004"/>
+  <Track date="2000-09-02T06:00:00" category="TS" latitude="13.2" longitude="-133.5" windspeed="35" pressure="1005"/>
+  <Track date="2000-09-02T12:00:00" category="TS" latitude="13.6" longitude="-133.4" windspeed="35" pressure="1006"/>
+  <Track date="2000-09-02T18:00:00" category="TD" latitude="14.3" longitude="-133.2" windspeed="30" pressure="1007"/>
+  <Track date="2000-09-03T00:00:00" category="TD" latitude="14.7" longitude="-133.2" windspeed="25" pressure="1007"/>
+</StormTrackResponse>

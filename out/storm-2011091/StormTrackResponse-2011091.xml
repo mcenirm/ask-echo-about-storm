@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011091" name="IRENE" pnumber="201109" hnumber="201109" from="2011-08-20 18:00:00" thru="2011-08-30 00:00:00" minlat="14.6" maxlat="53.1" minlon="-77.5" maxlon="-57.0" maxwind="105" minpress="942" maxcat="H3" basin="AT">
+  <Track date="2011-08-20T18:00:00" category="TS" latitude="14.6" longitude="-57.0" windspeed="40" pressure="1006"/>
+  <Track date="2011-08-21T00:00:00" category="TS" latitude="15.0" longitude="-59.0" windspeed="45" pressure="1006"/>
+  <Track date="2011-08-21T06:00:00" category="TS" latitude="16.0" longitude="-60.4" windspeed="45" pressure="1006"/>
+  <Track date="2011-08-21T12:00:00" category="TS" latitude="16.8" longitude="-62.4" windspeed="45" pressure="1005"/>
+  <Track date="2011-08-21T18:00:00" category="TS" latitude="17.5" longitude="-63.7" windspeed="45" pressure="999"/>
+  <Track date="2011-08-22T00:00:00" category="TS" latitude="17.9" longitude="-65.0" windspeed="55" pressure="993"/>
+  <Track date="2011-08-22T06:00:00" category="TS" latitude="18.2" longitude="-65.9" windspeed="65" pressure="989"/>
+  <Track date="2011-08-22T12:00:00" category="H1" latitude="18.9" longitude="-67.0" windspeed="70" pressure="990"/>
+  <Track date="2011-08-22T18:00:00" category="H1" latitude="19.3" longitude="-68.0" windspeed="75" pressure="988"/>
+  <Track date="2011-08-23T00:00:00" category="H1" latitude="19.7" longitude="-68.7" windspeed="80" pressure="981"/>
+  <Track date="2011-08-23T06:00:00" category="H1" latitude="20.1" longitude="-69.7" windspeed="80" pressure="978"/>
+  <Track date="2011-08-23T12:00:00" category="H1" latitude="20.4" longitude="-70.6" windspeed="80" pressure="978"/>
+  <Track date="2011-08-23T18:00:00" category="H1" latitude="20.7" longitude="-71.2" windspeed="80" pressure="977"/>
+  <Track date="2011-08-24T00:00:00" category="H1" latitude="21.0" longitude="-71.9" windspeed="80" pressure="969"/>
+  <Track date="2011-08-24T06:00:00" category="H2" latitude="21.3" longitude="-72.5" windspeed="95" pressure="965"/>
+  <Track date="2011-08-24T12:00:00" category="H3" latitude="21.9" longitude="-73.3" windspeed="100" pressure="957"/>
+  <Track date="2011-08-24T18:00:00" category="H3" latitude="22.7" longitude="-74.3" windspeed="105" pressure="954"/>
+  <Track date="2011-08-25T00:00:00" category="H3" latitude="23.5" longitude="-75.1" windspeed="105" pressure="952"/>
+  <Track date="2011-08-25T06:00:00" category="H3" latitude="24.1" longitude="-75.9" windspeed="100" pressure="950"/>
+  <Track date="2011-08-25T12:00:00" category="H3" latitude="25.4" longitude="-76.6" windspeed="100" pressure="950"/>
+  <Track date="2011-08-25T18:00:00" category="H2" latitude="26.5" longitude="-77.2" windspeed="95" pressure="950"/>
+  <Track date="2011-08-26T00:00:00" category="H3" latitude="27.7" longitude="-77.3" windspeed="100" pressure="946"/>
+  <Track date="2011-08-26T06:00:00" category="H2" latitude="28.8" longitude="-77.3" windspeed="95" pressure="942"/>
+  <Track date="2011-08-26T12:00:00" category="H2" latitude="30.0" longitude="-77.4" windspeed="90" pressure="947"/>
+  <Track date="2011-08-26T18:00:00" category="H2" latitude="31.1" longitude="-77.5" windspeed="85" pressure="950"/>
+  <Track date="2011-08-27T00:00:00" category="H2" latitude="32.1" longitude="-77.1" windspeed="85" pressure="952"/>
+  <Track date="2011-08-27T06:00:00" category="H1" latitude="33.4" longitude="-76.6" windspeed="80" pressure="952"/>
+  <Track date="2011-08-27T12:00:00" category="H1" latitude="34.7" longitude="-76.6" windspeed="75" pressure="952"/>
+  <Track date="2011-08-27T18:00:00" category="H1" latitude="35.5" longitude="-76.3" windspeed="75" pressure="950"/>
+  <Track date="2011-08-28T00:00:00" category="H1" latitude="36.7" longitude="-75.7" windspeed="70" pressure="951"/>
+  <Track date="2011-08-28T06:00:00" category="H1" latitude="38.1" longitude="-75.0" windspeed="65" pressure="958"/>
+  <Track date="2011-08-28T12:00:00" category="TS" latitude="40.3" longitude="-74.1" windspeed="55" pressure="963"/>
+  <Track date="2011-08-28T18:00:00" category="TS" latitude="42.1" longitude="-73.3" windspeed="50" pressure="970"/>
+  <Track date="2011-08-29T00:00:00" category="ED" latitude="44.2" longitude="-72.1" windspeed="45" pressure="979"/>
+  <Track date="2011-08-29T06:00:00" category="ED" latitude="46.5" longitude="-69.5" windspeed="45" pressure="981"/>
+  <Track date="2011-08-29T12:00:00" category="ED" latitude="49.1" longitude="-66.7" windspeed="40" pressure="984"/>
+  <Track date="2011-08-29T18:00:00" category="ED" latitude="51.3" longitude="-63.8" windspeed="40" pressure="984"/>
+  <Track date="2011-08-30T00:00:00" category="ED" latitude="53.1" longitude="-60.1" windspeed="40" pressure="991"/>
+</StormTrackResponse>

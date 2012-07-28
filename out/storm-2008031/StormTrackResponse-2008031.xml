@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2008031" name="CRISTOBAL" pnumber="200803" hnumber="200803" from="2008-07-19 00:00:00" thru="2008-07-23 06:00:00" minlat="31.7" maxlat="44.4" minlon="-79.8" maxlon="-57.5" maxwind="55" minpress="998" maxcat="TS" basin="AT">
+  <Track date="2008-07-19T00:00:00" category="TD" latitude="31.7" longitude="-79.8" windspeed="25" pressure="1010"/>
+  <Track date="2008-07-19T06:00:00" category="TD" latitude="32.2" longitude="-79.4" windspeed="25" pressure="1009"/>
+  <Track date="2008-07-19T12:00:00" category="TS" latitude="32.4" longitude="-78.8" windspeed="35" pressure="1007"/>
+  <Track date="2008-07-19T18:00:00" category="TS" latitude="32.8" longitude="-78.2" windspeed="45" pressure="1006"/>
+  <Track date="2008-07-20T00:00:00" category="TS" latitude="33.2" longitude="-77.8" windspeed="45" pressure="1006"/>
+  <Track date="2008-07-20T06:00:00" category="TS" latitude="33.7" longitude="-77.4" windspeed="45" pressure="1006"/>
+  <Track date="2008-07-20T12:00:00" category="TS" latitude="34.1" longitude="-76.7" windspeed="45" pressure="1006"/>
+  <Track date="2008-07-20T18:00:00" category="TS" latitude="34.5" longitude="-76.1" windspeed="45" pressure="1007"/>
+  <Track date="2008-07-21T00:00:00" category="TS" latitude="34.9" longitude="-75.4" windspeed="45" pressure="1005"/>
+  <Track date="2008-07-21T06:00:00" category="TS" latitude="35.6" longitude="-74.3" windspeed="50" pressure="1004"/>
+  <Track date="2008-07-21T12:00:00" category="TS" latitude="36.2" longitude="-73.2" windspeed="55" pressure="1000"/>
+  <Track date="2008-07-21T18:00:00" category="TS" latitude="36.8" longitude="-72.0" windspeed="55" pressure="1000"/>
+  <Track date="2008-07-22T00:00:00" category="TS" latitude="37.4" longitude="-70.7" windspeed="55" pressure="1000"/>
+  <Track date="2008-07-22T06:00:00" category="TS" latitude="38.4" longitude="-69.2" windspeed="55" pressure="1000"/>
+  <Track date="2008-07-22T12:00:00" category="TS" latitude="40.0" longitude="-67.0" windspeed="55" pressure="998"/>
+  <Track date="2008-07-22T18:00:00" category="TS" latitude="41.7" longitude="-64.2" windspeed="50" pressure="1000"/>
+  <Track date="2008-07-23T00:00:00" category="TS" latitude="43.3" longitude="-60.7" windspeed="45" pressure="1001"/>
+  <Track date="2008-07-23T06:00:00" category="TS" latitude="44.4" longitude="-57.5" windspeed="40" pressure="1004"/>
+</StormTrackResponse>

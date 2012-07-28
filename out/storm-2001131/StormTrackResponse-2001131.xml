@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2001131" name="MICHELLE" pnumber="200113" hnumber="200113" from="2001-10-29 18:00:00" thru="2001-11-06 18:00:00" minlat="13.0" maxlat="28.7" minlon="-84.3" maxlon="-66.5" maxwind="120" minpress="934" maxcat="H4" basin="AT">
+  <Track date="2001-10-29T18:00:00" category="TD" latitude="13.3" longitude="-83.6" windspeed="30" pressure="1004"/>
+  <Track date="2001-10-30T00:00:00" category="TD" latitude="13.7" longitude="-83.6" windspeed="30" pressure="1004"/>
+  <Track date="2001-10-30T06:00:00" category="TD" latitude="13.7" longitude="-84.1" windspeed="30" pressure="1005"/>
+  <Track date="2001-10-30T12:00:00" category="TD" latitude="13.3" longitude="-83.9" windspeed="30" pressure="1005"/>
+  <Track date="2001-10-30T18:00:00" category="TD" latitude="13.0" longitude="-83.5" windspeed="30" pressure="1006"/>
+  <Track date="2001-10-31T00:00:00" category="TD" latitude="13.7" longitude="-83.6" windspeed="30" pressure="1004"/>
+  <Track date="2001-10-31T06:00:00" category="TD" latitude="14.3" longitude="-83.4" windspeed="30" pressure="1005"/>
+  <Track date="2001-10-31T12:00:00" category="TD" latitude="14.8" longitude="-83.2" windspeed="30" pressure="1004"/>
+  <Track date="2001-10-31T18:00:00" category="TD" latitude="15.3" longitude="-83.1" windspeed="30" pressure="1004"/>
+  <Track date="2001-11-01T00:00:00" category="TS" latitude="15.8" longitude="-83.1" windspeed="35" pressure="1001"/>
+  <Track date="2001-11-01T06:00:00" category="TS" latitude="16.5" longitude="-83.4" windspeed="45" pressure="999"/>
+  <Track date="2001-11-01T12:00:00" category="TS" latitude="16.8" longitude="-83.6" windspeed="50" pressure="995"/>
+  <Track date="2001-11-01T18:00:00" category="TS" latitude="17.0" longitude="-83.8" windspeed="50" pressure="993"/>
+  <Track date="2001-11-02T00:00:00" category="TS" latitude="17.3" longitude="-83.9" windspeed="55" pressure="991"/>
+  <Track date="2001-11-02T06:00:00" category="TS" latitude="17.5" longitude="-83.9" windspeed="60" pressure="988"/>
+  <Track date="2001-11-02T12:00:00" category="H1" latitude="17.8" longitude="-84.0" windspeed="70" pressure="979"/>
+  <Track date="2001-11-02T18:00:00" category="H1" latitude="18.0" longitude="-84.0" windspeed="80" pressure="969"/>
+  <Track date="2001-11-03T00:00:00" category="H2" latitude="18.5" longitude="-84.0" windspeed="90" pressure="957"/>
+  <Track date="2001-11-03T06:00:00" category="H3" latitude="18.8" longitude="-84.3" windspeed="105" pressure="942"/>
+  <Track date="2001-11-03T12:00:00" category="H4" latitude="18.9" longitude="-84.3" windspeed="115" pressure="937"/>
+  <Track date="2001-11-03T18:00:00" category="H3" latitude="19.3" longitude="-84.1" windspeed="110" pressure="934"/>
+  <Track date="2001-11-04T00:00:00" category="H4" latitude="19.7" longitude="-83.7" windspeed="115" pressure="938"/>
+  <Track date="2001-11-04T06:00:00" category="H4" latitude="20.1" longitude="-83.3" windspeed="120" pressure="944"/>
+  <Track date="2001-11-04T12:00:00" category="H4" latitude="20.8" longitude="-82.5" windspeed="120" pressure="947"/>
+  <Track date="2001-11-04T18:00:00" category="H4" latitude="21.5" longitude="-81.8" windspeed="120" pressure="949"/>
+  <Track date="2001-11-05T00:00:00" category="H3" latitude="22.3" longitude="-80.9" windspeed="105" pressure="953"/>
+  <Track date="2001-11-05T06:00:00" category="H1" latitude="23.1" longitude="-79.7" windspeed="80" pressure="972"/>
+  <Track date="2001-11-05T12:00:00" category="H1" latitude="24.3" longitude="-78.0" windspeed="80" pressure="974"/>
+  <Track date="2001-11-05T18:00:00" category="H1" latitude="25.4" longitude="-76.4" windspeed="75" pressure="980"/>
+  <Track date="2001-11-06T00:00:00" category="H1" latitude="26.3" longitude="-74.5" windspeed="75" pressure="980"/>
+  <Track date="2001-11-06T06:00:00" category="H1" latitude="26.9" longitude="-72.6" windspeed="75" pressure="980"/>
+  <Track date="2001-11-06T12:00:00" category="H1" latitude="27.3" longitude="-69.7" windspeed="65" pressure="984"/>
+  <Track date="2001-11-06T18:00:00" category="ES" latitude="28.7" longitude="-66.5" windspeed="55" pressure="989"/>
+</StormTrackResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2000162" name="NORMAN" pnumber="200016" hnumber="200016" from="2000-09-20 00:00:00" thru="2000-09-22 18:00:00" minlat="16.8" maxlat="23.7" minlon="-106.3" maxlon="-102.9" maxwind="45" minpress="998" maxcat="TS" basin="EP">
+  <Track date="2000-09-20T00:00:00" category="TD" latitude="16.8" longitude="-103.4" windspeed="25" pressure="1008"/>
+  <Track date="2000-09-20T06:00:00" category="TD" latitude="17.2" longitude="-103.2" windspeed="30" pressure="1007"/>
+  <Track date="2000-09-20T12:00:00" category="TS" latitude="17.8" longitude="-102.9" windspeed="40" pressure="1005"/>
+  <Track date="2000-09-20T18:00:00" category="TS" latitude="18.3" longitude="-103.1" windspeed="45" pressure="998"/>
+  <Track date="2000-09-21T00:00:00" category="TS" latitude="18.6" longitude="-103.5" windspeed="35" pressure="1000"/>
+  <Track date="2000-09-21T06:00:00" category="TD" latitude="19.5" longitude="-104.2" windspeed="30" pressure="1004"/>
+  <Track date="2000-09-21T12:00:00" category="TD" latitude="20.0" longitude="-105.0" windspeed="30" pressure="1005"/>
+  <Track date="2000-09-21T18:00:00" category="TD" latitude="20.2" longitude="-105.3" windspeed="25" pressure="1005"/>
+  <Track date="2000-09-22T00:00:00" category="TD" latitude="20.7" longitude="-105.7" windspeed="25" pressure="1005"/>
+  <Track date="2000-09-22T06:00:00" category="TD" latitude="21.4" longitude="-106.1" windspeed="25" pressure="1005"/>
+  <Track date="2000-09-22T12:00:00" category="TD" latitude="22.6" longitude="-106.3" windspeed="25" pressure="1005"/>
+  <Track date="2000-09-22T18:00:00" category="TD" latitude="23.7" longitude="-106.3" windspeed="25" pressure="1006"/>
+</StormTrackResponse>

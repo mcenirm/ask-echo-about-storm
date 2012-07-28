@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2009041" name="DANNY" pnumber="200904" hnumber="200904" from="2009-08-26 12:00:00" thru="2009-08-29 00:00:00" minlat="24.6" maxlat="31.0" minlon="-75.7" maxlon="-70.1" maxwind="50" minpress="1006" maxcat="TS" basin="AT">
+  <Track date="2009-08-26T12:00:00" category="TS" latitude="24.6" longitude="-70.1" windspeed="40" pressure="1009"/>
+  <Track date="2009-08-26T18:00:00" category="TS" latitude="25.1" longitude="-70.7" windspeed="45" pressure="1009"/>
+  <Track date="2009-08-27T00:00:00" category="TS" latitude="25.9" longitude="-71.2" windspeed="50" pressure="1006"/>
+  <Track date="2009-08-27T06:00:00" category="TS" latitude="27.0" longitude="-71.8" windspeed="50" pressure="1006"/>
+  <Track date="2009-08-27T12:00:00" category="TS" latitude="27.4" longitude="-72.7" windspeed="50" pressure="1006"/>
+  <Track date="2009-08-27T18:00:00" category="TS" latitude="27.4" longitude="-73.3" windspeed="45" pressure="1008"/>
+  <Track date="2009-08-28T00:00:00" category="TS" latitude="28.1" longitude="-73.5" windspeed="40" pressure="1008"/>
+  <Track date="2009-08-28T06:00:00" category="TS" latitude="29.0" longitude="-74.4" windspeed="35" pressure="1008"/>
+  <Track date="2009-08-28T12:00:00" category="TS" latitude="29.7" longitude="-75.4" windspeed="35" pressure="1008"/>
+  <Track date="2009-08-28T18:00:00" category="TS" latitude="30.1" longitude="-75.7" windspeed="35" pressure="1007"/>
+  <Track date="2009-08-29T00:00:00" category="TS" latitude="31.0" longitude="-75.0" windspeed="35" pressure="1006"/>
+</StormTrackResponse>

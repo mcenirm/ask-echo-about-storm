@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2000051" name="ERNESTO" pnumber="200005" hnumber="200005" from="2000-09-01 12:00:00" thru="2000-09-03 18:00:00" minlat="14.8" maxlat="20.0" minlon="-58.0" maxlon="-45.2" maxwind="35" minpress="1008" maxcat="TS" basin="AT">
+  <Track date="2000-09-01T12:00:00" category="TD" latitude="14.8" longitude="-45.2" windspeed="25" pressure="1009"/>
+  <Track date="2000-09-01T18:00:00" category="TD" latitude="15.0" longitude="-47.0" windspeed="30" pressure="1009"/>
+  <Track date="2000-09-02T00:00:00" category="TD" latitude="15.6" longitude="-48.3" windspeed="30" pressure="1009"/>
+  <Track date="2000-09-02T06:00:00" category="TS" latitude="16.2" longitude="-49.5" windspeed="35" pressure="1008"/>
+  <Track date="2000-09-02T12:00:00" category="TS" latitude="16.9" longitude="-50.8" windspeed="35" pressure="1008"/>
+  <Track date="2000-09-02T18:00:00" category="TS" latitude="17.5" longitude="-52.1" windspeed="35" pressure="1008"/>
+  <Track date="2000-09-03T00:00:00" category="TS" latitude="18.2" longitude="-53.6" windspeed="35" pressure="1008"/>
+  <Track date="2000-09-03T06:00:00" category="TS" latitude="18.8" longitude="-55.0" windspeed="35" pressure="1008"/>
+  <Track date="2000-09-03T12:00:00" category="TS" latitude="19.4" longitude="-56.6" windspeed="35" pressure="1008"/>
+  <Track date="2000-09-03T18:00:00" category="TD" latitude="20.0" longitude="-58.0" windspeed="30" pressure="1009"/>
+</StormTrackResponse>

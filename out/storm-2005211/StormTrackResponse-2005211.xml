@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2005211" name="VINCE" pnumber="200520" hnumber="200521" from="2005-10-08 06:00:00" thru="2005-10-11 12:00:00" minlat="32.9" maxlat="37.7" minlon="-20.6" maxlon="-6.0" maxwind="65" minpress="988" maxcat="H1" basin="AT">
+  <Track date="2005-10-08T06:00:00" category="SS" latitude="32.9" longitude="-20.6" windspeed="40" pressure="1001"/>
+  <Track date="2005-10-08T12:00:00" category="SS" latitude="33.0" longitude="-20.3" windspeed="45" pressure="1000"/>
+  <Track date="2005-10-08T18:00:00" category="SS" latitude="33.1" longitude="-20.1" windspeed="45" pressure="1000"/>
+  <Track date="2005-10-09T00:00:00" category="SS" latitude="33.2" longitude="-20.0" windspeed="45" pressure="999"/>
+  <Track date="2005-10-09T06:00:00" category="SS" latitude="33.4" longitude="-19.6" windspeed="50" pressure="998"/>
+  <Track date="2005-10-09T12:00:00" category="TS" latitude="33.8" longitude="-19.3" windspeed="55" pressure="995"/>
+  <Track date="2005-10-09T18:00:00" category="H1" latitude="34.1" longitude="-18.9" windspeed="65" pressure="988"/>
+  <Track date="2005-10-10T00:00:00" category="TS" latitude="34.3" longitude="-18.3" windspeed="60" pressure="990"/>
+  <Track date="2005-10-10T06:00:00" category="TS" latitude="34.5" longitude="-17.2" windspeed="50" pressure="992"/>
+  <Track date="2005-10-10T12:00:00" category="TS" latitude="34.7" longitude="-15.3" windspeed="45" pressure="995"/>
+  <Track date="2005-10-10T18:00:00" category="TS" latitude="35.4" longitude="-12.8" windspeed="35" pressure="998"/>
+  <Track date="2005-10-11T00:00:00" category="TD" latitude="36.1" longitude="-10.5" windspeed="30" pressure="1000"/>
+  <Track date="2005-10-11T06:00:00" category="TD" latitude="36.7" longitude="-8.3" windspeed="30" pressure="1002"/>
+  <Track date="2005-10-11T12:00:00" category="TD" latitude="37.7" longitude="-6.0" windspeed="30" pressure="1003"/>
+</StormTrackResponse>

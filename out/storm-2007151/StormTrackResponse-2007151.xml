@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007151" name="OLGA" pnumber="200715" hnumber="200715" from="2007-12-10 12:00:00" thru="2007-12-16 06:00:00" minlat="18.3" maxlat="26.3" minlon="-88.2" maxlon="-61.8" maxwind="50" minpress="1003" maxcat="TS" basin="AT">
+  <Track date="2007-12-10T12:00:00" category="LP" latitude="18.3" longitude="-61.8" windspeed="35" pressure="1009"/>
+  <Track date="2007-12-10T18:00:00" category="LP" latitude="18.3" longitude="-63.2" windspeed="35" pressure="1008"/>
+  <Track date="2007-12-11T00:00:00" category="SS" latitude="18.4" longitude="-64.7" windspeed="35" pressure="1007"/>
+  <Track date="2007-12-11T06:00:00" category="SS" latitude="18.5" longitude="-66.3" windspeed="40" pressure="1005"/>
+  <Track date="2007-12-11T12:00:00" category="SS" latitude="18.3" longitude="-67.4" windspeed="45" pressure="1004"/>
+  <Track date="2007-12-11T18:00:00" category="TS" latitude="18.5" longitude="-68.4" windspeed="50" pressure="1003"/>
+  <Track date="2007-12-12T00:00:00" category="TS" latitude="19.0" longitude="-70.0" windspeed="50" pressure="1003"/>
+  <Track date="2007-12-12T06:00:00" category="TS" latitude="19.1" longitude="-71.9" windspeed="40" pressure="1005"/>
+  <Track date="2007-12-12T12:00:00" category="TS" latitude="19.1" longitude="-73.8" windspeed="35" pressure="1008"/>
+  <Track date="2007-12-12T18:00:00" category="TD" latitude="19.0" longitude="-75.7" windspeed="30" pressure="1008"/>
+  <Track date="2007-12-13T00:00:00" category="LP" latitude="18.9" longitude="-77.2" windspeed="30" pressure="1008"/>
+  <Track date="2007-12-13T06:00:00" category="LP" latitude="19.0" longitude="-78.7" windspeed="30" pressure="1007"/>
+  <Track date="2007-12-13T12:00:00" category="LP" latitude="19.4" longitude="-80.1" windspeed="30" pressure="1007"/>
+  <Track date="2007-12-13T18:00:00" category="LP" latitude="19.6" longitude="-81.3" windspeed="30" pressure="1007"/>
+  <Track date="2007-12-14T00:00:00" category="LP" latitude="19.7" longitude="-82.3" windspeed="30" pressure="1007"/>
+  <Track date="2007-12-14T06:00:00" category="LP" latitude="19.7" longitude="-83.3" windspeed="30" pressure="1007"/>
+  <Track date="2007-12-14T12:00:00" category="LP" latitude="19.6" longitude="-84.2" windspeed="30" pressure="1007"/>
+  <Track date="2007-12-14T18:00:00" category="LP" latitude="19.5" longitude="-85.1" windspeed="30" pressure="1007"/>
+  <Track date="2007-12-15T00:00:00" category="LP" latitude="20.0" longitude="-85.8" windspeed="30" pressure="1006"/>
+  <Track date="2007-12-15T06:00:00" category="LP" latitude="20.6" longitude="-86.5" windspeed="30" pressure="1006"/>
+  <Track date="2007-12-15T12:00:00" category="LP" latitude="21.7" longitude="-87.4" windspeed="30" pressure="1007"/>
+  <Track date="2007-12-15T18:00:00" category="LP" latitude="23.3" longitude="-88.2" windspeed="30" pressure="1007"/>
+  <Track date="2007-12-16T00:00:00" category="LP" latitude="25.0" longitude="-87.2" windspeed="30" pressure="1005"/>
+  <Track date="2007-12-16T06:00:00" category="LP" latitude="26.3" longitude="-85.2" windspeed="25" pressure="1006"/>
+</StormTrackResponse>

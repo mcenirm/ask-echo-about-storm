@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2006041" name="CHRIS" pnumber="200604" hnumber="200604" from="2006-08-01 00:00:00" thru="2006-08-06 12:00:00" minlat="16.3" maxlat="23.2" minlon="-81.7" maxlon="-58.1" maxwind="55" minpress="1001" maxcat="TS" basin="AT">
+  <Track date="2006-08-01T00:00:00" category="TD" latitude="16.3" longitude="-58.1" windspeed="30" pressure="1011"/>
+  <Track date="2006-08-01T06:00:00" category="TS" latitude="16.8" longitude="-58.9" windspeed="35" pressure="1009"/>
+  <Track date="2006-08-01T12:00:00" category="TS" latitude="17.2" longitude="-59.8" windspeed="40" pressure="1006"/>
+  <Track date="2006-08-01T18:00:00" category="TS" latitude="17.7" longitude="-60.6" windspeed="50" pressure="1004"/>
+  <Track date="2006-08-02T00:00:00" category="TS" latitude="18.1" longitude="-61.4" windspeed="50" pressure="1003"/>
+  <Track date="2006-08-02T06:00:00" category="TS" latitude="18.5" longitude="-62.2" windspeed="55" pressure="1001"/>
+  <Track date="2006-08-02T12:00:00" category="TS" latitude="19.0" longitude="-63.0" windspeed="55" pressure="1001"/>
+  <Track date="2006-08-02T18:00:00" category="TS" latitude="19.6" longitude="-63.9" windspeed="50" pressure="1004"/>
+  <Track date="2006-08-03T00:00:00" category="TS" latitude="19.9" longitude="-64.8" windspeed="50" pressure="1007"/>
+  <Track date="2006-08-03T06:00:00" category="TS" latitude="20.2" longitude="-65.8" windspeed="40" pressure="1010"/>
+  <Track date="2006-08-03T12:00:00" category="TS" latitude="20.4" longitude="-66.8" windspeed="35" pressure="1011"/>
+  <Track date="2006-08-03T18:00:00" category="TD" latitude="20.6" longitude="-67.7" windspeed="30" pressure="1011"/>
+  <Track date="2006-08-04T00:00:00" category="TD" latitude="20.7" longitude="-68.7" windspeed="30" pressure="1011"/>
+  <Track date="2006-08-04T06:00:00" category="LP" latitude="20.8" longitude="-70.2" windspeed="25" pressure="1011"/>
+  <Track date="2006-08-04T12:00:00" category="LP" latitude="21.2" longitude="-71.1" windspeed="25" pressure="1011"/>
+  <Track date="2006-08-04T18:00:00" category="LP" latitude="21.3" longitude="-72.2" windspeed="25" pressure="1012"/>
+  <Track date="2006-08-05T00:00:00" category="LP" latitude="21.5" longitude="-73.4" windspeed="25" pressure="1012"/>
+  <Track date="2006-08-05T06:00:00" category="LP" latitude="21.6" longitude="-75.0" windspeed="20" pressure="1012"/>
+  <Track date="2006-08-05T12:00:00" category="LP" latitude="21.8" longitude="-76.3" windspeed="20" pressure="1012"/>
+  <Track date="2006-08-05T18:00:00" category="LP" latitude="22.1" longitude="-77.6" windspeed="20" pressure="1012"/>
+  <Track date="2006-08-06T00:00:00" category="LP" latitude="22.4" longitude="-78.9" windspeed="20" pressure="1012"/>
+  <Track date="2006-08-06T06:00:00" category="LP" latitude="22.8" longitude="-80.2" windspeed="20" pressure="1013"/>
+  <Track date="2006-08-06T12:00:00" category="LP" latitude="23.2" longitude="-81.7" windspeed="15" pressure="1013"/>
+</StormTrackResponse>

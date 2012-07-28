@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007021" name="BARRY" pnumber="200702" hnumber="200702" from="2007-05-31 00:00:00" thru="2007-06-05 12:00:00" minlat="18.1" maxlat="47.5" minlon="-87.0" maxlon="-68.5" maxwind="50" minpress="990" maxcat="ES" basin="AT">
+  <Track date="2007-05-31T00:00:00" category="LP" latitude="18.1" longitude="-87.0" windspeed="25" pressure="1008"/>
+  <Track date="2007-05-31T06:00:00" category="LP" latitude="18.7" longitude="-86.9" windspeed="25" pressure="1007"/>
+  <Track date="2007-05-31T12:00:00" category="LP" latitude="19.1" longitude="-86.8" windspeed="25" pressure="1006"/>
+  <Track date="2007-05-31T18:00:00" category="LP" latitude="19.6" longitude="-86.6" windspeed="25" pressure="1005"/>
+  <Track date="2007-06-01T00:00:00" category="LP" latitude="20.1" longitude="-86.0" windspeed="25" pressure="1005"/>
+  <Track date="2007-06-01T06:00:00" category="LP" latitude="21.2" longitude="-85.8" windspeed="25" pressure="1005"/>
+  <Track date="2007-06-01T12:00:00" category="TD" latitude="22.3" longitude="-85.8" windspeed="30" pressure="1004"/>
+  <Track date="2007-06-01T18:00:00" category="TS" latitude="23.6" longitude="-85.7" windspeed="40" pressure="1000"/>
+  <Track date="2007-06-02T00:00:00" category="TS" latitude="24.3" longitude="-85.2" windspeed="50" pressure="997"/>
+  <Track date="2007-06-02T06:00:00" category="TS" latitude="25.1" longitude="-84.6" windspeed="45" pressure="998"/>
+  <Track date="2007-06-02T12:00:00" category="TS" latitude="27.0" longitude="-83.2" windspeed="40" pressure="1000"/>
+  <Track date="2007-06-02T18:00:00" category="TD" latitude="29.7" longitude="-82.1" windspeed="30" pressure="1001"/>
+  <Track date="2007-06-03T00:00:00" category="ES" latitude="31.4" longitude="-81.4" windspeed="35" pressure="997"/>
+  <Track date="2007-06-03T06:00:00" category="ES" latitude="32.1" longitude="-81.0" windspeed="40" pressure="994"/>
+  <Track date="2007-06-03T12:00:00" category="ES" latitude="32.8" longitude="-80.0" windspeed="40" pressure="994"/>
+  <Track date="2007-06-03T18:00:00" category="ES" latitude="33.7" longitude="-78.4" windspeed="40" pressure="994"/>
+  <Track date="2007-06-04T00:00:00" category="ES" latitude="35.3" longitude="-76.0" windspeed="40" pressure="992"/>
+  <Track date="2007-06-04T06:00:00" category="ES" latitude="37.2" longitude="-74.6" windspeed="40" pressure="990"/>
+  <Track date="2007-06-04T12:00:00" category="ES" latitude="39.0" longitude="-73.2" windspeed="40" pressure="990"/>
+  <Track date="2007-06-04T18:00:00" category="ES" latitude="40.7" longitude="-72.1" windspeed="35" pressure="991"/>
+  <Track date="2007-06-05T00:00:00" category="ES" latitude="42.4" longitude="-70.8" windspeed="35" pressure="992"/>
+  <Track date="2007-06-05T06:00:00" category="ED" latitude="44.6" longitude="-69.5" windspeed="30" pressure="992"/>
+  <Track date="2007-06-05T12:00:00" category="ED" latitude="47.5" longitude="-68.5" windspeed="30" pressure="992"/>
+</StormTrackResponse>

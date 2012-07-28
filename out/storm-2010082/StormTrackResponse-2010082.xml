@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2010082" name="OMEKA" pnumber="201008" hnumber="201008" from="2010-12-16 00:00:00" thru="2010-12-22 18:00:00" minlat="20.1" maxlat="34.1" minlon="-180.0" maxlon="179.9" maxwind="50" minpress="997" maxcat="TS" basin="EP">
+  <Track date="2010-12-16T00:00:00" category="ED" latitude="30.0" longitude="175.0" windspeed="25" pressure="1006"/>
+  <Track date="2010-12-16T06:00:00" category="ED" latitude="29.0" longitude="176.0" windspeed="25" pressure="1006"/>
+  <Track date="2010-12-16T12:00:00" category="ED" latitude="28.0" longitude="177.0" windspeed="25" pressure="1006"/>
+  <Track date="2010-12-16T18:00:00" category="ED" latitude="27.0" longitude="179.0" windspeed="25" pressure="1005"/>
+  <Track date="2010-12-17T00:00:00" category="ED" latitude="26.0" longitude="-180.0" windspeed="25" pressure="1004"/>
+  <Track date="2010-12-17T06:00:00" category="ED" latitude="25.6" longitude="-179.5" windspeed="25" pressure="1004"/>
+  <Track date="2010-12-17T12:00:00" category="ED" latitude="25.0" longitude="-179.0" windspeed="25" pressure="1004"/>
+  <Track date="2010-12-17T18:00:00" category="ED" latitude="24.6" longitude="-178.7" windspeed="30" pressure="1003"/>
+  <Track date="2010-12-18T00:00:00" category="SD" latitude="24.2" longitude="-178.5" windspeed="30" pressure="1002"/>
+  <Track date="2010-12-18T06:00:00" category="SD" latitude="23.8" longitude="-178.6" windspeed="30" pressure="1002"/>
+  <Track date="2010-12-18T12:00:00" category="SS" latitude="23.6" longitude="-178.7" windspeed="35" pressure="1002"/>
+  <Track date="2010-12-18T18:00:00" category="SS" latitude="23.0" longitude="-179.8" windspeed="35" pressure="1002"/>
+  <Track date="2010-12-19T00:00:00" category="SS" latitude="22.2" longitude="179.4" windspeed="40" pressure="1001"/>
+  <Track date="2010-12-19T06:00:00" category="SS" latitude="21.6" longitude="179.1" windspeed="45" pressure="1000"/>
+  <Track date="2010-12-19T12:00:00" category="SS" latitude="21.1" longitude="179.0" windspeed="50" pressure="999"/>
+  <Track date="2010-12-19T18:00:00" category="SS" latitude="20.4" longitude="179.1" windspeed="50" pressure="999"/>
+  <Track date="2010-12-20T00:00:00" category="SS" latitude="20.1" longitude="179.9" windspeed="45" pressure="998"/>
+  <Track date="2010-12-20T06:00:00" category="TS" latitude="20.4" longitude="-178.9" windspeed="45" pressure="997"/>
+  <Track date="2010-12-20T12:00:00" category="TS" latitude="21.0" longitude="-177.3" windspeed="45" pressure="997"/>
+  <Track date="2010-12-20T18:00:00" category="TS" latitude="22.4" longitude="-176.1" windspeed="35" pressure="999"/>
+  <Track date="2010-12-21T00:00:00" category="TS" latitude="23.8" longitude="-174.6" windspeed="35" pressure="1000"/>
+  <Track date="2010-12-21T06:00:00" category="TS" latitude="25.4" longitude="-173.7" windspeed="35" pressure="1001"/>
+  <Track date="2010-12-21T12:00:00" category="TS" latitude="27.0" longitude="-173.0" windspeed="35" pressure="1002"/>
+  <Track date="2010-12-21T18:00:00" category="TS" latitude="29.0" longitude="-172.6" windspeed="35" pressure="1002"/>
+  <Track date="2010-12-22T00:00:00" category="TD" latitude="30.7" longitude="-172.2" windspeed="30" pressure="1002"/>
+  <Track date="2010-12-22T06:00:00" category="TD" latitude="32.2" longitude="-172.4" windspeed="30" pressure="1004"/>
+  <Track date="2010-12-22T12:00:00" category="TD" latitude="33.3" longitude="-172.3" windspeed="25" pressure="1006"/>
+  <Track date="2010-12-22T18:00:00" category="TD" latitude="34.1" longitude="-172.0" windspeed="25" pressure="1008"/>
+</StormTrackResponse>

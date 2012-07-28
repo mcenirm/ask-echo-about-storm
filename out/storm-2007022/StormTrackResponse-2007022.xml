@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007022" name="BARBARA" pnumber="200702" hnumber="200702" from="2007-05-29 18:00:00" thru="2007-06-02 18:00:00" minlat="12.9" maxlat="15.2" minlon="-97.5" maxlon="-92.3" maxwind="45" minpress="1000" maxcat="TS" basin="EP">
+  <Track date="2007-05-29T18:00:00" category="TD" latitude="14.2" longitude="-97.5" windspeed="30" pressure="1007"/>
+  <Track date="2007-05-30T00:00:00" category="TD" latitude="14.2" longitude="-97.5" windspeed="30" pressure="1007"/>
+  <Track date="2007-05-30T06:00:00" category="TD" latitude="14.2" longitude="-97.4" windspeed="30" pressure="1006"/>
+  <Track date="2007-05-30T12:00:00" category="TS" latitude="14.0" longitude="-97.3" windspeed="35" pressure="1005"/>
+  <Track date="2007-05-30T18:00:00" category="TS" latitude="13.6" longitude="-97.2" windspeed="40" pressure="1003"/>
+  <Track date="2007-05-31T00:00:00" category="TS" latitude="13.2" longitude="-96.9" windspeed="40" pressure="1002"/>
+  <Track date="2007-05-31T06:00:00" category="TS" latitude="13.1" longitude="-96.5" windspeed="40" pressure="1002"/>
+  <Track date="2007-05-31T12:00:00" category="TS" latitude="13.0" longitude="-96.1" windspeed="35" pressure="1004"/>
+  <Track date="2007-05-31T18:00:00" category="TS" latitude="12.9" longitude="-95.7" windspeed="35" pressure="1004"/>
+  <Track date="2007-06-01T00:00:00" category="TD" latitude="12.9" longitude="-95.3" windspeed="30" pressure="1005"/>
+  <Track date="2007-06-01T06:00:00" category="TS" latitude="13.0" longitude="-94.9" windspeed="35" pressure="1004"/>
+  <Track date="2007-06-01T12:00:00" category="TS" latitude="13.2" longitude="-94.4" windspeed="45" pressure="1001"/>
+  <Track date="2007-06-01T18:00:00" category="TS" latitude="13.4" longitude="-93.8" windspeed="45" pressure="1000"/>
+  <Track date="2007-06-02T00:00:00" category="TS" latitude="13.7" longitude="-93.3" windspeed="45" pressure="1000"/>
+  <Track date="2007-06-02T06:00:00" category="TS" latitude="14.1" longitude="-92.8" windspeed="45" pressure="1000"/>
+  <Track date="2007-06-02T12:00:00" category="TS" latitude="14.6" longitude="-92.5" windspeed="45" pressure="1000"/>
+  <Track date="2007-06-02T18:00:00" category="TD" latitude="15.2" longitude="-92.3" windspeed="25" pressure="1006"/>
+</StormTrackResponse>

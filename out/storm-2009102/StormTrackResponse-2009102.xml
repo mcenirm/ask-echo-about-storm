@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2009102" name="IGNACIO" pnumber="200910" hnumber="200910" from="2009-08-24 18:00:00" thru="2009-08-28 18:00:00" minlat="16.6" maxlat="30.0" minlon="-128.5" maxlon="-116.3" maxwind="45" minpress="999" maxcat="TS" basin="EP">
+  <Track date="2009-08-24T18:00:00" category="TD" latitude="16.6" longitude="-116.3" windspeed="30" pressure="1005"/>
+  <Track date="2009-08-25T00:00:00" category="TS" latitude="17.2" longitude="-117.0" windspeed="35" pressure="1004"/>
+  <Track date="2009-08-25T06:00:00" category="TS" latitude="17.7" longitude="-117.9" windspeed="40" pressure="1002"/>
+  <Track date="2009-08-25T12:00:00" category="TS" latitude="18.3" longitude="-118.9" windspeed="45" pressure="999"/>
+  <Track date="2009-08-25T18:00:00" category="TS" latitude="19.1" longitude="-120.0" windspeed="45" pressure="1000"/>
+  <Track date="2009-08-26T00:00:00" category="TS" latitude="19.8" longitude="-121.2" windspeed="45" pressure="1000"/>
+  <Track date="2009-08-26T06:00:00" category="TS" latitude="20.4" longitude="-122.5" windspeed="45" pressure="1000"/>
+  <Track date="2009-08-26T12:00:00" category="TS" latitude="21.2" longitude="-123.5" windspeed="45" pressure="1000"/>
+  <Track date="2009-08-26T18:00:00" category="TS" latitude="22.2" longitude="-124.4" windspeed="40" pressure="1002"/>
+  <Track date="2009-08-27T00:00:00" category="TS" latitude="23.2" longitude="-125.4" windspeed="35" pressure="1005"/>
+  <Track date="2009-08-27T06:00:00" category="TD" latitude="24.1" longitude="-126.2" windspeed="30" pressure="1005"/>
+  <Track date="2009-08-27T12:00:00" category="LP" latitude="25.1" longitude="-127.2" windspeed="30" pressure="1007"/>
+  <Track date="2009-08-27T18:00:00" category="LP" latitude="26.4" longitude="-128.0" windspeed="30" pressure="1007"/>
+  <Track date="2009-08-28T00:00:00" category="LP" latitude="27.8" longitude="-128.4" windspeed="25" pressure="1007"/>
+  <Track date="2009-08-28T06:00:00" category="TD" latitude="28.5" longitude="-128.5" windspeed="20" pressure="1008"/>
+  <Track date="2009-08-28T12:00:00" category="TD" latitude="29.3" longitude="-128.5" windspeed="20" pressure="1008"/>
+  <Track date="2009-08-28T18:00:00" category="TD" latitude="30.0" longitude="-128.5" windspeed="20" pressure="1008"/>
+</StormTrackResponse>

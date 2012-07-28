@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2009182" name="RICK" pnumber="200918" hnumber="200918" from="2009-10-15 18:00:00" thru="2009-10-21 18:00:00" minlat="11.9" maxlat="23.9" minlon="-111.8" maxlon="-96.6" maxwind="155" minpress="906" maxcat="H5" basin="EP">
+  <Track date="2009-10-15T18:00:00" category="TD" latitude="11.9" longitude="-96.6" windspeed="30" pressure="1005"/>
+  <Track date="2009-10-16T00:00:00" category="TS" latitude="12.1" longitude="-97.3" windspeed="40" pressure="1002"/>
+  <Track date="2009-10-16T06:00:00" category="TS" latitude="12.3" longitude="-98.1" windspeed="50" pressure="997"/>
+  <Track date="2009-10-16T12:00:00" category="TS" latitude="12.6" longitude="-98.9" windspeed="60" pressure="991"/>
+  <Track date="2009-10-16T18:00:00" category="H1" latitude="12.9" longitude="-99.7" windspeed="70" pressure="984"/>
+  <Track date="2009-10-17T00:00:00" category="H2" latitude="13.3" longitude="-100.5" windspeed="85" pressure="975"/>
+  <Track date="2009-10-17T06:00:00" category="H2" latitude="13.8" longitude="-101.4" windspeed="95" pressure="966"/>
+  <Track date="2009-10-17T12:00:00" category="H4" latitude="14.2" longitude="-102.5" windspeed="120" pressure="942"/>
+  <Track date="2009-10-17T18:00:00" category="H4" latitude="14.6" longitude="-103.9" windspeed="135" pressure="928"/>
+  <Track date="2009-10-18T00:00:00" category="H5" latitude="14.9" longitude="-105.3" windspeed="150" pressure="914"/>
+  <Track date="2009-10-18T06:00:00" category="H5" latitude="15.2" longitude="-106.6" windspeed="155" pressure="906"/>
+  <Track date="2009-10-18T12:00:00" category="H5" latitude="15.7" longitude="-107.8" windspeed="155" pressure="906"/>
+  <Track date="2009-10-18T18:00:00" category="H5" latitude="16.2" longitude="-109.0" windspeed="140" pressure="921"/>
+  <Track date="2009-10-19T00:00:00" category="H4" latitude="16.7" longitude="-109.9" windspeed="125" pressure="936"/>
+  <Track date="2009-10-19T06:00:00" category="H3" latitude="17.1" longitude="-110.7" windspeed="110" pressure="952"/>
+  <Track date="2009-10-19T12:00:00" category="H2" latitude="17.7" longitude="-111.3" windspeed="95" pressure="965"/>
+  <Track date="2009-10-19T18:00:00" category="H1" latitude="18.2" longitude="-111.6" windspeed="75" pressure="976"/>
+  <Track date="2009-10-20T00:00:00" category="H1" latitude="18.7" longitude="-111.8" windspeed="65" pressure="984"/>
+  <Track date="2009-10-20T06:00:00" category="TS" latitude="19.3" longitude="-111.6" windspeed="60" pressure="986"/>
+  <Track date="2009-10-20T12:00:00" category="TS" latitude="19.8" longitude="-111.2" windspeed="55" pressure="989"/>
+  <Track date="2009-10-20T18:00:00" category="TS" latitude="20.2" longitude="-110.5" windspeed="55" pressure="989"/>
+  <Track date="2009-10-21T00:00:00" category="TS" latitude="20.8" longitude="-109.7" windspeed="55" pressure="989"/>
+  <Track date="2009-10-21T06:00:00" category="TS" latitude="21.7" longitude="-108.6" windspeed="55" pressure="989"/>
+  <Track date="2009-10-21T12:00:00" category="TS" latitude="22.8" longitude="-107.2" windspeed="50" pressure="989"/>
+  <Track date="2009-10-21T18:00:00" category="TD" latitude="23.9" longitude="-105.7" windspeed="30" pressure="1000"/>
+</StormTrackResponse>

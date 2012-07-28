@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2006182" name="ROSA" pnumber="200618" hnumber="200618" from="2006-11-08 06:00:00" thru="2006-11-10 18:00:00" minlat="12.7" maxlat="16.0" minlon="-106.3" maxlon="-103.7" maxwind="35" minpress="1002" maxcat="TS" basin="EP">
+  <Track date="2006-11-08T06:00:00" category="TD" latitude="12.7" longitude="-103.7" windspeed="30" pressure="1006"/>
+  <Track date="2006-11-08T12:00:00" category="TD" latitude="13.3" longitude="-104.1" windspeed="30" pressure="1004"/>
+  <Track date="2006-11-08T18:00:00" category="TD" latitude="13.8" longitude="-104.5" windspeed="30" pressure="1004"/>
+  <Track date="2006-11-09T00:00:00" category="TD" latitude="14.3" longitude="-104.9" windspeed="30" pressure="1004"/>
+  <Track date="2006-11-09T06:00:00" category="TS" latitude="14.8" longitude="-105.2" windspeed="35" pressure="1002"/>
+  <Track date="2006-11-09T12:00:00" category="TS" latitude="15.1" longitude="-105.4" windspeed="35" pressure="1002"/>
+  <Track date="2006-11-09T18:00:00" category="TS" latitude="15.3" longitude="-105.5" windspeed="35" pressure="1002"/>
+  <Track date="2006-11-10T00:00:00" category="TD" latitude="15.5" longitude="-105.6" windspeed="30" pressure="1004"/>
+  <Track date="2006-11-10T06:00:00" category="TD" latitude="15.7" longitude="-105.7" windspeed="25" pressure="1005"/>
+  <Track date="2006-11-10T12:00:00" category="TD" latitude="15.9" longitude="-105.9" windspeed="25" pressure="1006"/>
+  <Track date="2006-11-10T18:00:00" category="TD" latitude="16.0" longitude="-106.3" windspeed="25" pressure="1007"/>
+</StormTrackResponse>

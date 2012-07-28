@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011021" name="BRET" pnumber="201102" hnumber="201102" from="2011-07-17 18:00:00" thru="2011-07-22 06:00:00" minlat="27.1" maxlat="36.2" minlon="-78.2" maxlon="-67.4" maxwind="55" minpress="998" maxcat="TS" basin="AT">
+  <Track date="2011-07-17T18:00:00" category="TD" latitude="27.7" longitude="-78.2" windspeed="30" pressure="1011"/>
+  <Track date="2011-07-18T00:00:00" category="TS" latitude="27.5" longitude="-78.1" windspeed="35" pressure="1009"/>
+  <Track date="2011-07-18T06:00:00" category="TS" latitude="27.1" longitude="-78.0" windspeed="45" pressure="1002"/>
+  <Track date="2011-07-18T12:00:00" category="TS" latitude="27.4" longitude="-77.5" windspeed="45" pressure="1000"/>
+  <Track date="2011-07-18T18:00:00" category="TS" latitude="27.9" longitude="-77.1" windspeed="50" pressure="998"/>
+  <Track date="2011-07-19T00:00:00" category="TS" latitude="28.5" longitude="-76.8" windspeed="55" pressure="998"/>
+  <Track date="2011-07-19T06:00:00" category="TS" latitude="29.0" longitude="-76.6" windspeed="45" pressure="1000"/>
+  <Track date="2011-07-19T12:00:00" category="TS" latitude="29.5" longitude="-76.2" windspeed="45" pressure="1000"/>
+  <Track date="2011-07-19T18:00:00" category="TS" latitude="30.1" longitude="-75.8" windspeed="45" pressure="1000"/>
+  <Track date="2011-07-20T00:00:00" category="TS" latitude="30.4" longitude="-75.3" windspeed="45" pressure="1001"/>
+  <Track date="2011-07-20T06:00:00" category="TS" latitude="30.8" longitude="-74.7" windspeed="45" pressure="1001"/>
+  <Track date="2011-07-20T12:00:00" category="TS" latitude="31.4" longitude="-74.1" windspeed="45" pressure="1001"/>
+  <Track date="2011-07-20T18:00:00" category="TS" latitude="31.6" longitude="-73.5" windspeed="40" pressure="1005"/>
+  <Track date="2011-07-21T00:00:00" category="TS" latitude="32.5" longitude="-72.7" windspeed="40" pressure="1005"/>
+  <Track date="2011-07-21T06:00:00" category="TS" latitude="32.9" longitude="-72.1" windspeed="35" pressure="1007"/>
+  <Track date="2011-07-21T12:00:00" category="TS" latitude="33.5" longitude="-71.1" windspeed="35" pressure="1007"/>
+  <Track date="2011-07-21T18:00:00" category="TS" latitude="34.0" longitude="-70.1" windspeed="35" pressure="1007"/>
+  <Track date="2011-07-22T00:00:00" category="TD" latitude="35.1" longitude="-68.9" windspeed="30" pressure="1008"/>
+  <Track date="2011-07-22T06:00:00" category="TD" latitude="36.2" longitude="-67.4" windspeed="30" pressure="1008"/>
+</StormTrackResponse>

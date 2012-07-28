@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2009051" name="ERIKA" pnumber="200905" hnumber="200905" from="2009-09-01 18:00:00" thru="2009-09-04 06:00:00" minlat="16.3" maxlat="17.0" minlon="-66.5" maxlon="-57.3" maxwind="45" minpress="1004" maxcat="TS" basin="AT">
+  <Track date="2009-09-01T18:00:00" category="TS" latitude="16.7" longitude="-57.3" windspeed="45" pressure="1007"/>
+  <Track date="2009-09-02T00:00:00" category="TS" latitude="16.8" longitude="-58.0" windspeed="45" pressure="1004"/>
+  <Track date="2009-09-02T06:00:00" category="TS" latitude="16.5" longitude="-58.9" windspeed="45" pressure="1005"/>
+  <Track date="2009-09-02T12:00:00" category="TS" latitude="16.4" longitude="-59.9" windspeed="35" pressure="1008"/>
+  <Track date="2009-09-02T18:00:00" category="TS" latitude="16.3" longitude="-61.0" windspeed="35" pressure="1008"/>
+  <Track date="2009-09-03T00:00:00" category="TS" latitude="16.3" longitude="-61.9" windspeed="35" pressure="1009"/>
+  <Track date="2009-09-03T06:00:00" category="TS" latitude="16.4" longitude="-62.7" windspeed="40" pressure="1008"/>
+  <Track date="2009-09-03T12:00:00" category="TS" latitude="16.5" longitude="-63.5" windspeed="40" pressure="1008"/>
+  <Track date="2009-09-03T18:00:00" category="TD" latitude="16.6" longitude="-64.5" windspeed="30" pressure="1008"/>
+  <Track date="2009-09-04T00:00:00" category="LP" latitude="16.8" longitude="-65.5" windspeed="25" pressure="1009"/>
+  <Track date="2009-09-04T06:00:00" category="LP" latitude="17.0" longitude="-66.5" windspeed="25" pressure="1010"/>
+</StormTrackResponse>

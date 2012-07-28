@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2010062" name="FRANK" pnumber="201006" hnumber="201006" from="2010-08-21 18:00:00" thru="2010-08-29 00:00:00" minlat="13.8" maxlat="20.9" minlon="-112.5" maxlon="-93.3" maxwind="80" minpress="978" maxcat="H1" basin="EP">
+  <Track date="2010-08-21T18:00:00" category="TD" latitude="13.9" longitude="-93.3" windspeed="25" pressure="1007"/>
+  <Track date="2010-08-22T00:00:00" category="TD" latitude="13.8" longitude="-93.8" windspeed="30" pressure="1006"/>
+  <Track date="2010-08-22T06:00:00" category="TD" latitude="13.8" longitude="-94.4" windspeed="30" pressure="1005"/>
+  <Track date="2010-08-22T12:00:00" category="TS" latitude="13.8" longitude="-95.0" windspeed="40" pressure="1002"/>
+  <Track date="2010-08-22T18:00:00" category="TS" latitude="13.9" longitude="-95.7" windspeed="50" pressure="1000"/>
+  <Track date="2010-08-23T00:00:00" category="TS" latitude="14.0" longitude="-96.4" windspeed="50" pressure="998"/>
+  <Track date="2010-08-23T06:00:00" category="TS" latitude="14.2" longitude="-97.1" windspeed="50" pressure="999"/>
+  <Track date="2010-08-23T12:00:00" category="TS" latitude="14.5" longitude="-98.0" windspeed="45" pressure="1000"/>
+  <Track date="2010-08-23T18:00:00" category="TS" latitude="14.8" longitude="-98.9" windspeed="45" pressure="1000"/>
+  <Track date="2010-08-24T00:00:00" category="TS" latitude="15.0" longitude="-99.7" windspeed="45" pressure="1000"/>
+  <Track date="2010-08-24T06:00:00" category="TS" latitude="15.2" longitude="-100.5" windspeed="50" pressure="997"/>
+  <Track date="2010-08-24T12:00:00" category="TS" latitude="15.4" longitude="-101.1" windspeed="55" pressure="994"/>
+  <Track date="2010-08-24T18:00:00" category="TS" latitude="15.6" longitude="-101.8" windspeed="55" pressure="992"/>
+  <Track date="2010-08-25T00:00:00" category="TS" latitude="15.9" longitude="-102.7" windspeed="60" pressure="991"/>
+  <Track date="2010-08-25T06:00:00" category="TS" latitude="16.2" longitude="-103.6" windspeed="60" pressure="989"/>
+  <Track date="2010-08-25T12:00:00" category="H1" latitude="16.5" longitude="-104.6" windspeed="65" pressure="987"/>
+  <Track date="2010-08-25T18:00:00" category="H1" latitude="16.8" longitude="-105.7" windspeed="65" pressure="987"/>
+  <Track date="2010-08-26T00:00:00" category="H1" latitude="17.1" longitude="-106.9" windspeed="70" pressure="984"/>
+  <Track date="2010-08-26T06:00:00" category="H1" latitude="17.2" longitude="-108.1" windspeed="70" pressure="984"/>
+  <Track date="2010-08-26T12:00:00" category="H1" latitude="17.4" longitude="-109.0" windspeed="75" pressure="981"/>
+  <Track date="2010-08-26T18:00:00" category="H1" latitude="17.9" longitude="-109.9" windspeed="80" pressure="978"/>
+  <Track date="2010-08-27T00:00:00" category="H1" latitude="18.2" longitude="-110.9" windspeed="75" pressure="981"/>
+  <Track date="2010-08-27T06:00:00" category="H1" latitude="18.5" longitude="-111.4" windspeed="70" pressure="984"/>
+  <Track date="2010-08-27T12:00:00" category="H1" latitude="18.7" longitude="-111.8" windspeed="65" pressure="987"/>
+  <Track date="2010-08-27T18:00:00" category="TS" latitude="19.1" longitude="-112.1" windspeed="55" pressure="994"/>
+  <Track date="2010-08-28T00:00:00" category="TS" latitude="19.6" longitude="-112.5" windspeed="45" pressure="999"/>
+  <Track date="2010-08-28T06:00:00" category="TS" latitude="20.0" longitude="-112.4" windspeed="35" pressure="1005"/>
+  <Track date="2010-08-28T12:00:00" category="TD" latitude="20.6" longitude="-112.3" windspeed="30" pressure="1005"/>
+  <Track date="2010-08-28T18:00:00" category="LP" latitude="20.9" longitude="-111.8" windspeed="25" pressure="1007"/>
+  <Track date="2010-08-29T00:00:00" category="LP" latitude="20.8" longitude="-111.3" windspeed="25" pressure="1007"/>
+</StormTrackResponse>

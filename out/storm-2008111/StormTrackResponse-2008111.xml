@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2008111" name="KYLE" pnumber="200811" hnumber="200811" from="2008-09-25 00:00:00" thru="2008-09-30 12:00:00" minlat="21.5" maxlat="48.4" minlon="-70.0" maxlon="-60.8" maxwind="75" minpress="984" maxcat="H1" basin="AT">
+  <Track date="2008-09-25T00:00:00" category="TD" latitude="21.5" longitude="-70.0" windspeed="30" pressure="1005"/>
+  <Track date="2008-09-25T06:00:00" category="TS" latitude="22.0" longitude="-69.4" windspeed="35" pressure="1003"/>
+  <Track date="2008-09-25T12:00:00" category="TS" latitude="22.4" longitude="-68.7" windspeed="40" pressure="1002"/>
+  <Track date="2008-09-25T18:00:00" category="TS" latitude="23.1" longitude="-68.4" windspeed="40" pressure="1001"/>
+  <Track date="2008-09-26T00:00:00" category="TS" latitude="24.0" longitude="-68.0" windspeed="45" pressure="998"/>
+  <Track date="2008-09-26T06:00:00" category="TS" latitude="25.0" longitude="-68.2" windspeed="50" pressure="996"/>
+  <Track date="2008-09-26T12:00:00" category="TS" latitude="26.0" longitude="-68.6" windspeed="50" pressure="998"/>
+  <Track date="2008-09-26T18:00:00" category="TS" latitude="26.9" longitude="-68.6" windspeed="50" pressure="1000"/>
+  <Track date="2008-09-27T00:00:00" category="TS" latitude="28.7" longitude="-68.6" windspeed="55" pressure="998"/>
+  <Track date="2008-09-27T06:00:00" category="TS" latitude="29.9" longitude="-69.3" windspeed="60" pressure="996"/>
+  <Track date="2008-09-27T12:00:00" category="H1" latitude="31.2" longitude="-69.5" windspeed="65" pressure="996"/>
+  <Track date="2008-09-27T18:00:00" category="H1" latitude="33.3" longitude="-69.7" windspeed="70" pressure="995"/>
+  <Track date="2008-09-28T00:00:00" category="H1" latitude="35.3" longitude="-69.7" windspeed="70" pressure="995"/>
+  <Track date="2008-09-28T06:00:00" category="H1" latitude="37.4" longitude="-69.3" windspeed="70" pressure="992"/>
+  <Track date="2008-09-28T12:00:00" category="H1" latitude="39.4" longitude="-68.2" windspeed="75" pressure="989"/>
+  <Track date="2008-09-28T18:00:00" category="H1" latitude="41.6" longitude="-66.7" windspeed="70" pressure="984"/>
+  <Track date="2008-09-29T00:00:00" category="H1" latitude="43.8" longitude="-66.2" windspeed="65" pressure="985"/>
+  <Track date="2008-09-29T06:00:00" category="ES" latitude="45.6" longitude="-65.0" windspeed="50" pressure="990"/>
+  <Track date="2008-09-29T12:00:00" category="ES" latitude="47.7" longitude="-63.5" windspeed="45" pressure="994"/>
+  <Track date="2008-09-29T18:00:00" category="ES" latitude="48.2" longitude="-62.6" windspeed="40" pressure="999"/>
+  <Track date="2008-09-30T00:00:00" category="ES" latitude="48.4" longitude="-61.5" windspeed="35" pressure="1002"/>
+  <Track date="2008-09-30T06:00:00" category="ED" latitude="48.2" longitude="-61.0" windspeed="30" pressure="1004"/>
+  <Track date="2008-09-30T12:00:00" category="ED" latitude="48.1" longitude="-60.8" windspeed="25" pressure="1005"/>
+</StormTrackResponse>

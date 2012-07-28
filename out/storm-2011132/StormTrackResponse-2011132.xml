@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011132" name="KENNETH" pnumber="201113" hnumber="201113" from="2011-11-19 12:00:00" thru="2011-11-25 06:00:00" minlat="9.9" maxlat="13.4" minlon="-124.1" maxlon="-99.5" maxwind="125" minpress="943" maxcat="H4" basin="EP">
+  <Track date="2011-11-19T12:00:00" category="LP" latitude="9.9" longitude="-99.5" windspeed="25" pressure="1006"/>
+  <Track date="2011-11-19T18:00:00" category="TD" latitude="10.1" longitude="-100.7" windspeed="30" pressure="1006"/>
+  <Track date="2011-11-20T00:00:00" category="TD" latitude="10.2" longitude="-101.9" windspeed="30" pressure="1006"/>
+  <Track date="2011-11-20T06:00:00" category="TD" latitude="10.4" longitude="-103.1" windspeed="30" pressure="1005"/>
+  <Track date="2011-11-20T12:00:00" category="TD" latitude="10.8" longitude="-104.2" windspeed="30" pressure="1005"/>
+  <Track date="2011-11-20T18:00:00" category="TS" latitude="11.5" longitude="-105.3" windspeed="35" pressure="1004"/>
+  <Track date="2011-11-21T00:00:00" category="TS" latitude="12.0" longitude="-106.5" windspeed="45" pressure="1001"/>
+  <Track date="2011-11-21T06:00:00" category="TS" latitude="12.2" longitude="-107.8" windspeed="55" pressure="995"/>
+  <Track date="2011-11-21T12:00:00" category="H1" latitude="12.6" longitude="-109.1" windspeed="65" pressure="992"/>
+  <Track date="2011-11-21T18:00:00" category="H1" latitude="13.0" longitude="-110.1" windspeed="75" pressure="982"/>
+  <Track date="2011-11-22T00:00:00" category="H2" latitude="13.0" longitude="-111.3" windspeed="90" pressure="973"/>
+  <Track date="2011-11-22T06:00:00" category="H3" latitude="13.0" longitude="-112.3" windspeed="100" pressure="965"/>
+  <Track date="2011-11-22T12:00:00" category="H4" latitude="12.9" longitude="-113.4" windspeed="125" pressure="943"/>
+  <Track date="2011-11-22T18:00:00" category="H4" latitude="12.6" longitude="-114.4" windspeed="125" pressure="943"/>
+  <Track date="2011-11-23T00:00:00" category="H4" latitude="12.5" longitude="-115.3" windspeed="115" pressure="949"/>
+  <Track date="2011-11-23T06:00:00" category="H3" latitude="12.5" longitude="-116.2" windspeed="100" pressure="965"/>
+  <Track date="2011-11-23T12:00:00" category="H2" latitude="12.7" longitude="-117.2" windspeed="85" pressure="972"/>
+  <Track date="2011-11-23T18:00:00" category="TS" latitude="13.0" longitude="-118.2" windspeed="60" pressure="982"/>
+  <Track date="2011-11-24T00:00:00" category="TS" latitude="13.3" longitude="-119.3" windspeed="55" pressure="987"/>
+  <Track date="2011-11-24T06:00:00" category="TS" latitude="13.4" longitude="-120.3" windspeed="50" pressure="996"/>
+  <Track date="2011-11-24T12:00:00" category="TS" latitude="13.4" longitude="-121.1" windspeed="50" pressure="996"/>
+  <Track date="2011-11-24T18:00:00" category="TS" latitude="13.4" longitude="-121.9" windspeed="40" pressure="1002"/>
+  <Track date="2011-11-25T00:00:00" category="TS" latitude="13.4" longitude="-122.7" windspeed="40" pressure="1003"/>
+  <Track date="2011-11-25T06:00:00" category="TD" latitude="13.4" longitude="-124.1" windspeed="30" pressure="1005"/>
+</StormTrackResponse>

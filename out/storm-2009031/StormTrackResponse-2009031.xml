@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2009031" name="CLAUDETTE" pnumber="200903" hnumber="200903" from="2009-08-16 06:00:00" thru="2009-08-17 18:00:00" minlat="27.0" maxlat="32.8" minlon="-88.3" maxlon="-83.4" maxwind="50" minpress="1005" maxcat="TS" basin="AT">
+  <Track date="2009-08-16T06:00:00" category="TD" latitude="27.0" longitude="-83.4" windspeed="30" pressure="1011"/>
+  <Track date="2009-08-16T12:00:00" category="TS" latitude="28.2" longitude="-84.2" windspeed="35" pressure="1010"/>
+  <Track date="2009-08-16T18:00:00" category="TS" latitude="29.1" longitude="-85.1" windspeed="50" pressure="1008"/>
+  <Track date="2009-08-17T00:00:00" category="TS" latitude="29.8" longitude="-85.8" windspeed="45" pressure="1005"/>
+  <Track date="2009-08-17T06:00:00" category="TS" latitude="30.5" longitude="-86.6" windspeed="40" pressure="1005"/>
+  <Track date="2009-08-17T12:00:00" category="TD" latitude="31.5" longitude="-87.5" windspeed="25" pressure="1013"/>
+  <Track date="2009-08-17T18:00:00" category="TD" latitude="32.8" longitude="-88.3" windspeed="20" pressure="1017"/>
+</StormTrackResponse>

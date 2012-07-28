@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2000091" name="ISAAC" pnumber="200009" hnumber="200009" from="2000-09-21 12:00:00" thru="2000-10-04 06:00:00" minlat="11.5" maxlat="62.0" minlon="-56.2" maxlon="-4.0" maxwind="120" minpress="943" maxcat="H4" basin="AT">
+  <Track date="2000-09-21T12:00:00" category="TD" latitude="11.5" longitude="-23.0" windspeed="30" pressure="1008"/>
+  <Track date="2000-09-21T18:00:00" category="TD" latitude="11.9" longitude="-24.5" windspeed="30" pressure="1008"/>
+  <Track date="2000-09-22T00:00:00" category="TS" latitude="12.3" longitude="-25.9" windspeed="35" pressure="1005"/>
+  <Track date="2000-09-22T06:00:00" category="TS" latitude="12.7" longitude="-27.2" windspeed="40" pressure="1001"/>
+  <Track date="2000-09-22T12:00:00" category="TS" latitude="13.1" longitude="-28.7" windspeed="45" pressure="1000"/>
+  <Track date="2000-09-22T18:00:00" category="TS" latitude="13.5" longitude="-30.1" windspeed="45" pressure="1000"/>
+  <Track date="2000-09-23T00:00:00" category="TS" latitude="13.7" longitude="-31.2" windspeed="50" pressure="997"/>
+  <Track date="2000-09-23T06:00:00" category="TS" latitude="13.9" longitude="-32.3" windspeed="55" pressure="994"/>
+  <Track date="2000-09-23T12:00:00" category="H1" latitude="14.3" longitude="-33.2" windspeed="70" pressure="984"/>
+  <Track date="2000-09-23T18:00:00" category="H2" latitude="14.6" longitude="-34.2" windspeed="85" pressure="973"/>
+  <Track date="2000-09-24T00:00:00" category="H3" latitude="14.9" longitude="-35.0" windspeed="105" pressure="960"/>
+  <Track date="2000-09-24T06:00:00" category="H3" latitude="15.1" longitude="-35.8" windspeed="100" pressure="960"/>
+  <Track date="2000-09-24T12:00:00" category="H3" latitude="15.5" longitude="-36.8" windspeed="100" pressure="960"/>
+  <Track date="2000-09-24T18:00:00" category="H3" latitude="15.8" longitude="-37.8" windspeed="100" pressure="960"/>
+  <Track date="2000-09-25T00:00:00" category="H2" latitude="16.3" longitude="-38.6" windspeed="95" pressure="965"/>
+  <Track date="2000-09-25T06:00:00" category="H2" latitude="16.7" longitude="-39.5" windspeed="95" pressure="965"/>
+  <Track date="2000-09-25T12:00:00" category="H2" latitude="17.2" longitude="-40.4" windspeed="90" pressure="970"/>
+  <Track date="2000-09-25T18:00:00" category="H2" latitude="17.6" longitude="-41.2" windspeed="90" pressure="970"/>
+  <Track date="2000-09-26T00:00:00" category="H2" latitude="17.9" longitude="-42.0" windspeed="90" pressure="970"/>
+  <Track date="2000-09-26T06:00:00" category="H2" latitude="18.3" longitude="-42.9" windspeed="85" pressure="973"/>
+  <Track date="2000-09-26T12:00:00" category="H1" latitude="18.6" longitude="-43.9" windspeed="75" pressure="980"/>
+  <Track date="2000-09-26T18:00:00" category="H1" latitude="19.1" longitude="-45.0" windspeed="75" pressure="980"/>
+  <Track date="2000-09-27T00:00:00" category="H1" latitude="19.6" longitude="-46.0" windspeed="80" pressure="977"/>
+  <Track date="2000-09-27T06:00:00" category="H2" latitude="20.4" longitude="-47.0" windspeed="85" pressure="973"/>
+  <Track date="2000-09-27T12:00:00" category="H2" latitude="21.0" longitude="-48.1" windspeed="90" pressure="970"/>
+  <Track date="2000-09-27T18:00:00" category="H2" latitude="21.9" longitude="-49.5" windspeed="95" pressure="965"/>
+  <Track date="2000-09-28T00:00:00" category="H3" latitude="22.8" longitude="-50.6" windspeed="100" pressure="960"/>
+  <Track date="2000-09-28T06:00:00" category="H3" latitude="23.8" longitude="-52.0" windspeed="105" pressure="955"/>
+  <Track date="2000-09-28T12:00:00" category="H3" latitude="25.0" longitude="-52.9" windspeed="110" pressure="950"/>
+  <Track date="2000-09-28T18:00:00" category="H4" latitude="26.6" longitude="-54.2" windspeed="120" pressure="943"/>
+  <Track date="2000-09-29T00:00:00" category="H4" latitude="28.0" longitude="-55.1" windspeed="115" pressure="948"/>
+  <Track date="2000-09-29T06:00:00" category="H3" latitude="29.7" longitude="-55.9" windspeed="110" pressure="950"/>
+  <Track date="2000-09-29T12:00:00" category="H3" latitude="31.2" longitude="-56.2" windspeed="105" pressure="955"/>
+  <Track date="2000-09-29T18:00:00" category="H2" latitude="32.9" longitude="-55.9" windspeed="90" pressure="965"/>
+  <Track date="2000-09-30T00:00:00" category="H2" latitude="34.4" longitude="-55.2" windspeed="85" pressure="970"/>
+  <Track date="2000-09-30T06:00:00" category="H1" latitude="35.7" longitude="-54.0" windspeed="80" pressure="975"/>
+  <Track date="2000-09-30T12:00:00" category="H1" latitude="37.0" longitude="-51.8" windspeed="75" pressure="979"/>
+  <Track date="2000-09-30T18:00:00" category="H1" latitude="38.3" longitude="-49.8" windspeed="70" pressure="985"/>
+  <Track date="2000-10-01T00:00:00" category="H1" latitude="39.7" longitude="-47.9" windspeed="65" pressure="987"/>
+  <Track date="2000-10-01T06:00:00" category="TS" latitude="40.9" longitude="-45.7" windspeed="60" pressure="990"/>
+  <Track date="2000-10-01T12:00:00" category="TS" latitude="42.1" longitude="-43.6" windspeed="55" pressure="990"/>
+  <Track date="2000-10-01T18:00:00" category="ES" latitude="43.5" longitude="-39.5" windspeed="55" pressure="990"/>
+  <Track date="2000-10-02T00:00:00" category="ES" latitude="44.5" longitude="-36.5" windspeed="55" pressure="982"/>
+  <Track date="2000-10-02T06:00:00" category="ES" latitude="45.7" longitude="-33.0" windspeed="60" pressure="972"/>
+  <Track date="2000-10-02T12:00:00" category="ES" latitude="47.0" longitude="-29.0" windspeed="60" pressure="975"/>
+  <Track date="2000-10-02T18:00:00" category="ES" latitude="48.5" longitude="-25.0" windspeed="60" pressure="976"/>
+  <Track date="2000-10-03T00:00:00" category="ES" latitude="49.5" longitude="-20.5" windspeed="60" pressure="976"/>
+  <Track date="2000-10-03T06:00:00" category="ES" latitude="50.5" longitude="-16.5" windspeed="60" pressure="978"/>
+  <Track date="2000-10-03T12:00:00" category="ES" latitude="52.0" longitude="-12.0" windspeed="55" pressure="982"/>
+  <Track date="2000-10-03T18:00:00" category="ES" latitude="55.0" longitude="-9.0" windspeed="45" pressure="988"/>
+  <Track date="2000-10-04T00:00:00" category="ES" latitude="58.0" longitude="-6.0" windspeed="45" pressure="989"/>
+  <Track date="2000-10-04T06:00:00" category="ES" latitude="62.0" longitude="-4.0" windspeed="45" pressure="994"/>
+</StormTrackResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2004131" name="MATTHEW" pnumber="200413" hnumber="200413" from="2004-10-08 12:00:00" thru="2004-10-11 06:00:00" minlat="24.0" maxlat="33.6" minlon="-95.4" maxlon="-90.9" maxwind="40" minpress="997" maxcat="TS" basin="AT">
+  <Track date="2004-10-08T12:00:00" category="TD" latitude="24.0" longitude="-95.4" windspeed="30" pressure="1007"/>
+  <Track date="2004-10-08T18:00:00" category="TS" latitude="24.1" longitude="-94.2" windspeed="35" pressure="1004"/>
+  <Track date="2004-10-09T00:00:00" category="TS" latitude="24.6" longitude="-93.7" windspeed="40" pressure="1000"/>
+  <Track date="2004-10-09T06:00:00" category="TS" latitude="25.3" longitude="-93.2" windspeed="35" pressure="1002"/>
+  <Track date="2004-10-09T12:00:00" category="TS" latitude="26.3" longitude="-92.8" windspeed="35" pressure="1002"/>
+  <Track date="2004-10-09T18:00:00" category="TS" latitude="26.8" longitude="-92.0" windspeed="40" pressure="997"/>
+  <Track date="2004-10-10T00:00:00" category="TS" latitude="27.3" longitude="-91.4" windspeed="40" pressure="998"/>
+  <Track date="2004-10-10T06:00:00" category="TS" latitude="28.1" longitude="-91.2" windspeed="40" pressure="999"/>
+  <Track date="2004-10-10T12:00:00" category="TD" latitude="29.4" longitude="-90.9" windspeed="30" pressure="1000"/>
+  <Track date="2004-10-10T18:00:00" category="TD" latitude="30.4" longitude="-90.9" windspeed="25" pressure="1002"/>
+  <Track date="2004-10-11T00:00:00" category="ED" latitude="32.0" longitude="-91.0" windspeed="25" pressure="1003"/>
+  <Track date="2004-10-11T06:00:00" category="ED" latitude="33.6" longitude="-91.9" windspeed="20" pressure="1005"/>
+</StormTrackResponse>

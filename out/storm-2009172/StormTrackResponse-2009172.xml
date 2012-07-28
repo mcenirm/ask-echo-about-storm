@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2009172" name="PATRICIA" pnumber="200917" hnumber="200917" from="2009-10-11 18:00:00" thru="2009-10-15 12:00:00" minlat="17.1" maxlat="22.8" minlon="-112.9" maxlon="-108.2" maxwind="50" minpress="996" maxcat="TS" basin="EP">
+  <Track date="2009-10-11T18:00:00" category="TD" latitude="17.1" longitude="-108.2" windspeed="30" pressure="1005"/>
+  <Track date="2009-10-12T00:00:00" category="TS" latitude="17.7" longitude="-108.7" windspeed="35" pressure="1003"/>
+  <Track date="2009-10-12T06:00:00" category="TS" latitude="18.3" longitude="-109.2" windspeed="40" pressure="1001"/>
+  <Track date="2009-10-12T12:00:00" category="TS" latitude="18.8" longitude="-109.5" windspeed="50" pressure="997"/>
+  <Track date="2009-10-12T18:00:00" category="TS" latitude="19.3" longitude="-109.5" windspeed="50" pressure="997"/>
+  <Track date="2009-10-13T00:00:00" category="TS" latitude="19.8" longitude="-109.4" windspeed="50" pressure="996"/>
+  <Track date="2009-10-13T06:00:00" category="TS" latitude="20.4" longitude="-109.2" windspeed="50" pressure="997"/>
+  <Track date="2009-10-13T12:00:00" category="TS" latitude="21.1" longitude="-109.0" windspeed="45" pressure="1000"/>
+  <Track date="2009-10-13T18:00:00" category="TS" latitude="21.9" longitude="-108.9" windspeed="40" pressure="1002"/>
+  <Track date="2009-10-14T00:00:00" category="TS" latitude="22.4" longitude="-109.1" windspeed="35" pressure="1004"/>
+  <Track date="2009-10-14T06:00:00" category="LP" latitude="22.6" longitude="-109.5" windspeed="30" pressure="1006"/>
+  <Track date="2009-10-14T12:00:00" category="LP" latitude="22.7" longitude="-110.2" windspeed="25" pressure="1008"/>
+  <Track date="2009-10-14T18:00:00" category="LP" latitude="22.8" longitude="-111.2" windspeed="25" pressure="1008"/>
+  <Track date="2009-10-15T00:00:00" category="LP" latitude="22.7" longitude="-111.9" windspeed="20" pressure="1009"/>
+  <Track date="2009-10-15T06:00:00" category="LP" latitude="22.5" longitude="-112.5" windspeed="20" pressure="1009"/>
+  <Track date="2009-10-15T12:00:00" category="LP" latitude="22.3" longitude="-112.9" windspeed="20" pressure="1009"/>
+</StormTrackResponse>

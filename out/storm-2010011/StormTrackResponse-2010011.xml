@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2010011" name="ALEX" pnumber="201001" hnumber="201001" from="2010-06-24 18:00:00" thru="2010-07-02 00:00:00" minlat="15.9" maxlat="24.3" minlon="-101.9" maxlon="-82.0" maxwind="90" minpress="948" maxcat="H2" basin="AT">
+  <Track date="2010-06-24T18:00:00" category="LP" latitude="15.9" longitude="-82.0" windspeed="25" pressure="1007"/>
+  <Track date="2010-06-25T00:00:00" category="LP" latitude="16.0" longitude="-82.1" windspeed="25" pressure="1006"/>
+  <Track date="2010-06-25T06:00:00" category="LP" latitude="16.1" longitude="-82.3" windspeed="25" pressure="1006"/>
+  <Track date="2010-06-25T12:00:00" category="LP" latitude="16.2" longitude="-82.5" windspeed="30" pressure="1005"/>
+  <Track date="2010-06-25T18:00:00" category="TD" latitude="16.4" longitude="-83.1" windspeed="30" pressure="1005"/>
+  <Track date="2010-06-26T00:00:00" category="TD" latitude="16.6" longitude="-83.9" windspeed="30" pressure="1004"/>
+  <Track date="2010-06-26T06:00:00" category="TS" latitude="16.7" longitude="-84.9" windspeed="40" pressure="1004"/>
+  <Track date="2010-06-26T12:00:00" category="TS" latitude="16.9" longitude="-86.1" windspeed="40" pressure="1004"/>
+  <Track date="2010-06-26T18:00:00" category="TS" latitude="17.2" longitude="-87.2" windspeed="55" pressure="996"/>
+  <Track date="2010-06-27T00:00:00" category="TS" latitude="17.5" longitude="-88.2" windspeed="55" pressure="995"/>
+  <Track date="2010-06-27T06:00:00" category="TS" latitude="18.0" longitude="-89.1" windspeed="55" pressure="991"/>
+  <Track date="2010-06-27T12:00:00" category="TS" latitude="18.5" longitude="-90.0" windspeed="45" pressure="992"/>
+  <Track date="2010-06-27T18:00:00" category="TS" latitude="18.9" longitude="-90.7" windspeed="35" pressure="993"/>
+  <Track date="2010-06-28T00:00:00" category="TS" latitude="19.2" longitude="-91.1" windspeed="40" pressure="991"/>
+  <Track date="2010-06-28T06:00:00" category="TS" latitude="19.5" longitude="-91.4" windspeed="40" pressure="991"/>
+  <Track date="2010-06-28T12:00:00" category="TS" latitude="20.0" longitude="-91.6" windspeed="50" pressure="989"/>
+  <Track date="2010-06-28T18:00:00" category="TS" latitude="20.3" longitude="-91.7" windspeed="50" pressure="990"/>
+  <Track date="2010-06-29T00:00:00" category="TS" latitude="20.7" longitude="-91.7" windspeed="55" pressure="987"/>
+  <Track date="2010-06-29T06:00:00" category="TS" latitude="21.5" longitude="-91.9" windspeed="55" pressure="985"/>
+  <Track date="2010-06-29T12:00:00" category="TS" latitude="22.4" longitude="-92.7" windspeed="60" pressure="983"/>
+  <Track date="2010-06-29T18:00:00" category="TS" latitude="22.9" longitude="-93.6" windspeed="60" pressure="981"/>
+  <Track date="2010-06-30T00:00:00" category="H1" latitude="23.0" longitude="-94.4" windspeed="65" pressure="973"/>
+  <Track date="2010-06-30T06:00:00" category="H1" latitude="23.1" longitude="-94.8" windspeed="70" pressure="966"/>
+  <Track date="2010-06-30T12:00:00" category="H1" latitude="23.5" longitude="-95.2" windspeed="75" pressure="958"/>
+  <Track date="2010-06-30T18:00:00" category="H1" latitude="24.3" longitude="-96.2" windspeed="80" pressure="962"/>
+  <Track date="2010-07-01T00:00:00" category="H2" latitude="24.3" longitude="-97.3" windspeed="90" pressure="948"/>
+  <Track date="2010-07-01T06:00:00" category="H1" latitude="24.1" longitude="-98.4" windspeed="75" pressure="963"/>
+  <Track date="2010-07-01T12:00:00" category="TS" latitude="23.5" longitude="-99.5" windspeed="60" pressure="977"/>
+  <Track date="2010-07-01T18:00:00" category="TS" latitude="23.1" longitude="-100.7" windspeed="40" pressure="987"/>
+  <Track date="2010-07-02T00:00:00" category="TD" latitude="23.2" longitude="-101.9" windspeed="30" pressure="997"/>
+</StormTrackResponse>

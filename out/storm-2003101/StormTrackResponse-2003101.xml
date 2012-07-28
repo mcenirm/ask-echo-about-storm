@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2003101" name="JUAN" pnumber="200310" hnumber="200310" from="2003-09-24 12:00:00" thru="2003-09-29 12:00:00" minlat="28.2" maxlat="49.8" minlon="-64.1" maxlon="-61.4" maxwind="90" minpress="969" maxcat="H2" basin="AT">
+  <Track date="2003-09-24T12:00:00" category="TD" latitude="28.2" longitude="-62.4" windspeed="25" pressure="1009"/>
+  <Track date="2003-09-24T18:00:00" category="TD" latitude="28.3" longitude="-62.2" windspeed="30" pressure="1007"/>
+  <Track date="2003-09-25T00:00:00" category="TS" latitude="28.4" longitude="-62.0" windspeed="35" pressure="1006"/>
+  <Track date="2003-09-25T06:00:00" category="TS" latitude="28.8" longitude="-61.7" windspeed="40" pressure="1002"/>
+  <Track date="2003-09-25T12:00:00" category="TS" latitude="29.2" longitude="-61.4" windspeed="45" pressure="1000"/>
+  <Track date="2003-09-25T18:00:00" category="TS" latitude="30.4" longitude="-61.6" windspeed="50" pressure="996"/>
+  <Track date="2003-09-26T00:00:00" category="TS" latitude="30.9" longitude="-61.8" windspeed="55" pressure="992"/>
+  <Track date="2003-09-26T06:00:00" category="TS" latitude="31.1" longitude="-61.8" windspeed="60" pressure="990"/>
+  <Track date="2003-09-26T12:00:00" category="H1" latitude="31.8" longitude="-62.0" windspeed="65" pressure="987"/>
+  <Track date="2003-09-26T18:00:00" category="H1" latitude="32.5" longitude="-62.0" windspeed="70" pressure="987"/>
+  <Track date="2003-09-27T00:00:00" category="H1" latitude="33.3" longitude="-62.0" windspeed="75" pressure="984"/>
+  <Track date="2003-09-27T06:00:00" category="H1" latitude="34.4" longitude="-62.2" windspeed="75" pressure="981"/>
+  <Track date="2003-09-27T12:00:00" category="H1" latitude="35.2" longitude="-62.8" windspeed="75" pressure="979"/>
+  <Track date="2003-09-27T18:00:00" category="H2" latitude="35.5" longitude="-63.2" windspeed="90" pressure="969"/>
+  <Track date="2003-09-28T00:00:00" category="H2" latitude="36.3" longitude="-63.6" windspeed="90" pressure="970"/>
+  <Track date="2003-09-28T06:00:00" category="H2" latitude="37.1" longitude="-64.0" windspeed="90" pressure="970"/>
+  <Track date="2003-09-28T12:00:00" category="H2" latitude="38.5" longitude="-64.1" windspeed="90" pressure="970"/>
+  <Track date="2003-09-28T18:00:00" category="H2" latitude="40.2" longitude="-64.1" windspeed="90" pressure="970"/>
+  <Track date="2003-09-29T00:00:00" category="H2" latitude="42.8" longitude="-63.9" windspeed="85" pressure="972"/>
+  <Track date="2003-09-29T06:00:00" category="H1" latitude="46.0" longitude="-63.8" windspeed="65" pressure="982"/>
+  <Track date="2003-09-29T12:00:00" category="TS" latitude="49.8" longitude="-62.4" windspeed="45" pressure="995"/>
+</StormTrackResponse>

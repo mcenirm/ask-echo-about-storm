@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="stylesheets/echo-esip-dataset.xsl"?>
+<os:OpenSearchDescription xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
+	xmlns:echo="http://www.echo.nasa.gov/esip"
+	xmlns:georss="http://a9.com/-/opensearch/extensions/geo/1.0/"
+	xmlns:time="http://a9.com/-/opensearch/extensions/time/1.0/">
+	<os:ShortName>NASA ECHO Dataset Search</os:ShortName>
+	<os:Description>Open Search compliant NASA ECHO Dataset search that
+		responds in the ATOM format with Open Search, GeoRSS, Open Search Time
+		and ECHO extensions.</os:Description>
+	<os:Tags>ESIP ECHO NASA</os:Tags>
+	<os:Contact>support@echo.nasa.gov</os:Contact>
+	<os:Url type="application/atom+xml"
+	  indexOffset="0" 
+		template="https://api.echo.nasa.gov:443/echo-esip/search/dataset.atom?keyword={os:searchTerms?}&amp;instrument={echo:instrument?}&amp;satellite={echo:satellite?}&amp;boundingBox={georss:box?}&amp;polygon={georss:polygon?}&amp;line={echo:line?}&amp;point={echo:point?}&amp;startTime={time:start?}&amp;endTime={time:end?}&amp;cursor={os:startIndex?}&amp;numberOfResults={os:count?}&amp;clientId={echo:clientId?}">
+	</os:Url>
+	<os:Url type="text/html" 
+	  indexOffset="0"
+    template="https://api.echo.nasa.gov:443/echo-esip/search/dataset.html?keyword={os:searchTerms?}&amp;instrument={echo:instrument?}&amp;satellite={echo:satellite?}&amp;boundingBox={georss:box?}&amp;polygon={georss:polygon?}&amp;line={echo:line?}&amp;point={echo:point?}&amp;startTime={time:start?}&amp;endTime={time:end?}&amp;cursor={os:startIndex?}&amp;numberOfResults={os:count?}&amp;clientId={echo:clientId?}">
+  </os:Url>
+	<os:Query role="example" echo:instrument="AMSR-E"
+		echo:satellite="Aqua" title="Sample search" 
+		georss:box="-180.0,-90.0,180.0,90.0"
+		time:start="2002-05-04T00:00:00-0400"
+		time:stop="2009-05-04T00:00:00-0400"/>
+</os:OpenSearchDescription>

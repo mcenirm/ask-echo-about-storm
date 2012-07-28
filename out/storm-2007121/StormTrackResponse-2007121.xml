@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007121" name="LORENZO" pnumber="200712" hnumber="200712" from="2007-09-25 18:00:00" thru="2007-09-28 18:00:00" minlat="20.5" maxlat="21.8" minlon="-98.7" maxlon="-94.4" maxwind="70" minpress="990" maxcat="H1" basin="AT">
+  <Track date="2007-09-25T18:00:00" category="TD" latitude="21.8" longitude="-94.8" windspeed="25" pressure="1009"/>
+  <Track date="2007-09-26T00:00:00" category="TD" latitude="21.7" longitude="-95.2" windspeed="25" pressure="1008"/>
+  <Track date="2007-09-26T06:00:00" category="TD" latitude="21.2" longitude="-95.0" windspeed="25" pressure="1007"/>
+  <Track date="2007-09-26T12:00:00" category="TD" latitude="21.0" longitude="-94.7" windspeed="30" pressure="1008"/>
+  <Track date="2007-09-26T18:00:00" category="TD" latitude="21.2" longitude="-94.4" windspeed="30" pressure="1009"/>
+  <Track date="2007-09-27T00:00:00" category="TD" latitude="21.2" longitude="-94.7" windspeed="30" pressure="1008"/>
+  <Track date="2007-09-27T06:00:00" category="TD" latitude="20.8" longitude="-94.8" windspeed="30" pressure="1009"/>
+  <Track date="2007-09-27T12:00:00" category="TS" latitude="20.6" longitude="-95.1" windspeed="45" pressure="1006"/>
+  <Track date="2007-09-27T18:00:00" category="TS" latitude="20.5" longitude="-95.7" windspeed="60" pressure="1001"/>
+  <Track date="2007-09-28T00:00:00" category="H1" latitude="20.5" longitude="-96.3" windspeed="70" pressure="990"/>
+  <Track date="2007-09-28T06:00:00" category="H1" latitude="20.5" longitude="-97.1" windspeed="65" pressure="993"/>
+  <Track date="2007-09-28T12:00:00" category="TD" latitude="20.5" longitude="-98.0" windspeed="30" pressure="1002"/>
+  <Track date="2007-09-28T18:00:00" category="TD" latitude="20.7" longitude="-98.7" windspeed="20" pressure="1008"/>
+</StormTrackResponse>

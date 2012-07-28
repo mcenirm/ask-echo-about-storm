@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2006172" name="PAUL" pnumber="200617" hnumber="200617" from="2006-10-21 06:00:00" thru="2006-10-26 06:00:00" minlat="15.7" maxlat="25.0" minlon="-111.9" maxlon="-105.6" maxwind="90" minpress="970" maxcat="H2" basin="EP">
+  <Track date="2006-10-21T06:00:00" category="TD" latitude="15.7" longitude="-105.6" windspeed="30" pressure="1004"/>
+  <Track date="2006-10-21T12:00:00" category="TS" latitude="15.8" longitude="-106.5" windspeed="35" pressure="1002"/>
+  <Track date="2006-10-21T18:00:00" category="TS" latitude="15.8" longitude="-107.4" windspeed="45" pressure="1000"/>
+  <Track date="2006-10-22T00:00:00" category="TS" latitude="15.8" longitude="-108.1" windspeed="45" pressure="1000"/>
+  <Track date="2006-10-22T06:00:00" category="TS" latitude="15.8" longitude="-108.8" windspeed="45" pressure="1000"/>
+  <Track date="2006-10-22T12:00:00" category="TS" latitude="15.8" longitude="-109.5" windspeed="45" pressure="1000"/>
+  <Track date="2006-10-22T18:00:00" category="TS" latitude="15.8" longitude="-110.2" windspeed="55" pressure="994"/>
+  <Track date="2006-10-23T00:00:00" category="H1" latitude="15.9" longitude="-110.8" windspeed="75" pressure="980"/>
+  <Track date="2006-10-23T06:00:00" category="H2" latitude="16.1" longitude="-111.3" windspeed="85" pressure="973"/>
+  <Track date="2006-10-23T12:00:00" category="H2" latitude="16.3" longitude="-111.4" windspeed="90" pressure="970"/>
+  <Track date="2006-10-23T18:00:00" category="H1" latitude="16.7" longitude="-111.6" windspeed="80" pressure="978"/>
+  <Track date="2006-10-24T00:00:00" category="H1" latitude="17.3" longitude="-111.8" windspeed="75" pressure="979"/>
+  <Track date="2006-10-24T06:00:00" category="H1" latitude="18.0" longitude="-111.9" windspeed="65" pressure="987"/>
+  <Track date="2006-10-24T12:00:00" category="TS" latitude="18.8" longitude="-111.9" windspeed="55" pressure="992"/>
+  <Track date="2006-10-24T18:00:00" category="TS" latitude="19.8" longitude="-111.5" windspeed="45" pressure="998"/>
+  <Track date="2006-10-25T00:00:00" category="TS" latitude="20.8" longitude="-111.0" windspeed="40" pressure="1000"/>
+  <Track date="2006-10-25T06:00:00" category="TS" latitude="21.7" longitude="-110.3" windspeed="40" pressure="1000"/>
+  <Track date="2006-10-25T12:00:00" category="TS" latitude="22.6" longitude="-109.3" windspeed="40" pressure="1001"/>
+  <Track date="2006-10-25T18:00:00" category="TS" latitude="23.7" longitude="-108.1" windspeed="35" pressure="1003"/>
+  <Track date="2006-10-26T00:00:00" category="TD" latitude="24.5" longitude="-108.1" windspeed="25" pressure="1005"/>
+  <Track date="2006-10-26T06:00:00" category="LP" latitude="25.0" longitude="-108.1" windspeed="25" pressure="1008"/>
+</StormTrackResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2001141" name="NOEL" pnumber="200114" hnumber="200114" from="2001-11-04 00:00:00" thru="2001-11-06 18:00:00" minlat="33.9" maxlat="45.0" minlon="-50.4" maxlon="-48.0" maxwind="65" minpress="986" maxcat="H1" basin="AT">
+  <Track date="2001-11-04T00:00:00" category="SS" latitude="33.9" longitude="-50.4" windspeed="45" pressure="988"/>
+  <Track date="2001-11-04T06:00:00" category="SS" latitude="34.1" longitude="-50.4" windspeed="45" pressure="990"/>
+  <Track date="2001-11-04T12:00:00" category="SS" latitude="34.3" longitude="-50.4" windspeed="45" pressure="993"/>
+  <Track date="2001-11-04T18:00:00" category="SS" latitude="35.2" longitude="-50.3" windspeed="50" pressure="993"/>
+  <Track date="2001-11-05T00:00:00" category="SS" latitude="36.1" longitude="-50.1" windspeed="55" pressure="991"/>
+  <Track date="2001-11-05T06:00:00" category="SS" latitude="37.0" longitude="-50.1" windspeed="60" pressure="988"/>
+  <Track date="2001-11-05T12:00:00" category="H1" latitude="37.8" longitude="-50.3" windspeed="65" pressure="986"/>
+  <Track date="2001-11-05T18:00:00" category="H1" latitude="38.8" longitude="-50.2" windspeed="65" pressure="986"/>
+  <Track date="2001-11-06T00:00:00" category="TS" latitude="39.7" longitude="-49.7" windspeed="60" pressure="990"/>
+  <Track date="2001-11-06T06:00:00" category="TS" latitude="41.3" longitude="-49.2" windspeed="55" pressure="994"/>
+  <Track date="2001-11-06T12:00:00" category="ES" latitude="43.0" longitude="-48.5" windspeed="50" pressure="996"/>
+  <Track date="2001-11-06T18:00:00" category="ES" latitude="45.0" longitude="-48.0" windspeed="50" pressure="1000"/>
+</StormTrackResponse>

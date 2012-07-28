@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2004062" name="FRANK" pnumber="200406" hnumber="200406" from="2004-08-23 06:00:00" thru="2004-08-27 12:00:00" minlat="16.7" maxlat="22.6" minlon="-121.5" maxlon="-110.2" maxwind="75" minpress="979" maxcat="H1" basin="EP">
+  <Track date="2004-08-23T06:00:00" category="TD" latitude="16.7" longitude="-110.2" windspeed="30" pressure="1005"/>
+  <Track date="2004-08-23T12:00:00" category="TS" latitude="17.3" longitude="-111.2" windspeed="45" pressure="1004"/>
+  <Track date="2004-08-23T18:00:00" category="H1" latitude="18.0" longitude="-112.2" windspeed="65" pressure="990"/>
+  <Track date="2004-08-24T00:00:00" category="H1" latitude="18.8" longitude="-113.0" windspeed="65" pressure="987"/>
+  <Track date="2004-08-24T06:00:00" category="H1" latitude="19.5" longitude="-113.7" windspeed="75" pressure="979"/>
+  <Track date="2004-08-24T12:00:00" category="H1" latitude="20.2" longitude="-114.3" windspeed="75" pressure="979"/>
+  <Track date="2004-08-24T18:00:00" category="H1" latitude="20.8" longitude="-115.0" windspeed="70" pressure="983"/>
+  <Track date="2004-08-25T00:00:00" category="H1" latitude="21.3" longitude="-115.6" windspeed="65" pressure="987"/>
+  <Track date="2004-08-25T06:00:00" category="TS" latitude="21.6" longitude="-116.2" windspeed="50" pressure="997"/>
+  <Track date="2004-08-25T12:00:00" category="TS" latitude="21.8" longitude="-116.9" windspeed="45" pressure="1000"/>
+  <Track date="2004-08-25T18:00:00" category="TS" latitude="22.0" longitude="-117.6" windspeed="40" pressure="1002"/>
+  <Track date="2004-08-26T00:00:00" category="TD" latitude="22.1" longitude="-118.3" windspeed="30" pressure="1006"/>
+  <Track date="2004-08-26T06:00:00" category="LP" latitude="22.3" longitude="-119.0" windspeed="25" pressure="1007"/>
+  <Track date="2004-08-26T12:00:00" category="LP" latitude="22.6" longitude="-119.6" windspeed="25" pressure="1007"/>
+  <Track date="2004-08-26T18:00:00" category="LP" latitude="22.5" longitude="-120.0" windspeed="25" pressure="1007"/>
+  <Track date="2004-08-27T00:00:00" category="LP" latitude="22.3" longitude="-120.5" windspeed="25" pressure="1007"/>
+  <Track date="2004-08-27T06:00:00" category="LP" latitude="22.0" longitude="-121.0" windspeed="25" pressure="1007"/>
+  <Track date="2004-08-27T12:00:00" category="LP" latitude="21.5" longitude="-121.5" windspeed="25" pressure="1007"/>
+</StormTrackResponse>

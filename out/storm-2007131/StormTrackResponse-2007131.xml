@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007131" name="MELISSA" pnumber="200713" hnumber="200713" from="2007-09-28 06:00:00" thru="2007-10-05 18:00:00" minlat="14.0" maxlat="24.6" minlon="-53.5" maxlon="-25.8" maxwind="35" minpress="1005" maxcat="TS" basin="AT">
+  <Track date="2007-09-28T06:00:00" category="TD" latitude="14.0" longitude="-25.8" windspeed="25" pressure="1010"/>
+  <Track date="2007-09-28T12:00:00" category="TD" latitude="14.0" longitude="-26.2" windspeed="30" pressure="1009"/>
+  <Track date="2007-09-28T18:00:00" category="TD" latitude="14.0" longitude="-26.6" windspeed="30" pressure="1008"/>
+  <Track date="2007-09-29T00:00:00" category="TD" latitude="14.2" longitude="-27.0" windspeed="30" pressure="1007"/>
+  <Track date="2007-09-29T06:00:00" category="TS" latitude="14.5" longitude="-27.4" windspeed="35" pressure="1006"/>
+  <Track date="2007-09-29T12:00:00" category="TS" latitude="15.0" longitude="-28.1" windspeed="35" pressure="1005"/>
+  <Track date="2007-09-29T18:00:00" category="TS" latitude="15.3" longitude="-29.0" windspeed="35" pressure="1005"/>
+  <Track date="2007-09-30T00:00:00" category="TS" latitude="15.6" longitude="-29.9" windspeed="35" pressure="1005"/>
+  <Track date="2007-09-30T06:00:00" category="TD" latitude="15.8" longitude="-30.9" windspeed="30" pressure="1006"/>
+  <Track date="2007-09-30T12:00:00" category="TD" latitude="15.9" longitude="-32.0" windspeed="25" pressure="1007"/>
+  <Track date="2007-09-30T18:00:00" category="LP" latitude="16.1" longitude="-33.3" windspeed="25" pressure="1007"/>
+  <Track date="2007-10-01T00:00:00" category="LP" latitude="16.2" longitude="-34.8" windspeed="25" pressure="1007"/>
+  <Track date="2007-10-01T06:00:00" category="LP" latitude="16.3" longitude="-36.0" windspeed="25" pressure="1007"/>
+  <Track date="2007-10-01T12:00:00" category="LP" latitude="16.5" longitude="-37.2" windspeed="25" pressure="1008"/>
+  <Track date="2007-10-01T18:00:00" category="LP" latitude="16.9" longitude="-38.6" windspeed="25" pressure="1008"/>
+  <Track date="2007-10-02T00:00:00" category="LP" latitude="17.2" longitude="-40.1" windspeed="25" pressure="1009"/>
+  <Track date="2007-10-02T06:00:00" category="LP" latitude="17.5" longitude="-41.5" windspeed="20" pressure="1010"/>
+  <Track date="2007-10-02T12:00:00" category="LP" latitude="18.2" longitude="-42.6" windspeed="20" pressure="1010"/>
+  <Track date="2007-10-02T18:00:00" category="LP" latitude="18.9" longitude="-43.5" windspeed="25" pressure="1010"/>
+  <Track date="2007-10-03T00:00:00" category="LP" latitude="19.5" longitude="-44.5" windspeed="25" pressure="1010"/>
+  <Track date="2007-10-03T06:00:00" category="LP" latitude="20.1" longitude="-45.5" windspeed="25" pressure="1010"/>
+  <Track date="2007-10-03T12:00:00" category="LP" latitude="20.7" longitude="-46.5" windspeed="25" pressure="1010"/>
+  <Track date="2007-10-03T18:00:00" category="LP" latitude="21.3" longitude="-47.5" windspeed="30" pressure="1010"/>
+  <Track date="2007-10-04T00:00:00" category="LP" latitude="21.7" longitude="-48.7" windspeed="25" pressure="1010"/>
+  <Track date="2007-10-04T06:00:00" category="LP" latitude="22.0" longitude="-49.7" windspeed="25" pressure="1010"/>
+  <Track date="2007-10-04T12:00:00" category="LP" latitude="22.4" longitude="-50.7" windspeed="25" pressure="1010"/>
+  <Track date="2007-10-04T18:00:00" category="LP" latitude="23.1" longitude="-51.3" windspeed="25" pressure="1010"/>
+  <Track date="2007-10-05T00:00:00" category="LP" latitude="23.7" longitude="-51.9" windspeed="25" pressure="1010"/>
+  <Track date="2007-10-05T06:00:00" category="LP" latitude="24.3" longitude="-52.5" windspeed="25" pressure="1010"/>
+  <Track date="2007-10-05T12:00:00" category="LP" latitude="24.5" longitude="-53.0" windspeed="20" pressure="1011"/>
+  <Track date="2007-10-05T18:00:00" category="LP" latitude="24.6" longitude="-53.5" windspeed="20" pressure="1011"/>
+</StormTrackResponse>

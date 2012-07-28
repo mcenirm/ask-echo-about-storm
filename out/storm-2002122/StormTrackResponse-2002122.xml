@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2002122" name="JULIO" pnumber="200212" hnumber="200212" from="2002-09-25 00:00:00" thru="2002-09-26 12:00:00" minlat="14.6" maxlat="19.4" minlon="-104.3" maxlon="-101.6" maxwind="40" minpress="1000" maxcat="TS" basin="EP">
+  <Track date="2002-09-25T00:00:00" category="TD" latitude="14.6" longitude="-101.8" windspeed="25" pressure="1005"/>
+  <Track date="2002-09-25T06:00:00" category="TD" latitude="15.4" longitude="-101.6" windspeed="30" pressure="1005"/>
+  <Track date="2002-09-25T12:00:00" category="TS" latitude="16.1" longitude="-101.6" windspeed="35" pressure="1003"/>
+  <Track date="2002-09-25T18:00:00" category="TS" latitude="17.0" longitude="-101.9" windspeed="40" pressure="1001"/>
+  <Track date="2002-09-26T00:00:00" category="TS" latitude="18.0" longitude="-102.4" windspeed="40" pressure="1000"/>
+  <Track date="2002-09-26T06:00:00" category="TS" latitude="18.7" longitude="-103.3" windspeed="35" pressure="1003"/>
+  <Track date="2002-09-26T12:00:00" category="TD" latitude="19.4" longitude="-104.3" windspeed="25" pressure="1005"/>
+</StormTrackResponse>

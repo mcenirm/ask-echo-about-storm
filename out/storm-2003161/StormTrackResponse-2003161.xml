@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2003161" name="PETER" pnumber="200316" hnumber="200316" from="2003-12-07 18:00:00" thru="2003-12-11 06:00:00" minlat="19.5" maxlat="27.5" minlon="-37.9" maxlon="-34.5" maxwind="60" minpress="990" maxcat="TS" basin="AT">
+  <Track date="2003-12-07T18:00:00" category="SS" latitude="27.5" longitude="-34.5" windspeed="40" pressure="1005"/>
+  <Track date="2003-12-08T00:00:00" category="SS" latitude="26.1" longitude="-34.8" windspeed="40" pressure="1004"/>
+  <Track date="2003-12-08T06:00:00" category="SS" latitude="24.1" longitude="-35.8" windspeed="40" pressure="1004"/>
+  <Track date="2003-12-08T12:00:00" category="SS" latitude="22.4" longitude="-36.8" windspeed="40" pressure="1004"/>
+  <Track date="2003-12-08T18:00:00" category="SS" latitude="20.7" longitude="-37.9" windspeed="40" pressure="1004"/>
+  <Track date="2003-12-09T00:00:00" category="SS" latitude="20.4" longitude="-37.7" windspeed="40" pressure="1002"/>
+  <Track date="2003-12-09T06:00:00" category="TS" latitude="20.0" longitude="-37.4" windspeed="40" pressure="998"/>
+  <Track date="2003-12-09T12:00:00" category="TS" latitude="19.5" longitude="-37.2" windspeed="50" pressure="992"/>
+  <Track date="2003-12-09T18:00:00" category="TS" latitude="21.0" longitude="-37.0" windspeed="60" pressure="990"/>
+  <Track date="2003-12-10T00:00:00" category="TS" latitude="22.2" longitude="-37.0" windspeed="45" pressure="1000"/>
+  <Track date="2003-12-10T06:00:00" category="TS" latitude="23.1" longitude="-37.1" windspeed="35" pressure="1005"/>
+  <Track date="2003-12-10T12:00:00" category="TD" latitude="23.8" longitude="-37.1" windspeed="30" pressure="1005"/>
+  <Track date="2003-12-10T18:00:00" category="TD" latitude="25.0" longitude="-36.7" windspeed="30" pressure="1005"/>
+  <Track date="2003-12-11T00:00:00" category="TD" latitude="26.0" longitude="-36.2" windspeed="30" pressure="1005"/>
+  <Track date="2003-12-11T06:00:00" category="ED" latitude="27.5" longitude="-35.0" windspeed="30" pressure="1009"/>
+</StormTrackResponse>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2001152" name="OCTAVE" pnumber="200115" hnumber="200115" from="2001-10-31 00:00:00" thru="2001-11-03 18:00:00" minlat="12.1" maxlat="18.8" minlon="-132.5" maxlon="-122.8" maxwind="75" minpress="980" maxcat="H1" basin="EP">
+  <Track date="2001-10-31T00:00:00" category="TD" latitude="12.1" longitude="-122.8" windspeed="30" pressure="1007"/>
+  <Track date="2001-10-31T06:00:00" category="TS" latitude="12.5" longitude="-123.9" windspeed="35" pressure="1005"/>
+  <Track date="2001-10-31T12:00:00" category="TS" latitude="13.0" longitude="-124.8" windspeed="35" pressure="1004"/>
+  <Track date="2001-10-31T18:00:00" category="TS" latitude="13.4" longitude="-125.8" windspeed="40" pressure="1002"/>
+  <Track date="2001-11-01T00:00:00" category="TS" latitude="14.1" longitude="-126.8" windspeed="50" pressure="997"/>
+  <Track date="2001-11-01T06:00:00" category="TS" latitude="14.6" longitude="-127.7" windspeed="50" pressure="997"/>
+  <Track date="2001-11-01T12:00:00" category="TS" latitude="15.1" longitude="-128.2" windspeed="55" pressure="994"/>
+  <Track date="2001-11-01T18:00:00" category="H1" latitude="15.8" longitude="-128.4" windspeed="65" pressure="987"/>
+  <Track date="2001-11-02T00:00:00" category="H1" latitude="16.5" longitude="-128.6" windspeed="75" pressure="980"/>
+  <Track date="2001-11-02T06:00:00" category="H1" latitude="17.0" longitude="-128.8" windspeed="75" pressure="980"/>
+  <Track date="2001-11-02T12:00:00" category="H1" latitude="17.5" longitude="-129.2" windspeed="65" pressure="985"/>
+  <Track date="2001-11-02T18:00:00" category="TS" latitude="17.9" longitude="-129.5" windspeed="60" pressure="989"/>
+  <Track date="2001-11-03T00:00:00" category="TS" latitude="18.3" longitude="-130.2" windspeed="45" pressure="997"/>
+  <Track date="2001-11-03T06:00:00" category="TS" latitude="18.5" longitude="-131.0" windspeed="35" pressure="1004"/>
+  <Track date="2001-11-03T12:00:00" category="TD" latitude="18.7" longitude="-131.8" windspeed="30" pressure="1005"/>
+  <Track date="2001-11-03T18:00:00" category="TD" latitude="18.8" longitude="-132.5" windspeed="30" pressure="1009"/>
+</StormTrackResponse>

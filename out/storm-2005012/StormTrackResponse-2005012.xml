@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2005012" name="ADRIAN" pnumber="200501" hnumber="200501" from="2005-05-17 18:00:00" thru="2005-05-21 00:00:00" minlat="9.8" maxlat="13.4" minlon="-95.2" maxlon="-87.4" maxwind="70" minpress="983" maxcat="H1" basin="EP">
+  <Track date="2005-05-17T18:00:00" category="TD" latitude="9.8" longitude="-95.2" windspeed="30" pressure="1005"/>
+  <Track date="2005-05-18T00:00:00" category="TS" latitude="10.1" longitude="-94.9" windspeed="35" pressure="1004"/>
+  <Track date="2005-05-18T06:00:00" category="TS" latitude="10.5" longitude="-94.4" windspeed="40" pressure="1003"/>
+  <Track date="2005-05-18T12:00:00" category="TS" latitude="10.7" longitude="-93.6" windspeed="45" pressure="1000"/>
+  <Track date="2005-05-18T18:00:00" category="TS" latitude="10.8" longitude="-92.9" windspeed="50" pressure="997"/>
+  <Track date="2005-05-19T00:00:00" category="TS" latitude="11.0" longitude="-92.3" windspeed="50" pressure="997"/>
+  <Track date="2005-05-19T06:00:00" category="TS" latitude="11.5" longitude="-91.8" windspeed="50" pressure="997"/>
+  <Track date="2005-05-19T12:00:00" category="TS" latitude="12.1" longitude="-91.2" windspeed="60" pressure="990"/>
+  <Track date="2005-05-19T18:00:00" category="H1" latitude="12.5" longitude="-90.6" windspeed="70" pressure="983"/>
+  <Track date="2005-05-20T00:00:00" category="TS" latitude="12.6" longitude="-89.9" windspeed="60" pressure="990"/>
+  <Track date="2005-05-20T06:00:00" category="TS" latitude="12.7" longitude="-89.2" windspeed="50" pressure="997"/>
+  <Track date="2005-05-20T12:00:00" category="TS" latitude="12.7" longitude="-88.5" windspeed="35" pressure="1003"/>
+  <Track date="2005-05-20T18:00:00" category="TD" latitude="13.0" longitude="-87.9" windspeed="25" pressure="1006"/>
+  <Track date="2005-05-21T00:00:00" category="TD" latitude="13.4" longitude="-87.4" windspeed="20" pressure="1008"/>
+</StormTrackResponse>

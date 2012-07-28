@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011011" name="ARLENE" pnumber="201101" hnumber="201101" from="2011-06-28 18:00:00" thru="2011-07-01 00:00:00" minlat="20.9" maxlat="21.6" minlon="-98.7" maxlon="-93.3" maxwind="55" minpress="993" maxcat="TS" basin="AT">
+  <Track date="2011-06-28T18:00:00" category="TD" latitude="20.9" longitude="-93.3" windspeed="30" pressure="1006"/>
+  <Track date="2011-06-29T00:00:00" category="TS" latitude="21.0" longitude="-93.9" windspeed="35" pressure="1003"/>
+  <Track date="2011-06-29T06:00:00" category="TS" latitude="21.2" longitude="-94.6" windspeed="35" pressure="1003"/>
+  <Track date="2011-06-29T12:00:00" category="TS" latitude="21.3" longitude="-95.3" windspeed="45" pressure="1000"/>
+  <Track date="2011-06-29T18:00:00" category="TS" latitude="21.4" longitude="-95.6" windspeed="45" pressure="1000"/>
+  <Track date="2011-06-30T00:00:00" category="TS" latitude="21.5" longitude="-96.1" windspeed="50" pressure="996"/>
+  <Track date="2011-06-30T06:00:00" category="TS" latitude="21.6" longitude="-97.0" windspeed="55" pressure="996"/>
+  <Track date="2011-06-30T12:00:00" category="TS" latitude="21.6" longitude="-97.3" windspeed="55" pressure="993"/>
+  <Track date="2011-06-30T18:00:00" category="TS" latitude="21.5" longitude="-98.1" windspeed="45" pressure="998"/>
+  <Track date="2011-07-01T00:00:00" category="TD" latitude="21.1" longitude="-98.7" windspeed="30" pressure="1002"/>
+</StormTrackResponse>

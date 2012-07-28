@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2008041" name="DOLLY" pnumber="200804" hnumber="200804" from="2008-07-20 12:00:00" thru="2008-07-27 00:00:00" minlat="17.8" maxlat="32.9" minlon="-106.7" maxlon="-83.6" maxwind="85" minpress="967" maxcat="H2" basin="AT">
+  <Track date="2008-07-20T12:00:00" category="TS" latitude="17.8" longitude="-83.6" windspeed="40" pressure="1008"/>
+  <Track date="2008-07-20T18:00:00" category="TS" latitude="18.6" longitude="-84.6" windspeed="40" pressure="1008"/>
+  <Track date="2008-07-21T00:00:00" category="TS" latitude="19.8" longitude="-85.8" windspeed="45" pressure="1007"/>
+  <Track date="2008-07-21T06:00:00" category="TS" latitude="20.9" longitude="-87.2" windspeed="45" pressure="1007"/>
+  <Track date="2008-07-21T12:00:00" category="TS" latitude="21.8" longitude="-88.8" windspeed="45" pressure="1005"/>
+  <Track date="2008-07-21T18:00:00" category="TS" latitude="22.8" longitude="-90.4" windspeed="45" pressure="1005"/>
+  <Track date="2008-07-22T00:00:00" category="TS" latitude="23.0" longitude="-92.0" windspeed="45" pressure="1000"/>
+  <Track date="2008-07-22T06:00:00" category="TS" latitude="23.2" longitude="-93.3" windspeed="45" pressure="999"/>
+  <Track date="2008-07-22T12:00:00" category="TS" latitude="23.7" longitude="-94.1" windspeed="55" pressure="993"/>
+  <Track date="2008-07-22T18:00:00" category="TS" latitude="24.3" longitude="-94.9" windspeed="60" pressure="990"/>
+  <Track date="2008-07-23T00:00:00" category="H1" latitude="24.9" longitude="-95.7" windspeed="65" pressure="982"/>
+  <Track date="2008-07-23T06:00:00" category="H1" latitude="25.4" longitude="-96.2" windspeed="70" pressure="982"/>
+  <Track date="2008-07-23T12:00:00" category="H2" latitude="25.9" longitude="-96.7" windspeed="85" pressure="967"/>
+  <Track date="2008-07-23T18:00:00" category="H1" latitude="26.4" longitude="-97.2" windspeed="75" pressure="967"/>
+  <Track date="2008-07-24T00:00:00" category="H1" latitude="26.5" longitude="-97.8" windspeed="65" pressure="976"/>
+  <Track date="2008-07-24T06:00:00" category="TS" latitude="26.7" longitude="-98.3" windspeed="55" pressure="986"/>
+  <Track date="2008-07-24T12:00:00" category="TS" latitude="27.2" longitude="-98.9" windspeed="45" pressure="992"/>
+  <Track date="2008-07-24T18:00:00" category="TS" latitude="27.9" longitude="-100.0" windspeed="35" pressure="995"/>
+  <Track date="2008-07-25T00:00:00" category="TD" latitude="28.3" longitude="-101.4" windspeed="25" pressure="1000"/>
+  <Track date="2008-07-25T06:00:00" category="TD" latitude="28.5" longitude="-102.7" windspeed="25" pressure="1004"/>
+  <Track date="2008-07-25T12:00:00" category="TD" latitude="28.8" longitude="-104.0" windspeed="25" pressure="1008"/>
+  <Track date="2008-07-25T18:00:00" category="TD" latitude="29.4" longitude="-105.0" windspeed="25" pressure="1009"/>
+  <Track date="2008-07-26T00:00:00" category="LP" latitude="30.0" longitude="-105.7" windspeed="20" pressure="1012"/>
+  <Track date="2008-07-26T06:00:00" category="LP" latitude="30.5" longitude="-106.0" windspeed="20" pressure="1011"/>
+  <Track date="2008-07-26T12:00:00" category="LP" latitude="31.0" longitude="-106.3" windspeed="20" pressure="1010"/>
+  <Track date="2008-07-26T18:00:00" category="LP" latitude="31.9" longitude="-106.7" windspeed="20" pressure="1014"/>
+  <Track date="2008-07-27T00:00:00" category="LP" latitude="32.9" longitude="-106.3" windspeed="20" pressure="1016"/>
+</StormTrackResponse>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007111" name="KAREN" pnumber="200711" hnumber="200711" from="2007-09-25 00:00:00" thru="2007-09-29 12:00:00" minlat="10.0" maxlat="16.8" minlon="-54.2" maxlon="-35.9" maxwind="65" minpress="988" maxcat="H1" basin="AT">
+  <Track date="2007-09-25T00:00:00" category="TD" latitude="10.0" longitude="-35.9" windspeed="30" pressure="1006"/>
+  <Track date="2007-09-25T06:00:00" category="TS" latitude="10.3" longitude="-37.0" windspeed="35" pressure="1005"/>
+  <Track date="2007-09-25T12:00:00" category="TS" latitude="10.6" longitude="-38.0" windspeed="35" pressure="1005"/>
+  <Track date="2007-09-25T18:00:00" category="TS" latitude="10.8" longitude="-39.2" windspeed="35" pressure="1005"/>
+  <Track date="2007-09-26T00:00:00" category="TS" latitude="10.9" longitude="-40.4" windspeed="40" pressure="1003"/>
+  <Track date="2007-09-26T06:00:00" category="TS" latitude="11.2" longitude="-41.5" windspeed="50" pressure="997"/>
+  <Track date="2007-09-26T12:00:00" category="H1" latitude="11.7" longitude="-42.4" windspeed="65" pressure="988"/>
+  <Track date="2007-09-26T18:00:00" category="H1" latitude="12.3" longitude="-43.3" windspeed="65" pressure="990"/>
+  <Track date="2007-09-27T00:00:00" category="TS" latitude="12.8" longitude="-44.6" windspeed="60" pressure="995"/>
+  <Track date="2007-09-27T06:00:00" category="TS" latitude="13.2" longitude="-45.7" windspeed="55" pressure="998"/>
+  <Track date="2007-09-27T12:00:00" category="TS" latitude="13.5" longitude="-46.8" windspeed="55" pressure="1002"/>
+  <Track date="2007-09-27T18:00:00" category="TS" latitude="14.1" longitude="-47.9" windspeed="50" pressure="1005"/>
+  <Track date="2007-09-28T00:00:00" category="TS" latitude="14.1" longitude="-48.8" windspeed="50" pressure="1005"/>
+  <Track date="2007-09-28T06:00:00" category="TS" latitude="14.3" longitude="-49.0" windspeed="40" pressure="1007"/>
+  <Track date="2007-09-28T12:00:00" category="TS" latitude="14.6" longitude="-49.0" windspeed="35" pressure="1008"/>
+  <Track date="2007-09-28T18:00:00" category="TS" latitude="15.8" longitude="-49.4" windspeed="35" pressure="1008"/>
+  <Track date="2007-09-29T00:00:00" category="TS" latitude="16.1" longitude="-51.0" windspeed="35" pressure="1008"/>
+  <Track date="2007-09-29T06:00:00" category="TD" latitude="16.3" longitude="-52.6" windspeed="30" pressure="1008"/>
+  <Track date="2007-09-29T12:00:00" category="LP" latitude="16.8" longitude="-54.2" windspeed="30" pressure="1009"/>
+</StormTrackResponse>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2000061" name="FLORENCE" pnumber="200006" hnumber="200006" from="2000-09-10 18:00:00" thru="2000-09-17 18:00:00" minlat="29.1" maxlat="45.5" minlon="-74.0" maxlon="-53.0" maxwind="70" minpress="985" maxcat="H1" basin="AT">
+  <Track date="2000-09-10T18:00:00" category="SD" latitude="30.9" longitude="-70.9" windspeed="30" pressure="1007"/>
+  <Track date="2000-09-11T00:00:00" category="SD" latitude="30.8" longitude="-71.3" windspeed="30" pressure="1007"/>
+  <Track date="2000-09-11T06:00:00" category="TD" latitude="30.7" longitude="-71.8" windspeed="30" pressure="1006"/>
+  <Track date="2000-09-11T12:00:00" category="TS" latitude="30.4" longitude="-72.2" windspeed="45" pressure="1002"/>
+  <Track date="2000-09-11T18:00:00" category="H1" latitude="30.1" longitude="-72.6" windspeed="65" pressure="998"/>
+  <Track date="2000-09-12T00:00:00" category="H1" latitude="30.1" longitude="-72.7" windspeed="65" pressure="992"/>
+  <Track date="2000-09-12T06:00:00" category="TS" latitude="30.2" longitude="-72.8" windspeed="60" pressure="993"/>
+  <Track date="2000-09-12T12:00:00" category="TS" latitude="30.3" longitude="-73.1" windspeed="60" pressure="991"/>
+  <Track date="2000-09-12T18:00:00" category="H1" latitude="30.6" longitude="-73.3" windspeed="65" pressure="987"/>
+  <Track date="2000-09-13T00:00:00" category="H1" latitude="30.8" longitude="-73.7" windspeed="65" pressure="986"/>
+  <Track date="2000-09-13T06:00:00" category="H1" latitude="30.7" longitude="-74.0" windspeed="65" pressure="986"/>
+  <Track date="2000-09-13T12:00:00" category="TS" latitude="30.7" longitude="-73.8" windspeed="60" pressure="987"/>
+  <Track date="2000-09-13T18:00:00" category="TS" latitude="30.5" longitude="-73.7" windspeed="55" pressure="989"/>
+  <Track date="2000-09-14T00:00:00" category="TS" latitude="30.2" longitude="-73.6" windspeed="50" pressure="991"/>
+  <Track date="2000-09-14T06:00:00" category="TS" latitude="29.6" longitude="-73.6" windspeed="45" pressure="993"/>
+  <Track date="2000-09-14T12:00:00" category="TS" latitude="29.5" longitude="-73.4" windspeed="45" pressure="994"/>
+  <Track date="2000-09-14T18:00:00" category="TS" latitude="29.3" longitude="-73.1" windspeed="45" pressure="995"/>
+  <Track date="2000-09-15T00:00:00" category="TS" latitude="29.2" longitude="-72.8" windspeed="45" pressure="995"/>
+  <Track date="2000-09-15T06:00:00" category="TS" latitude="29.1" longitude="-72.4" windspeed="45" pressure="996"/>
+  <Track date="2000-09-15T12:00:00" category="TS" latitude="29.8" longitude="-71.2" windspeed="50" pressure="997"/>
+  <Track date="2000-09-15T18:00:00" category="TS" latitude="30.1" longitude="-69.7" windspeed="60" pressure="997"/>
+  <Track date="2000-09-16T00:00:00" category="H1" latitude="30.8" longitude="-67.5" windspeed="65" pressure="994"/>
+  <Track date="2000-09-16T06:00:00" category="H1" latitude="32.6" longitude="-66.1" windspeed="65" pressure="988"/>
+  <Track date="2000-09-16T12:00:00" category="H1" latitude="34.3" longitude="-64.2" windspeed="65" pressure="987"/>
+  <Track date="2000-09-16T18:00:00" category="H1" latitude="36.1" longitude="-61.8" windspeed="70" pressure="985"/>
+  <Track date="2000-09-17T00:00:00" category="TS" latitude="37.9" longitude="-59.5" windspeed="60" pressure="990"/>
+  <Track date="2000-09-17T06:00:00" category="TS" latitude="40.1" longitude="-57.4" windspeed="55" pressure="995"/>
+  <Track date="2000-09-17T12:00:00" category="TS" latitude="42.5" longitude="-55.0" windspeed="50" pressure="1000"/>
+  <Track date="2000-09-17T18:00:00" category="TS" latitude="45.5" longitude="-53.0" windspeed="50" pressure="1002"/>
+</StormTrackResponse>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2004011" name="ALEX" pnumber="200401" hnumber="200401" from="2004-07-31 18:00:00" thru="2004-08-06 18:00:00" minlat="30.3" maxlat="47.4" minlon="-79.4" maxlon="-32.7" maxwind="105" minpress="957" maxcat="H3" basin="AT">
+  <Track date="2004-07-31T18:00:00" category="TD" latitude="30.3" longitude="-78.3" windspeed="25" pressure="1010"/>
+  <Track date="2004-08-01T00:00:00" category="TD" latitude="31.0" longitude="-78.8" windspeed="25" pressure="1009"/>
+  <Track date="2004-08-01T06:00:00" category="TD" latitude="31.5" longitude="-79.0" windspeed="25" pressure="1009"/>
+  <Track date="2004-08-01T12:00:00" category="TD" latitude="31.6" longitude="-79.1" windspeed="30" pressure="1009"/>
+  <Track date="2004-08-01T18:00:00" category="TS" latitude="31.6" longitude="-79.2" windspeed="35" pressure="1009"/>
+  <Track date="2004-08-02T00:00:00" category="TS" latitude="31.5" longitude="-79.3" windspeed="35" pressure="1007"/>
+  <Track date="2004-08-02T06:00:00" category="TS" latitude="31.4" longitude="-79.4" windspeed="40" pressure="1005"/>
+  <Track date="2004-08-02T12:00:00" category="TS" latitude="31.3" longitude="-79.0" windspeed="50" pressure="992"/>
+  <Track date="2004-08-02T18:00:00" category="TS" latitude="31.8" longitude="-78.7" windspeed="50" pressure="993"/>
+  <Track date="2004-08-03T00:00:00" category="TS" latitude="32.4" longitude="-78.2" windspeed="60" pressure="987"/>
+  <Track date="2004-08-03T06:00:00" category="H1" latitude="33.0" longitude="-77.4" windspeed="70" pressure="983"/>
+  <Track date="2004-08-03T12:00:00" category="H2" latitude="34.2" longitude="-76.4" windspeed="85" pressure="974"/>
+  <Track date="2004-08-03T18:00:00" category="H2" latitude="35.3" longitude="-75.2" windspeed="85" pressure="972"/>
+  <Track date="2004-08-04T00:00:00" category="H1" latitude="36.0" longitude="-73.7" windspeed="80" pressure="974"/>
+  <Track date="2004-08-04T06:00:00" category="H1" latitude="36.8" longitude="-72.1" windspeed="80" pressure="973"/>
+  <Track date="2004-08-04T12:00:00" category="H2" latitude="37.3" longitude="-70.2" windspeed="85" pressure="973"/>
+  <Track date="2004-08-04T18:00:00" category="H2" latitude="37.8" longitude="-68.3" windspeed="95" pressure="965"/>
+  <Track date="2004-08-05T00:00:00" category="H3" latitude="38.5" longitude="-66.0" windspeed="105" pressure="957"/>
+  <Track date="2004-08-05T06:00:00" category="H3" latitude="39.5" longitude="-63.1" windspeed="105" pressure="957"/>
+  <Track date="2004-08-05T12:00:00" category="H3" latitude="40.8" longitude="-59.6" windspeed="100" pressure="962"/>
+  <Track date="2004-08-05T18:00:00" category="H2" latitude="42.7" longitude="-55.0" windspeed="90" pressure="970"/>
+  <Track date="2004-08-06T00:00:00" category="H1" latitude="44.5" longitude="-49.3" windspeed="75" pressure="978"/>
+  <Track date="2004-08-06T06:00:00" category="H1" latitude="46.1" longitude="-44.2" windspeed="65" pressure="984"/>
+  <Track date="2004-08-06T12:00:00" category="TS" latitude="47.0" longitude="-37.5" windspeed="50" pressure="987"/>
+  <Track date="2004-08-06T18:00:00" category="ED" latitude="47.4" longitude="-32.7" windspeed="30" pressure="992"/>
+</StormTrackResponse>

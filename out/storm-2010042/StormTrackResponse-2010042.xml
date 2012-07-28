@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2010042" name="DARBY" pnumber="201004" hnumber="201004" from="2010-06-20 12:00:00" thru="2010-06-29 18:00:00" minlat="7.9" maxlat="15.3" minlon="-103.1" maxlon="-88.0" maxwind="105" minpress="960" maxcat="H3" basin="EP">
+  <Track date="2010-06-20T12:00:00" category="LP" latitude="7.9" longitude="-88.0" windspeed="20" pressure="1009"/>
+  <Track date="2010-06-20T18:00:00" category="LP" latitude="8.1" longitude="-88.8" windspeed="20" pressure="1009"/>
+  <Track date="2010-06-21T00:00:00" category="LP" latitude="8.4" longitude="-89.4" windspeed="20" pressure="1009"/>
+  <Track date="2010-06-21T06:00:00" category="LP" latitude="8.8" longitude="-90.0" windspeed="20" pressure="1009"/>
+  <Track date="2010-06-21T12:00:00" category="LP" latitude="9.1" longitude="-90.6" windspeed="20" pressure="1009"/>
+  <Track date="2010-06-21T18:00:00" category="LP" latitude="9.4" longitude="-91.1" windspeed="25" pressure="1008"/>
+  <Track date="2010-06-22T00:00:00" category="LP" latitude="9.6" longitude="-91.5" windspeed="25" pressure="1008"/>
+  <Track date="2010-06-22T06:00:00" category="LP" latitude="9.8" longitude="-91.9" windspeed="25" pressure="1008"/>
+  <Track date="2010-06-22T12:00:00" category="LP" latitude="10.0" longitude="-92.2" windspeed="25" pressure="1008"/>
+  <Track date="2010-06-22T18:00:00" category="LP" latitude="10.2" longitude="-92.5" windspeed="25" pressure="1008"/>
+  <Track date="2010-06-23T00:00:00" category="TD" latitude="10.9" longitude="-92.9" windspeed="30" pressure="1006"/>
+  <Track date="2010-06-23T06:00:00" category="TS" latitude="11.3" longitude="-93.7" windspeed="35" pressure="1005"/>
+  <Track date="2010-06-23T12:00:00" category="TS" latitude="11.7" longitude="-94.6" windspeed="45" pressure="1000"/>
+  <Track date="2010-06-23T18:00:00" category="TS" latitude="11.9" longitude="-95.6" windspeed="55" pressure="994"/>
+  <Track date="2010-06-24T00:00:00" category="TS" latitude="12.2" longitude="-96.6" windspeed="60" pressure="990"/>
+  <Track date="2010-06-24T06:00:00" category="H1" latitude="12.5" longitude="-97.5" windspeed="65" pressure="987"/>
+  <Track date="2010-06-24T12:00:00" category="H1" latitude="12.7" longitude="-98.3" windspeed="70" pressure="984"/>
+  <Track date="2010-06-24T18:00:00" category="H1" latitude="12.8" longitude="-99.0" windspeed="75" pressure="981"/>
+  <Track date="2010-06-25T00:00:00" category="H1" latitude="13.1" longitude="-99.7" windspeed="80" pressure="977"/>
+  <Track date="2010-06-25T06:00:00" category="H2" latitude="13.2" longitude="-100.4" windspeed="90" pressure="970"/>
+  <Track date="2010-06-25T12:00:00" category="H3" latitude="13.4" longitude="-100.9" windspeed="100" pressure="962"/>
+  <Track date="2010-06-25T18:00:00" category="H3" latitude="13.6" longitude="-101.3" windspeed="105" pressure="960"/>
+  <Track date="2010-06-26T00:00:00" category="H3" latitude="13.7" longitude="-101.8" windspeed="100" pressure="961"/>
+  <Track date="2010-06-26T06:00:00" category="H3" latitude="13.5" longitude="-102.2" windspeed="100" pressure="962"/>
+  <Track date="2010-06-26T12:00:00" category="H2" latitude="13.5" longitude="-102.5" windspeed="95" pressure="965"/>
+  <Track date="2010-06-26T18:00:00" category="H2" latitude="13.5" longitude="-102.7" windspeed="85" pressure="975"/>
+  <Track date="2010-06-27T00:00:00" category="H1" latitude="13.5" longitude="-102.9" windspeed="70" pressure="984"/>
+  <Track date="2010-06-27T06:00:00" category="TS" latitude="13.5" longitude="-103.1" windspeed="60" pressure="991"/>
+  <Track date="2010-06-27T12:00:00" category="TS" latitude="13.6" longitude="-103.0" windspeed="50" pressure="997"/>
+  <Track date="2010-06-27T18:00:00" category="TS" latitude="13.7" longitude="-102.6" windspeed="40" pressure="1001"/>
+  <Track date="2010-06-28T00:00:00" category="TS" latitude="13.8" longitude="-102.2" windspeed="35" pressure="1002"/>
+  <Track date="2010-06-28T06:00:00" category="TS" latitude="14.1" longitude="-101.3" windspeed="35" pressure="1003"/>
+  <Track date="2010-06-28T12:00:00" category="TD" latitude="14.2" longitude="-100.1" windspeed="30" pressure="1004"/>
+  <Track date="2010-06-28T18:00:00" category="LP" latitude="14.3" longitude="-98.9" windspeed="25" pressure="1004"/>
+  <Track date="2010-06-29T00:00:00" category="LP" latitude="14.6" longitude="-97.9" windspeed="25" pressure="1005"/>
+  <Track date="2010-06-29T06:00:00" category="LP" latitude="14.9" longitude="-97.1" windspeed="25" pressure="1005"/>
+  <Track date="2010-06-29T12:00:00" category="LP" latitude="15.1" longitude="-96.5" windspeed="20" pressure="1006"/>
+  <Track date="2010-06-29T18:00:00" category="LP" latitude="15.3" longitude="-96.1" windspeed="20" pressure="1006"/>
+</StormTrackResponse>

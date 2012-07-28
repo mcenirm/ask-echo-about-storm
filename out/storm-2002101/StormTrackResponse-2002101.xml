@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2002101" name="JOSEPHINE" pnumber="200210" hnumber="200210" from="2002-09-17 12:00:00" thru="2002-09-19 12:00:00" minlat="32.7" maxlat="41.5" minlon="-52.7" maxlon="-43.3" maxwind="50" minpress="1004" maxcat="ES" basin="AT">
+  <Track date="2002-09-17T12:00:00" category="TD" latitude="32.7" longitude="-52.4" windspeed="30" pressure="1016"/>
+  <Track date="2002-09-17T18:00:00" category="TD" latitude="33.2" longitude="-52.7" windspeed="30" pressure="1015"/>
+  <Track date="2002-09-18T00:00:00" category="TD" latitude="33.7" longitude="-52.7" windspeed="30" pressure="1014"/>
+  <Track date="2002-09-18T06:00:00" category="TS" latitude="34.7" longitude="-52.7" windspeed="35" pressure="1009"/>
+  <Track date="2002-09-18T12:00:00" category="TS" latitude="35.5" longitude="-52.0" windspeed="35" pressure="1009"/>
+  <Track date="2002-09-18T18:00:00" category="TS" latitude="36.6" longitude="-50.5" windspeed="35" pressure="1009"/>
+  <Track date="2002-09-19T00:00:00" category="TS" latitude="38.0" longitude="-48.8" windspeed="35" pressure="1009"/>
+  <Track date="2002-09-19T06:00:00" category="TS" latitude="39.5" longitude="-46.7" windspeed="35" pressure="1009"/>
+  <Track date="2002-09-19T12:00:00" category="ES" latitude="41.5" longitude="-43.3" windspeed="50" pressure="1004"/>
+</StormTrackResponse>

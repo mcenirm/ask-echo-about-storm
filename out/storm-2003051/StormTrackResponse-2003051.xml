@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2003051" name="ERIKA" pnumber="200305" hnumber="200305" from="2003-08-14 18:00:00" thru="2003-08-17 00:00:00" minlat="24.7" maxlat="26.6" minlon="-100.3" maxlon="-83.3" maxwind="65" minpress="988" maxcat="H1" basin="AT">
+  <Track date="2003-08-14T18:00:00" category="TS" latitude="26.4" longitude="-83.3" windspeed="35" pressure="1011"/>
+  <Track date="2003-08-15T00:00:00" category="TS" latitude="26.6" longitude="-85.7" windspeed="40" pressure="1008"/>
+  <Track date="2003-08-15T06:00:00" category="TS" latitude="26.4" longitude="-88.3" windspeed="40" pressure="1008"/>
+  <Track date="2003-08-15T12:00:00" category="TS" latitude="26.1" longitude="-90.5" windspeed="45" pressure="1007"/>
+  <Track date="2003-08-15T18:00:00" category="TS" latitude="26.0" longitude="-92.5" windspeed="50" pressure="1001"/>
+  <Track date="2003-08-16T00:00:00" category="TS" latitude="25.9" longitude="-94.4" windspeed="55" pressure="995"/>
+  <Track date="2003-08-16T06:00:00" category="TS" latitude="25.6" longitude="-96.2" windspeed="60" pressure="988"/>
+  <Track date="2003-08-16T12:00:00" category="H1" latitude="25.2" longitude="-97.6" windspeed="65" pressure="988"/>
+  <Track date="2003-08-16T18:00:00" category="TS" latitude="24.8" longitude="-98.9" windspeed="35" pressure="1003"/>
+  <Track date="2003-08-17T00:00:00" category="TD" latitude="24.7" longitude="-100.3" windspeed="25" pressure="1008"/>
+</StormTrackResponse>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007082" name="HENRIETTE" pnumber="200708" hnumber="200708" from="2007-08-30 06:00:00" thru="2007-09-06 06:00:00" minlat="13.1" maxlat="29.5" minlon="-110.9" maxlon="-95.9" maxwind="75" minpress="972" maxcat="H1" basin="EP">
+  <Track date="2007-08-30T06:00:00" category="TD" latitude="13.1" longitude="-95.9" windspeed="25" pressure="1008"/>
+  <Track date="2007-08-30T12:00:00" category="TD" latitude="13.6" longitude="-96.5" windspeed="30" pressure="1007"/>
+  <Track date="2007-08-30T18:00:00" category="TD" latitude="14.1" longitude="-97.2" windspeed="30" pressure="1006"/>
+  <Track date="2007-08-31T00:00:00" category="TD" latitude="14.6" longitude="-98.0" windspeed="30" pressure="1006"/>
+  <Track date="2007-08-31T06:00:00" category="TD" latitude="15.1" longitude="-98.8" windspeed="30" pressure="1004"/>
+  <Track date="2007-08-31T12:00:00" category="TS" latitude="15.7" longitude="-99.6" windspeed="35" pressure="1002"/>
+  <Track date="2007-08-31T18:00:00" category="TS" latitude="16.3" longitude="-100.6" windspeed="40" pressure="1000"/>
+  <Track date="2007-09-01T00:00:00" category="TS" latitude="16.8" longitude="-101.6" windspeed="45" pressure="997"/>
+  <Track date="2007-09-01T06:00:00" category="TS" latitude="17.2" longitude="-102.8" windspeed="45" pressure="997"/>
+  <Track date="2007-09-01T12:00:00" category="TS" latitude="17.6" longitude="-103.9" windspeed="45" pressure="997"/>
+  <Track date="2007-09-01T18:00:00" category="TS" latitude="17.9" longitude="-104.7" windspeed="50" pressure="996"/>
+  <Track date="2007-09-02T00:00:00" category="TS" latitude="18.0" longitude="-105.3" windspeed="50" pressure="995"/>
+  <Track date="2007-09-02T06:00:00" category="TS" latitude="18.1" longitude="-105.8" windspeed="55" pressure="994"/>
+  <Track date="2007-09-02T12:00:00" category="TS" latitude="18.3" longitude="-106.2" windspeed="55" pressure="994"/>
+  <Track date="2007-09-02T18:00:00" category="TS" latitude="18.5" longitude="-106.5" windspeed="55" pressure="994"/>
+  <Track date="2007-09-03T00:00:00" category="TS" latitude="18.7" longitude="-106.8" windspeed="55" pressure="993"/>
+  <Track date="2007-09-03T06:00:00" category="TS" latitude="19.0" longitude="-107.3" windspeed="55" pressure="991"/>
+  <Track date="2007-09-03T12:00:00" category="TS" latitude="19.4" longitude="-107.9" windspeed="60" pressure="988"/>
+  <Track date="2007-09-03T18:00:00" category="TS" latitude="19.8" longitude="-108.4" windspeed="60" pressure="983"/>
+  <Track date="2007-09-04T00:00:00" category="TS" latitude="20.3" longitude="-108.7" windspeed="60" pressure="978"/>
+  <Track date="2007-09-04T06:00:00" category="H1" latitude="20.9" longitude="-109.0" windspeed="65" pressure="975"/>
+  <Track date="2007-09-04T12:00:00" category="H1" latitude="21.7" longitude="-109.3" windspeed="75" pressure="972"/>
+  <Track date="2007-09-04T18:00:00" category="H1" latitude="22.6" longitude="-109.6" windspeed="70" pressure="972"/>
+  <Track date="2007-09-05T00:00:00" category="H1" latitude="23.6" longitude="-109.8" windspeed="65" pressure="975"/>
+  <Track date="2007-09-05T06:00:00" category="H1" latitude="24.6" longitude="-110.1" windspeed="65" pressure="980"/>
+  <Track date="2007-09-05T12:00:00" category="H1" latitude="25.6" longitude="-110.4" windspeed="65" pressure="983"/>
+  <Track date="2007-09-05T18:00:00" category="H1" latitude="26.6" longitude="-110.7" windspeed="65" pressure="986"/>
+  <Track date="2007-09-06T00:00:00" category="TS" latitude="27.9" longitude="-110.9" windspeed="60" pressure="990"/>
+  <Track date="2007-09-06T06:00:00" category="TD" latitude="29.5" longitude="-110.5" windspeed="30" pressure="1002"/>
+</StormTrackResponse>

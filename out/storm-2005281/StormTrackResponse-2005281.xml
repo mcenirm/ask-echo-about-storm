@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2005281" name="ZETA" pnumber="200527" hnumber="200528" from="2005-12-30 00:00:00" thru="2006-01-07 18:00:00" minlat="21.7" maxlat="26.3" minlon="-55.7" maxlon="-35.6" maxwind="55" minpress="994" maxcat="TS" basin="AT">
+  <Track date="2005-12-30T00:00:00" category="TD" latitude="23.9" longitude="-35.6" windspeed="30" pressure="1009"/>
+  <Track date="2005-12-30T06:00:00" category="TS" latitude="24.2" longitude="-36.1" windspeed="40" pressure="1005"/>
+  <Track date="2005-12-30T12:00:00" category="TS" latitude="24.7" longitude="-36.6" windspeed="45" pressure="1002"/>
+  <Track date="2005-12-30T18:00:00" category="TS" latitude="25.2" longitude="-37.0" windspeed="45" pressure="1000"/>
+  <Track date="2005-12-31T00:00:00" category="TS" latitude="25.6" longitude="-37.3" windspeed="45" pressure="1000"/>
+  <Track date="2005-12-31T06:00:00" category="TS" latitude="25.7" longitude="-37.6" windspeed="50" pressure="997"/>
+  <Track date="2005-12-31T12:00:00" category="TS" latitude="25.7" longitude="-37.9" windspeed="50" pressure="997"/>
+  <Track date="2005-12-31T18:00:00" category="TS" latitude="25.7" longitude="-38.1" windspeed="45" pressure="1000"/>
+  <Track date="2006-01-01T00:00:00" category="TS" latitude="25.6" longitude="-38.3" windspeed="50" pressure="997"/>
+  <Track date="2006-01-01T06:00:00" category="TS" latitude="25.4" longitude="-38.4" windspeed="50" pressure="997"/>
+  <Track date="2006-01-01T12:00:00" category="TS" latitude="25.2" longitude="-38.5" windspeed="50" pressure="997"/>
+  <Track date="2006-01-01T18:00:00" category="TS" latitude="25.0" longitude="-38.6" windspeed="55" pressure="994"/>
+  <Track date="2006-01-02T00:00:00" category="TS" latitude="24.6" longitude="-38.9" windspeed="55" pressure="994"/>
+  <Track date="2006-01-02T06:00:00" category="TS" latitude="24.3" longitude="-39.7" windspeed="50" pressure="997"/>
+  <Track date="2006-01-02T12:00:00" category="TS" latitude="23.8" longitude="-40.4" windspeed="45" pressure="1000"/>
+  <Track date="2006-01-02T18:00:00" category="TS" latitude="23.6" longitude="-40.8" windspeed="50" pressure="997"/>
+  <Track date="2006-01-03T00:00:00" category="TS" latitude="23.4" longitude="-41.0" windspeed="55" pressure="994"/>
+  <Track date="2006-01-03T06:00:00" category="TS" latitude="23.3" longitude="-41.3" windspeed="55" pressure="994"/>
+  <Track date="2006-01-03T12:00:00" category="TS" latitude="23.2" longitude="-41.6" windspeed="55" pressure="994"/>
+  <Track date="2006-01-03T18:00:00" category="TS" latitude="23.0" longitude="-42.1" windspeed="55" pressure="994"/>
+  <Track date="2006-01-04T00:00:00" category="TS" latitude="22.6" longitude="-42.4" windspeed="55" pressure="994"/>
+  <Track date="2006-01-04T06:00:00" category="TS" latitude="22.1" longitude="-42.9" windspeed="50" pressure="997"/>
+  <Track date="2006-01-04T12:00:00" category="TS" latitude="21.9" longitude="-43.6" windspeed="45" pressure="1000"/>
+  <Track date="2006-01-04T18:00:00" category="TS" latitude="21.7" longitude="-44.6" windspeed="40" pressure="1002"/>
+  <Track date="2006-01-05T00:00:00" category="TS" latitude="21.7" longitude="-45.6" windspeed="35" pressure="1005"/>
+  <Track date="2006-01-05T06:00:00" category="TS" latitude="21.9" longitude="-46.6" windspeed="35" pressure="1005"/>
+  <Track date="2006-01-05T12:00:00" category="TS" latitude="22.2" longitude="-47.3" windspeed="35" pressure="1006"/>
+  <Track date="2006-01-05T18:00:00" category="TS" latitude="22.7" longitude="-47.9" windspeed="35" pressure="1007"/>
+  <Track date="2006-01-06T00:00:00" category="TS" latitude="23.0" longitude="-48.4" windspeed="35" pressure="1007"/>
+  <Track date="2006-01-06T06:00:00" category="TD" latitude="23.1" longitude="-49.0" windspeed="30" pressure="1007"/>
+  <Track date="2006-01-06T12:00:00" category="TD" latitude="23.1" longitude="-49.6" windspeed="30" pressure="1008"/>
+  <Track date="2006-01-06T18:00:00" category="LP" latitude="23.3" longitude="-50.2" windspeed="25" pressure="1009"/>
+  <Track date="2006-01-07T00:00:00" category="LP" latitude="23.7" longitude="-51.4" windspeed="25" pressure="1009"/>
+  <Track date="2006-01-07T06:00:00" category="LP" latitude="24.2" longitude="-52.7" windspeed="25" pressure="1012"/>
+  <Track date="2006-01-07T12:00:00" category="LP" latitude="24.8" longitude="-54.2" windspeed="25" pressure="1014"/>
+  <Track date="2006-01-07T18:00:00" category="LP" latitude="26.3" longitude="-55.7" windspeed="25" pressure="1016"/>
+</StormTrackResponse>

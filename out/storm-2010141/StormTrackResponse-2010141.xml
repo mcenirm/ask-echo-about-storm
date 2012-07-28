@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2010141" name="NICOLE" pnumber="201014" hnumber="201014" from="2010-09-28 00:00:00" thru="2010-09-30 12:00:00" minlat="19.4" maxlat="27.4" minlon="-84.1" maxlon="-78.5" maxwind="40" minpress="994" maxcat="ES" basin="AT">
+  <Track date="2010-09-28T00:00:00" category="LP" latitude="19.4" longitude="-84.1" windspeed="25" pressure="1003"/>
+  <Track date="2010-09-28T06:00:00" category="LP" latitude="19.8" longitude="-83.5" windspeed="30" pressure="1003"/>
+  <Track date="2010-09-28T12:00:00" category="TS" latitude="20.4" longitude="-83.0" windspeed="35" pressure="1001"/>
+  <Track date="2010-09-28T18:00:00" category="TS" latitude="21.0" longitude="-82.7" windspeed="40" pressure="999"/>
+  <Track date="2010-09-29T00:00:00" category="TS" latitude="21.4" longitude="-82.2" windspeed="35" pressure="997"/>
+  <Track date="2010-09-29T06:00:00" category="TS" latitude="21.7" longitude="-81.6" windspeed="35" pressure="996"/>
+  <Track date="2010-09-29T12:00:00" category="TS" latitude="21.9" longitude="-81.0" windspeed="40" pressure="995"/>
+  <Track date="2010-09-29T18:00:00" category="LP" latitude="23.3" longitude="-80.1" windspeed="40" pressure="994"/>
+  <Track date="2010-09-30T00:00:00" category="LP" latitude="24.7" longitude="-79.6" windspeed="40" pressure="994"/>
+  <Track date="2010-09-30T06:00:00" category="ES" latitude="26.1" longitude="-79.0" windspeed="40" pressure="995"/>
+  <Track date="2010-09-30T12:00:00" category="ES" latitude="27.4" longitude="-78.5" windspeed="40" pressure="996"/>
+</StormTrackResponse>

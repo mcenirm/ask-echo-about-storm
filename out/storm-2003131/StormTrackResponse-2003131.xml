@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2003131" name="MINDY" pnumber="200313" hnumber="200313" from="2003-10-10 18:00:00" thru="2003-10-14 00:00:00" minlat="19.1" maxlat="25.9" minlon="-72.4" maxlon="-67.7" maxwind="40" minpress="1002" maxcat="TS" basin="AT">
+  <Track date="2003-10-10T18:00:00" category="TS" latitude="19.1" longitude="-68.8" windspeed="40" pressure="1004"/>
+  <Track date="2003-10-11T00:00:00" category="TS" latitude="20.1" longitude="-69.7" windspeed="40" pressure="1002"/>
+  <Track date="2003-10-11T06:00:00" category="TS" latitude="20.9" longitude="-70.4" windspeed="40" pressure="1003"/>
+  <Track date="2003-10-11T12:00:00" category="TS" latitude="21.8" longitude="-71.3" windspeed="35" pressure="1007"/>
+  <Track date="2003-10-11T18:00:00" category="TS" latitude="22.7" longitude="-71.5" windspeed="35" pressure="1007"/>
+  <Track date="2003-10-12T00:00:00" category="TS" latitude="23.6" longitude="-71.9" windspeed="35" pressure="1006"/>
+  <Track date="2003-10-12T06:00:00" category="TD" latitude="24.0" longitude="-72.4" windspeed="30" pressure="1007"/>
+  <Track date="2003-10-12T12:00:00" category="TD" latitude="24.7" longitude="-72.2" windspeed="30" pressure="1008"/>
+  <Track date="2003-10-12T18:00:00" category="TD" latitude="25.5" longitude="-72.0" windspeed="30" pressure="1008"/>
+  <Track date="2003-10-13T00:00:00" category="TD" latitude="25.6" longitude="-71.0" windspeed="30" pressure="1008"/>
+  <Track date="2003-10-13T06:00:00" category="TD" latitude="25.7" longitude="-70.3" windspeed="30" pressure="1008"/>
+  <Track date="2003-10-13T12:00:00" category="TD" latitude="25.8" longitude="-69.3" windspeed="30" pressure="1008"/>
+  <Track date="2003-10-13T18:00:00" category="TD" latitude="25.9" longitude="-68.3" windspeed="30" pressure="1007"/>
+  <Track date="2003-10-14T00:00:00" category="TD" latitude="25.9" longitude="-67.7" windspeed="25" pressure="1008"/>
+</StormTrackResponse>

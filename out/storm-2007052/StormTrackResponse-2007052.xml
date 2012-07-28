@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007052" name="ERICK" pnumber="200705" hnumber="200705" from="2007-07-31 12:00:00" thru="2007-08-02 00:00:00" minlat="12.9" maxlat="13.3" minlon="-127.7" maxlon="-122.5" maxwind="35" minpress="1004" maxcat="TS" basin="EP">
+  <Track date="2007-07-31T12:00:00" category="TD" latitude="12.9" longitude="-122.5" windspeed="25" pressure="1008"/>
+  <Track date="2007-07-31T18:00:00" category="TD" latitude="12.9" longitude="-123.4" windspeed="30" pressure="1007"/>
+  <Track date="2007-08-01T00:00:00" category="TS" latitude="13.0" longitude="-124.2" windspeed="35" pressure="1005"/>
+  <Track date="2007-08-01T06:00:00" category="TS" latitude="13.0" longitude="-124.9" windspeed="35" pressure="1004"/>
+  <Track date="2007-08-01T12:00:00" category="TS" latitude="13.1" longitude="-125.7" windspeed="35" pressure="1005"/>
+  <Track date="2007-08-01T18:00:00" category="TS" latitude="13.2" longitude="-126.7" windspeed="35" pressure="1005"/>
+  <Track date="2007-08-02T00:00:00" category="TD" latitude="13.3" longitude="-127.7" windspeed="30" pressure="1006"/>
+</StormTrackResponse>

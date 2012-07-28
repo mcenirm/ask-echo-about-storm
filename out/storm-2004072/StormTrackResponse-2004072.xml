@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2004072" name="GEORGETTE" pnumber="200407" hnumber="200407" from="2004-08-26 12:00:00" thru="2004-09-03 12:00:00" minlat="14.7" maxlat="23.1" minlon="-146.1" maxlon="-106.0" maxwind="55" minpress="995" maxcat="TS" basin="EP">
+  <Track date="2004-08-26T12:00:00" category="TD" latitude="14.7" longitude="-106.0" windspeed="30" pressure="1006"/>
+  <Track date="2004-08-26T18:00:00" category="TS" latitude="15.6" longitude="-107.0" windspeed="35" pressure="1005"/>
+  <Track date="2004-08-27T00:00:00" category="TS" latitude="16.5" longitude="-108.4" windspeed="40" pressure="1002"/>
+  <Track date="2004-08-27T06:00:00" category="TS" latitude="17.3" longitude="-109.9" windspeed="50" pressure="998"/>
+  <Track date="2004-08-27T12:00:00" category="TS" latitude="17.9" longitude="-111.3" windspeed="55" pressure="995"/>
+  <Track date="2004-08-27T18:00:00" category="TS" latitude="18.3" longitude="-112.8" windspeed="50" pressure="998"/>
+  <Track date="2004-08-28T00:00:00" category="TS" latitude="18.5" longitude="-114.2" windspeed="45" pressure="1000"/>
+  <Track date="2004-08-28T06:00:00" category="TS" latitude="18.6" longitude="-115.4" windspeed="45" pressure="1000"/>
+  <Track date="2004-08-28T12:00:00" category="TS" latitude="18.7" longitude="-116.6" windspeed="45" pressure="1000"/>
+  <Track date="2004-08-28T18:00:00" category="TS" latitude="18.8" longitude="-117.5" windspeed="50" pressure="998"/>
+  <Track date="2004-08-29T00:00:00" category="TS" latitude="19.0" longitude="-118.5" windspeed="50" pressure="997"/>
+  <Track date="2004-08-29T06:00:00" category="TS" latitude="19.1" longitude="-119.4" windspeed="45" pressure="999"/>
+  <Track date="2004-08-29T12:00:00" category="TS" latitude="19.3" longitude="-120.3" windspeed="45" pressure="1000"/>
+  <Track date="2004-08-29T18:00:00" category="TS" latitude="19.5" longitude="-121.3" windspeed="45" pressure="1001"/>
+  <Track date="2004-08-30T00:00:00" category="TS" latitude="19.7" longitude="-122.4" windspeed="35" pressure="1004"/>
+  <Track date="2004-08-30T06:00:00" category="TD" latitude="19.9" longitude="-123.4" windspeed="30" pressure="1007"/>
+  <Track date="2004-08-30T12:00:00" category="TD" latitude="20.1" longitude="-124.4" windspeed="25" pressure="1007"/>
+  <Track date="2004-08-30T18:00:00" category="LP" latitude="20.3" longitude="-125.6" windspeed="20" pressure="1008"/>
+  <Track date="2004-08-31T00:00:00" category="LP" latitude="20.5" longitude="-127.0" windspeed="20" pressure="1009"/>
+  <Track date="2004-08-31T06:00:00" category="LP" latitude="20.8" longitude="-128.5" windspeed="20" pressure="1009"/>
+  <Track date="2004-08-31T12:00:00" category="LP" latitude="21.0" longitude="-130.0" windspeed="20" pressure="1009"/>
+  <Track date="2004-08-31T18:00:00" category="LP" latitude="21.1" longitude="-131.5" windspeed="20" pressure="1010"/>
+  <Track date="2004-09-01T00:00:00" category="LP" latitude="21.2" longitude="-133.0" windspeed="20" pressure="1010"/>
+  <Track date="2004-09-01T06:00:00" category="LP" latitude="21.3" longitude="-134.0" windspeed="20" pressure="1010"/>
+  <Track date="2004-09-01T12:00:00" category="LP" latitude="21.3" longitude="-135.0" windspeed="20" pressure="1010"/>
+  <Track date="2004-09-01T18:00:00" category="LP" latitude="21.3" longitude="-136.0" windspeed="20" pressure="1010"/>
+  <Track date="2004-09-02T00:00:00" category="LP" latitude="21.3" longitude="-137.2" windspeed="20" pressure="1010"/>
+  <Track date="2004-09-02T06:00:00" category="LP" latitude="21.4" longitude="-138.6" windspeed="15" pressure="1011"/>
+  <Track date="2004-09-02T12:00:00" category="LP" latitude="21.7" longitude="-140.2" windspeed="15" pressure="1011"/>
+  <Track date="2004-09-02T18:00:00" category="LP" latitude="22.3" longitude="-141.7" windspeed="15" pressure="1011"/>
+  <Track date="2004-09-03T00:00:00" category="LP" latitude="22.9" longitude="-143.1" windspeed="15" pressure="1011"/>
+  <Track date="2004-09-03T06:00:00" category="LP" latitude="23.1" longitude="-144.6" windspeed="15" pressure="1012"/>
+  <Track date="2004-09-03T12:00:00" category="LP" latitude="23.1" longitude="-146.1" windspeed="15" pressure="1013"/>
+</StormTrackResponse>

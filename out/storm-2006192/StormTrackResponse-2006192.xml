@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2006192" name="SERGIO" pnumber="200619" hnumber="200619" from="2006-11-13 18:00:00" thru="2006-11-20 18:00:00" minlat="12.0" maxlat="15.5" minlon="-107.6" maxlon="-102.6" maxwind="95" minpress="965" maxcat="H2" basin="EP">
+  <Track date="2006-11-13T18:00:00" category="TD" latitude="12.3" longitude="-103.6" windspeed="25" pressure="1009"/>
+  <Track date="2006-11-14T00:00:00" category="TD" latitude="12.7" longitude="-104.0" windspeed="25" pressure="1008"/>
+  <Track date="2006-11-14T06:00:00" category="TD" latitude="12.9" longitude="-104.2" windspeed="30" pressure="1007"/>
+  <Track date="2006-11-14T12:00:00" category="TS" latitude="13.0" longitude="-104.3" windspeed="35" pressure="1006"/>
+  <Track date="2006-11-14T18:00:00" category="TS" latitude="13.0" longitude="-104.5" windspeed="50" pressure="1000"/>
+  <Track date="2006-11-15T00:00:00" category="TS" latitude="12.8" longitude="-104.4" windspeed="55" pressure="994"/>
+  <Track date="2006-11-15T06:00:00" category="TS" latitude="12.6" longitude="-104.3" windspeed="60" pressure="992"/>
+  <Track date="2006-11-15T12:00:00" category="H1" latitude="12.3" longitude="-104.0" windspeed="80" pressure="985"/>
+  <Track date="2006-11-15T18:00:00" category="H2" latitude="12.0" longitude="-103.7" windspeed="95" pressure="965"/>
+  <Track date="2006-11-16T00:00:00" category="H2" latitude="12.1" longitude="-103.3" windspeed="90" pressure="970"/>
+  <Track date="2006-11-16T06:00:00" category="H2" latitude="12.3" longitude="-103.1" windspeed="90" pressure="970"/>
+  <Track date="2006-11-16T12:00:00" category="H2" latitude="12.8" longitude="-102.9" windspeed="85" pressure="975"/>
+  <Track date="2006-11-16T18:00:00" category="H1" latitude="13.2" longitude="-102.8" windspeed="70" pressure="980"/>
+  <Track date="2006-11-17T00:00:00" category="H1" latitude="13.5" longitude="-102.8" windspeed="70" pressure="982"/>
+  <Track date="2006-11-17T06:00:00" category="TS" latitude="13.7" longitude="-102.7" windspeed="60" pressure="988"/>
+  <Track date="2006-11-17T12:00:00" category="TS" latitude="13.8" longitude="-102.6" windspeed="50" pressure="997"/>
+  <Track date="2006-11-17T18:00:00" category="TS" latitude="14.0" longitude="-102.6" windspeed="40" pressure="1002"/>
+  <Track date="2006-11-18T00:00:00" category="TS" latitude="14.3" longitude="-102.9" windspeed="40" pressure="1002"/>
+  <Track date="2006-11-18T06:00:00" category="TS" latitude="14.6" longitude="-103.3" windspeed="45" pressure="1000"/>
+  <Track date="2006-11-18T12:00:00" category="TS" latitude="15.0" longitude="-103.8" windspeed="45" pressure="1000"/>
+  <Track date="2006-11-18T18:00:00" category="TS" latitude="15.3" longitude="-104.4" windspeed="45" pressure="1000"/>
+  <Track date="2006-11-19T00:00:00" category="TS" latitude="15.5" longitude="-104.9" windspeed="40" pressure="1002"/>
+  <Track date="2006-11-19T06:00:00" category="TS" latitude="15.5" longitude="-105.1" windspeed="40" pressure="1002"/>
+  <Track date="2006-11-19T12:00:00" category="TS" latitude="15.4" longitude="-105.4" windspeed="35" pressure="1004"/>
+  <Track date="2006-11-19T18:00:00" category="TS" latitude="15.2" longitude="-105.8" windspeed="35" pressure="1005"/>
+  <Track date="2006-11-20T00:00:00" category="TD" latitude="15.0" longitude="-106.2" windspeed="30" pressure="1005"/>
+  <Track date="2006-11-20T06:00:00" category="TD" latitude="14.9" longitude="-106.5" windspeed="30" pressure="1005"/>
+  <Track date="2006-11-20T12:00:00" category="TD" latitude="14.8" longitude="-106.9" windspeed="30" pressure="1005"/>
+  <Track date="2006-11-20T18:00:00" category="TD" latitude="14.8" longitude="-107.6" windspeed="25" pressure="1006"/>
+</StormTrackResponse>

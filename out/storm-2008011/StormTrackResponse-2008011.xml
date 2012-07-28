@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2008011" name="ARTHUR" pnumber="200801" hnumber="200801" from="2008-05-31 00:00:00" thru="2008-06-02 00:00:00" minlat="17.5" maxlat="18.3" minlon="-91.1" maxlon="-87.5" maxwind="40" minpress="1004" maxcat="TS" basin="AT">
+  <Track date="2008-05-31T00:00:00" category="TS" latitude="17.5" longitude="-87.5" windspeed="35" pressure="1005"/>
+  <Track date="2008-05-31T06:00:00" category="TS" latitude="17.8" longitude="-88.0" windspeed="40" pressure="1004"/>
+  <Track date="2008-05-31T12:00:00" category="TS" latitude="18.0" longitude="-88.4" windspeed="35" pressure="1005"/>
+  <Track date="2008-05-31T18:00:00" category="TS" latitude="18.2" longitude="-88.8" windspeed="35" pressure="1005"/>
+  <Track date="2008-06-01T00:00:00" category="TS" latitude="18.3" longitude="-89.2" windspeed="35" pressure="1006"/>
+  <Track date="2008-06-01T06:00:00" category="TS" latitude="18.2" longitude="-89.8" windspeed="35" pressure="1006"/>
+  <Track date="2008-06-01T12:00:00" category="TD" latitude="18.0" longitude="-90.4" windspeed="30" pressure="1006"/>
+  <Track date="2008-06-01T18:00:00" category="TD" latitude="17.8" longitude="-90.8" windspeed="30" pressure="1006"/>
+  <Track date="2008-06-02T00:00:00" category="LP" latitude="17.6" longitude="-91.1" windspeed="25" pressure="1006"/>
+</StormTrackResponse>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2002121" name="LILI" pnumber="200212" hnumber="200212" from="2002-09-21 18:00:00" thru="2002-10-04 12:00:00" minlat="10.2" maxlat="35.8" minlon="-92.4" maxlon="-44.6" maxwind="125" minpress="940" maxcat="H4" basin="AT">
+  <Track date="2002-09-21T18:00:00" category="TD" latitude="10.2" longitude="-44.6" windspeed="25" pressure="1009"/>
+  <Track date="2002-09-22T00:00:00" category="TD" latitude="10.3" longitude="-46.5" windspeed="30" pressure="1007"/>
+  <Track date="2002-09-22T06:00:00" category="TD" latitude="10.8" longitude="-48.5" windspeed="30" pressure="1006"/>
+  <Track date="2002-09-22T12:00:00" category="TD" latitude="11.2" longitude="-50.4" windspeed="30" pressure="1006"/>
+  <Track date="2002-09-22T18:00:00" category="TD" latitude="11.8" longitude="-52.2" windspeed="30" pressure="1005"/>
+  <Track date="2002-09-23T00:00:00" category="TS" latitude="12.1" longitude="-54.6" windspeed="35" pressure="1005"/>
+  <Track date="2002-09-23T06:00:00" category="TS" latitude="12.2" longitude="-56.8" windspeed="40" pressure="1005"/>
+  <Track date="2002-09-23T12:00:00" category="TS" latitude="12.4" longitude="-58.7" windspeed="45" pressure="1004"/>
+  <Track date="2002-09-23T18:00:00" category="TS" latitude="12.5" longitude="-60.4" windspeed="50" pressure="1005"/>
+  <Track date="2002-09-24T00:00:00" category="TS" latitude="12.7" longitude="-62.1" windspeed="50" pressure="1006"/>
+  <Track date="2002-09-24T06:00:00" category="TS" latitude="12.8" longitude="-63.7" windspeed="50" pressure="1006"/>
+  <Track date="2002-09-24T12:00:00" category="TS" latitude="13.0" longitude="-64.9" windspeed="60" pressure="1004"/>
+  <Track date="2002-09-24T18:00:00" category="TS" latitude="13.2" longitude="-66.0" windspeed="50" pressure="1007"/>
+  <Track date="2002-09-25T00:00:00" category="TS" latitude="13.5" longitude="-66.9" windspeed="35" pressure="1008"/>
+  <Track date="2002-09-25T06:00:00" category="TS" latitude="13.7" longitude="-67.5" windspeed="35" pressure="1008"/>
+  <Track date="2002-09-25T12:00:00" category="WS" latitude="14.0" longitude="-68.2" windspeed="40" pressure="1008"/>
+  <Track date="2002-09-25T18:00:00" category="WS" latitude="14.2" longitude="-68.9" windspeed="40" pressure="1007"/>
+  <Track date="2002-09-26T00:00:00" category="WS" latitude="14.5" longitude="-69.8" windspeed="35" pressure="1007"/>
+  <Track date="2002-09-26T06:00:00" category="WS" latitude="14.9" longitude="-71.0" windspeed="35" pressure="1007"/>
+  <Track date="2002-09-26T12:00:00" category="WD" latitude="15.3" longitude="-72.2" windspeed="30" pressure="1007"/>
+  <Track date="2002-09-26T18:00:00" category="WD" latitude="15.6" longitude="-73.0" windspeed="30" pressure="1006"/>
+  <Track date="2002-09-27T00:00:00" category="TD" latitude="15.7" longitude="-73.5" windspeed="30" pressure="1006"/>
+  <Track date="2002-09-27T06:00:00" category="TD" latitude="15.9" longitude="-74.0" windspeed="30" pressure="1006"/>
+  <Track date="2002-09-27T12:00:00" category="TS" latitude="16.1" longitude="-74.6" windspeed="35" pressure="1003"/>
+  <Track date="2002-09-27T18:00:00" category="TS" latitude="16.7" longitude="-75.0" windspeed="40" pressure="1004"/>
+  <Track date="2002-09-28T00:00:00" category="TS" latitude="17.4" longitude="-75.1" windspeed="45" pressure="999"/>
+  <Track date="2002-09-28T06:00:00" category="TS" latitude="17.5" longitude="-75.6" windspeed="45" pressure="999"/>
+  <Track date="2002-09-28T12:00:00" category="TS" latitude="18.1" longitude="-75.4" windspeed="45" pressure="1002"/>
+  <Track date="2002-09-28T18:00:00" category="TS" latitude="18.5" longitude="-75.7" windspeed="45" pressure="1003"/>
+  <Track date="2002-09-29T00:00:00" category="TS" latitude="18.8" longitude="-76.1" windspeed="45" pressure="1001"/>
+  <Track date="2002-09-29T06:00:00" category="TS" latitude="18.8" longitude="-76.8" windspeed="40" pressure="999"/>
+  <Track date="2002-09-29T12:00:00" category="TS" latitude="18.7" longitude="-77.2" windspeed="45" pressure="994"/>
+  <Track date="2002-09-29T18:00:00" category="TS" latitude="18.7" longitude="-77.6" windspeed="50" pressure="994"/>
+  <Track date="2002-09-30T00:00:00" category="TS" latitude="19.0" longitude="-78.1" windspeed="55" pressure="993"/>
+  <Track date="2002-09-30T06:00:00" category="TS" latitude="19.1" longitude="-78.7" windspeed="60" pressure="990"/>
+  <Track date="2002-09-30T12:00:00" category="H1" latitude="19.6" longitude="-79.6" windspeed="65" pressure="986"/>
+  <Track date="2002-09-30T18:00:00" category="H1" latitude="20.0" longitude="-80.3" windspeed="65" pressure="984"/>
+  <Track date="2002-10-01T00:00:00" category="H1" latitude="20.5" longitude="-81.1" windspeed="70" pressure="978"/>
+  <Track date="2002-10-01T06:00:00" category="H1" latitude="21.0" longitude="-82.2" windspeed="75" pressure="970"/>
+  <Track date="2002-10-01T12:00:00" category="H2" latitude="21.6" longitude="-83.2" windspeed="90" pressure="971"/>
+  <Track date="2002-10-01T18:00:00" category="H2" latitude="22.4" longitude="-84.4" windspeed="90" pressure="971"/>
+  <Track date="2002-10-02T00:00:00" category="H2" latitude="23.0" longitude="-85.7" windspeed="90" pressure="967"/>
+  <Track date="2002-10-02T06:00:00" category="H3" latitude="23.6" longitude="-87.2" windspeed="100" pressure="962"/>
+  <Track date="2002-10-02T12:00:00" category="H3" latitude="24.4" longitude="-88.3" windspeed="110" pressure="952"/>
+  <Track date="2002-10-02T18:00:00" category="H4" latitude="25.4" longitude="-89.5" windspeed="120" pressure="941"/>
+  <Track date="2002-10-03T00:00:00" category="H4" latitude="26.7" longitude="-90.3" windspeed="125" pressure="940"/>
+  <Track date="2002-10-03T06:00:00" category="H3" latitude="28.1" longitude="-91.4" windspeed="105" pressure="957"/>
+  <Track date="2002-10-03T12:00:00" category="H1" latitude="29.2" longitude="-92.1" windspeed="80" pressure="962"/>
+  <Track date="2002-10-03T18:00:00" category="TS" latitude="30.5" longitude="-92.4" windspeed="60" pressure="976"/>
+  <Track date="2002-10-04T00:00:00" category="TS" latitude="31.9" longitude="-92.1" windspeed="40" pressure="985"/>
+  <Track date="2002-10-04T06:00:00" category="TD" latitude="33.5" longitude="-91.4" windspeed="30" pressure="994"/>
+  <Track date="2002-10-04T12:00:00" category="TD" latitude="35.8" longitude="-90.0" windspeed="25" pressure="997"/>
+</StormTrackResponse>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2005082" name="HILARY" pnumber="200508" hnumber="200508" from="2005-08-19 18:00:00" thru="2005-08-28 00:00:00" minlat="13.3" maxlat="25.7" minlon="-129.4" maxlon="-96.6" maxwind="90" minpress="970" maxcat="H2" basin="EP">
+  <Track date="2005-08-19T18:00:00" category="TD" latitude="13.3" longitude="-96.6" windspeed="25" pressure="1007"/>
+  <Track date="2005-08-20T00:00:00" category="TD" latitude="13.5" longitude="-98.2" windspeed="30" pressure="1006"/>
+  <Track date="2005-08-20T06:00:00" category="TS" latitude="13.6" longitude="-99.8" windspeed="40" pressure="1002"/>
+  <Track date="2005-08-20T12:00:00" category="TS" latitude="13.8" longitude="-101.3" windspeed="50" pressure="997"/>
+  <Track date="2005-08-20T18:00:00" category="TS" latitude="14.0" longitude="-102.5" windspeed="55" pressure="994"/>
+  <Track date="2005-08-21T00:00:00" category="H1" latitude="14.3" longitude="-103.7" windspeed="65" pressure="987"/>
+  <Track date="2005-08-21T06:00:00" category="H1" latitude="14.9" longitude="-104.7" windspeed="70" pressure="983"/>
+  <Track date="2005-08-21T12:00:00" category="H1" latitude="15.7" longitude="-105.6" windspeed="70" pressure="981"/>
+  <Track date="2005-08-21T18:00:00" category="H1" latitude="16.5" longitude="-107.1" windspeed="75" pressure="979"/>
+  <Track date="2005-08-22T00:00:00" category="H2" latitude="17.2" longitude="-108.5" windspeed="90" pressure="972"/>
+  <Track date="2005-08-22T06:00:00" category="H2" latitude="17.8" longitude="-110.0" windspeed="90" pressure="970"/>
+  <Track date="2005-08-22T12:00:00" category="H2" latitude="18.3" longitude="-111.5" windspeed="90" pressure="972"/>
+  <Track date="2005-08-22T18:00:00" category="H2" latitude="18.6" longitude="-112.3" windspeed="85" pressure="974"/>
+  <Track date="2005-08-23T00:00:00" category="H1" latitude="18.9" longitude="-113.2" windspeed="80" pressure="976"/>
+  <Track date="2005-08-23T06:00:00" category="H1" latitude="19.2" longitude="-114.1" windspeed="75" pressure="981"/>
+  <Track date="2005-08-23T12:00:00" category="H1" latitude="19.6" longitude="-114.9" windspeed="70" pressure="983"/>
+  <Track date="2005-08-23T18:00:00" category="H1" latitude="20.0" longitude="-115.6" windspeed="70" pressure="985"/>
+  <Track date="2005-08-24T00:00:00" category="H1" latitude="20.4" longitude="-116.1" windspeed="65" pressure="986"/>
+  <Track date="2005-08-24T06:00:00" category="H1" latitude="20.9" longitude="-116.7" windspeed="65" pressure="987"/>
+  <Track date="2005-08-24T12:00:00" category="H1" latitude="21.4" longitude="-117.2" windspeed="65" pressure="990"/>
+  <Track date="2005-08-24T18:00:00" category="TS" latitude="22.0" longitude="-117.7" windspeed="55" pressure="994"/>
+  <Track date="2005-08-25T00:00:00" category="TS" latitude="22.7" longitude="-118.4" windspeed="45" pressure="998"/>
+  <Track date="2005-08-25T06:00:00" category="TS" latitude="23.3" longitude="-119.1" windspeed="40" pressure="1000"/>
+  <Track date="2005-08-25T12:00:00" category="TS" latitude="23.9" longitude="-119.9" windspeed="35" pressure="1002"/>
+  <Track date="2005-08-25T18:00:00" category="TD" latitude="24.3" longitude="-120.7" windspeed="30" pressure="1003"/>
+  <Track date="2005-08-26T00:00:00" category="LP" latitude="24.7" longitude="-121.6" windspeed="25" pressure="1004"/>
+  <Track date="2005-08-26T06:00:00" category="LP" latitude="25.0" longitude="-122.6" windspeed="25" pressure="1005"/>
+  <Track date="2005-08-26T12:00:00" category="LP" latitude="25.3" longitude="-123.6" windspeed="25" pressure="1006"/>
+  <Track date="2005-08-26T18:00:00" category="LP" latitude="25.6" longitude="-124.6" windspeed="25" pressure="1007"/>
+  <Track date="2005-08-27T00:00:00" category="LP" latitude="25.7" longitude="-125.5" windspeed="25" pressure="1008"/>
+  <Track date="2005-08-27T06:00:00" category="LP" latitude="25.7" longitude="-126.5" windspeed="25" pressure="1008"/>
+  <Track date="2005-08-27T12:00:00" category="LP" latitude="25.6" longitude="-127.5" windspeed="25" pressure="1009"/>
+  <Track date="2005-08-27T18:00:00" category="LP" latitude="25.5" longitude="-128.5" windspeed="25" pressure="1009"/>
+  <Track date="2005-08-28T00:00:00" category="LP" latitude="25.5" longitude="-129.4" windspeed="25" pressure="1010"/>
+</StormTrackResponse>

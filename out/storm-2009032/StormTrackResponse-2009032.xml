@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2009032" name="CARLOS" pnumber="200903" hnumber="200903" from="2009-07-10 06:00:00" thru="2009-07-16 18:00:00" minlat="9.4" maxlat="10.5" minlon="-135.7" maxlon="-111.0" maxwind="90" minpress="971" maxcat="H2" basin="EP">
+  <Track date="2009-07-10T06:00:00" category="TD" latitude="10.0" longitude="-111.0" windspeed="25" pressure="1007"/>
+  <Track date="2009-07-10T12:00:00" category="TD" latitude="10.1" longitude="-112.2" windspeed="30" pressure="1007"/>
+  <Track date="2009-07-10T18:00:00" category="TS" latitude="10.2" longitude="-113.4" windspeed="35" pressure="1004"/>
+  <Track date="2009-07-11T00:00:00" category="TS" latitude="10.3" longitude="-114.5" windspeed="45" pressure="1000"/>
+  <Track date="2009-07-11T06:00:00" category="TS" latitude="10.3" longitude="-115.5" windspeed="50" pressure="997"/>
+  <Track date="2009-07-11T12:00:00" category="TS" latitude="10.4" longitude="-116.4" windspeed="60" pressure="991"/>
+  <Track date="2009-07-11T18:00:00" category="H1" latitude="10.5" longitude="-117.3" windspeed="65" pressure="987"/>
+  <Track date="2009-07-12T00:00:00" category="H1" latitude="10.5" longitude="-118.4" windspeed="75" pressure="980"/>
+  <Track date="2009-07-12T06:00:00" category="H1" latitude="10.5" longitude="-119.4" windspeed="75" pressure="980"/>
+  <Track date="2009-07-12T12:00:00" category="H1" latitude="10.4" longitude="-120.4" windspeed="75" pressure="980"/>
+  <Track date="2009-07-12T18:00:00" category="H1" latitude="10.4" longitude="-121.4" windspeed="65" pressure="987"/>
+  <Track date="2009-07-13T00:00:00" category="TS" latitude="10.2" longitude="-122.4" windspeed="50" pressure="997"/>
+  <Track date="2009-07-13T06:00:00" category="TS" latitude="10.0" longitude="-123.5" windspeed="45" pressure="997"/>
+  <Track date="2009-07-13T12:00:00" category="TS" latitude="9.8" longitude="-124.6" windspeed="45" pressure="997"/>
+  <Track date="2009-07-13T18:00:00" category="TS" latitude="9.6" longitude="-125.6" windspeed="55" pressure="994"/>
+  <Track date="2009-07-14T00:00:00" category="TS" latitude="9.6" longitude="-126.2" windspeed="55" pressure="994"/>
+  <Track date="2009-07-14T06:00:00" category="TS" latitude="9.7" longitude="-126.8" windspeed="55" pressure="994"/>
+  <Track date="2009-07-14T12:00:00" category="H1" latitude="9.9" longitude="-127.4" windspeed="75" pressure="981"/>
+  <Track date="2009-07-14T18:00:00" category="H1" latitude="10.0" longitude="-127.9" windspeed="80" pressure="978"/>
+  <Track date="2009-07-15T00:00:00" category="H2" latitude="10.1" longitude="-128.3" windspeed="90" pressure="971"/>
+  <Track date="2009-07-15T06:00:00" category="H2" latitude="10.1" longitude="-128.8" windspeed="90" pressure="972"/>
+  <Track date="2009-07-15T12:00:00" category="H1" latitude="10.1" longitude="-129.4" windspeed="75" pressure="978"/>
+  <Track date="2009-07-15T18:00:00" category="TS" latitude="10.2" longitude="-130.4" windspeed="55" pressure="994"/>
+  <Track date="2009-07-16T00:00:00" category="TS" latitude="10.2" longitude="-131.5" windspeed="45" pressure="1000"/>
+  <Track date="2009-07-16T06:00:00" category="TD" latitude="10.0" longitude="-132.9" windspeed="30" pressure="1003"/>
+  <Track date="2009-07-16T12:00:00" category="TD" latitude="9.7" longitude="-134.3" windspeed="25" pressure="1005"/>
+  <Track date="2009-07-16T18:00:00" category="TD" latitude="9.4" longitude="-135.7" windspeed="25" pressure="1007"/>
+</StormTrackResponse>

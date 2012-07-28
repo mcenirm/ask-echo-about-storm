@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007051" name="ERIN" pnumber="200705" hnumber="200705" from="2007-08-15 00:00:00" thru="2007-08-19 18:00:00" minlat="23.7" maxlat="35.9" minlon="-101.8" maxlon="-90.7" maxwind="50" minpress="995" maxcat="TS" basin="AT">
+  <Track date="2007-08-15T00:00:00" category="TD" latitude="23.7" longitude="-90.7" windspeed="25" pressure="1006"/>
+  <Track date="2007-08-15T06:00:00" category="TD" latitude="24.5" longitude="-91.8" windspeed="25" pressure="1006"/>
+  <Track date="2007-08-15T12:00:00" category="TD" latitude="25.2" longitude="-92.9" windspeed="30" pressure="1005"/>
+  <Track date="2007-08-15T18:00:00" category="TS" latitude="25.8" longitude="-94.0" windspeed="35" pressure="1004"/>
+  <Track date="2007-08-16T00:00:00" category="TS" latitude="26.3" longitude="-95.2" windspeed="35" pressure="1003"/>
+  <Track date="2007-08-16T06:00:00" category="TS" latitude="27.2" longitude="-96.2" windspeed="35" pressure="1005"/>
+  <Track date="2007-08-16T12:00:00" category="TD" latitude="28.1" longitude="-97.1" windspeed="30" pressure="1006"/>
+  <Track date="2007-08-16T18:00:00" category="TD" latitude="28.8" longitude="-97.8" windspeed="25" pressure="1006"/>
+  <Track date="2007-08-17T00:00:00" category="TD" latitude="29.4" longitude="-98.6" windspeed="25" pressure="1006"/>
+  <Track date="2007-08-17T06:00:00" category="TD" latitude="30.0" longitude="-99.5" windspeed="25" pressure="1007"/>
+  <Track date="2007-08-17T12:00:00" category="LP" latitude="30.5" longitude="-100.6" windspeed="20" pressure="1008"/>
+  <Track date="2007-08-17T18:00:00" category="LP" latitude="31.1" longitude="-101.4" windspeed="20" pressure="1008"/>
+  <Track date="2007-08-18T00:00:00" category="LP" latitude="31.8" longitude="-101.8" windspeed="20" pressure="1008"/>
+  <Track date="2007-08-18T06:00:00" category="LP" latitude="32.5" longitude="-101.8" windspeed="20" pressure="1008"/>
+  <Track date="2007-08-18T12:00:00" category="LP" latitude="33.2" longitude="-101.5" windspeed="20" pressure="1008"/>
+  <Track date="2007-08-18T18:00:00" category="LP" latitude="34.0" longitude="-101.0" windspeed="20" pressure="1007"/>
+  <Track date="2007-08-19T00:00:00" category="LP" latitude="34.8" longitude="-100.1" windspeed="25" pressure="1004"/>
+  <Track date="2007-08-19T06:00:00" category="LP" latitude="35.6" longitude="-98.8" windspeed="50" pressure="995"/>
+  <Track date="2007-08-19T12:00:00" category="LP" latitude="35.6" longitude="-97.7" windspeed="35" pressure="1002"/>
+  <Track date="2007-08-19T18:00:00" category="LP" latitude="35.9" longitude="-96.5" windspeed="20" pressure="1007"/>
+</StormTrackResponse>

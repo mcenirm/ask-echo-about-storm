@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2004151" name="OTTO" pnumber="200415" hnumber="200415" from="2004-11-26 00:00:00" thru="2004-12-05 12:00:00" minlat="25.0" maxlat="31.9" minlon="-51.4" maxlon="-40.0" maxwind="45" minpress="995" maxcat="TS" basin="AT">
+  <Track date="2004-11-26T00:00:00" category="ED" latitude="28.0" longitude="-40.0" windspeed="30" pressure="1009"/>
+  <Track date="2004-11-26T06:00:00" category="ES" latitude="27.3" longitude="-41.0" windspeed="35" pressure="1006"/>
+  <Track date="2004-11-26T12:00:00" category="ES" latitude="26.5" longitude="-41.9" windspeed="35" pressure="1002"/>
+  <Track date="2004-11-26T18:00:00" category="ES" latitude="26.8" longitude="-42.5" windspeed="35" pressure="1000"/>
+  <Track date="2004-11-27T00:00:00" category="ES" latitude="26.8" longitude="-43.2" windspeed="35" pressure="1000"/>
+  <Track date="2004-11-27T06:00:00" category="ES" latitude="26.7" longitude="-43.8" windspeed="35" pressure="1000"/>
+  <Track date="2004-11-27T12:00:00" category="ES" latitude="26.4" longitude="-44.3" windspeed="35" pressure="1000"/>
+  <Track date="2004-11-27T18:00:00" category="ES" latitude="26.2" longitude="-44.4" windspeed="35" pressure="1000"/>
+  <Track date="2004-11-28T00:00:00" category="ES" latitude="26.3" longitude="-44.1" windspeed="35" pressure="1000"/>
+  <Track date="2004-11-28T06:00:00" category="ES" latitude="27.4" longitude="-43.9" windspeed="35" pressure="1000"/>
+  <Track date="2004-11-28T12:00:00" category="ES" latitude="28.2" longitude="-44.0" windspeed="35" pressure="1000"/>
+  <Track date="2004-11-28T18:00:00" category="ES" latitude="28.7" longitude="-45.1" windspeed="35" pressure="999"/>
+  <Track date="2004-11-29T00:00:00" category="ES" latitude="28.8" longitude="-46.5" windspeed="35" pressure="998"/>
+  <Track date="2004-11-29T06:00:00" category="ES" latitude="29.0" longitude="-47.8" windspeed="40" pressure="998"/>
+  <Track date="2004-11-29T12:00:00" category="SS" latitude="29.6" longitude="-47.9" windspeed="40" pressure="998"/>
+  <Track date="2004-11-29T18:00:00" category="SS" latitude="30.2" longitude="-48.8" windspeed="45" pressure="998"/>
+  <Track date="2004-11-30T00:00:00" category="SS" latitude="30.7" longitude="-49.7" windspeed="45" pressure="997"/>
+  <Track date="2004-11-30T06:00:00" category="SS" latitude="30.9" longitude="-50.5" windspeed="45" pressure="997"/>
+  <Track date="2004-11-30T12:00:00" category="SS" latitude="31.3" longitude="-51.0" windspeed="40" pressure="997"/>
+  <Track date="2004-11-30T18:00:00" category="TS" latitude="31.7" longitude="-51.0" windspeed="40" pressure="997"/>
+  <Track date="2004-12-01T00:00:00" category="TS" latitude="31.8" longitude="-50.9" windspeed="40" pressure="997"/>
+  <Track date="2004-12-01T06:00:00" category="TS" latitude="31.9" longitude="-50.8" windspeed="40" pressure="997"/>
+  <Track date="2004-12-01T12:00:00" category="TS" latitude="31.6" longitude="-50.4" windspeed="40" pressure="997"/>
+  <Track date="2004-12-01T18:00:00" category="TS" latitude="31.0" longitude="-50.1" windspeed="35" pressure="997"/>
+  <Track date="2004-12-02T00:00:00" category="TS" latitude="30.5" longitude="-49.9" windspeed="35" pressure="997"/>
+  <Track date="2004-12-02T06:00:00" category="TS" latitude="29.9" longitude="-50.1" windspeed="35" pressure="996"/>
+  <Track date="2004-12-02T12:00:00" category="TD" latitude="29.1" longitude="-50.4" windspeed="30" pressure="995"/>
+  <Track date="2004-12-02T18:00:00" category="TD" latitude="28.5" longitude="-50.1" windspeed="30" pressure="996"/>
+  <Track date="2004-12-03T00:00:00" category="TD" latitude="27.9" longitude="-50.1" windspeed="30" pressure="997"/>
+  <Track date="2004-12-03T06:00:00" category="LP" latitude="27.2" longitude="-50.2" windspeed="30" pressure="998"/>
+  <Track date="2004-12-03T12:00:00" category="LP" latitude="26.5" longitude="-50.3" windspeed="30" pressure="1000"/>
+  <Track date="2004-12-03T18:00:00" category="LP" latitude="26.2" longitude="-50.6" windspeed="25" pressure="1002"/>
+  <Track date="2004-12-04T00:00:00" category="LP" latitude="25.8" longitude="-50.2" windspeed="25" pressure="1005"/>
+  <Track date="2004-12-04T06:00:00" category="LP" latitude="25.4" longitude="-50.1" windspeed="25" pressure="1008"/>
+  <Track date="2004-12-04T12:00:00" category="LP" latitude="25.0" longitude="-50.4" windspeed="25" pressure="1010"/>
+  <Track date="2004-12-04T18:00:00" category="LP" latitude="25.1" longitude="-50.9" windspeed="25" pressure="1011"/>
+  <Track date="2004-12-05T00:00:00" category="LP" latitude="25.5" longitude="-51.1" windspeed="20" pressure="1012"/>
+  <Track date="2004-12-05T06:00:00" category="LP" latitude="25.9" longitude="-51.1" windspeed="20" pressure="1013"/>
+  <Track date="2004-12-05T12:00:00" category="LP" latitude="26.1" longitude="-51.4" windspeed="20" pressure="1014"/>
+</StormTrackResponse>

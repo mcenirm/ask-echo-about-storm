@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2000151" name="SUBTROP1" pnumber="" hnumber="200015" from="2000-10-25 00:00:00" thru="2000-10-29 12:00:00" minlat="21.5" maxlat="46.0" minlon="-72.6" maxlon="-59.5" maxwind="55" minpress="978" maxcat="ES" basin="AT">
+  <Track date="2000-10-25T00:00:00" category="ED" latitude="21.5" longitude="-69.5" windspeed="30" pressure="1009"/>
+  <Track date="2000-10-25T06:00:00" category="ES" latitude="22.5" longitude="-70.0" windspeed="35" pressure="1007"/>
+  <Track date="2000-10-25T12:00:00" category="ES" latitude="23.5" longitude="-70.9" windspeed="35" pressure="1006"/>
+  <Track date="2000-10-25T18:00:00" category="SS" latitude="24.5" longitude="-71.7" windspeed="35" pressure="1005"/>
+  <Track date="2000-10-26T00:00:00" category="SS" latitude="25.7" longitude="-71.7" windspeed="35" pressure="1004"/>
+  <Track date="2000-10-26T06:00:00" category="SS" latitude="26.6" longitude="-71.7" windspeed="35" pressure="1003"/>
+  <Track date="2000-10-26T12:00:00" category="SS" latitude="27.4" longitude="-71.8" windspeed="40" pressure="1002"/>
+  <Track date="2000-10-26T18:00:00" category="SS" latitude="28.3" longitude="-72.1" windspeed="45" pressure="1000"/>
+  <Track date="2000-10-27T00:00:00" category="SS" latitude="29.2" longitude="-72.5" windspeed="50" pressure="997"/>
+  <Track date="2000-10-27T06:00:00" category="SS" latitude="30.0" longitude="-72.6" windspeed="50" pressure="997"/>
+  <Track date="2000-10-27T12:00:00" category="SS" latitude="30.9" longitude="-72.5" windspeed="50" pressure="997"/>
+  <Track date="2000-10-27T18:00:00" category="SS" latitude="32.6" longitude="-71.6" windspeed="50" pressure="996"/>
+  <Track date="2000-10-28T00:00:00" category="SS" latitude="34.2" longitude="-70.7" windspeed="50" pressure="994"/>
+  <Track date="2000-10-28T06:00:00" category="SS" latitude="35.7" longitude="-69.9" windspeed="50" pressure="992"/>
+  <Track date="2000-10-28T12:00:00" category="SS" latitude="36.5" longitude="-68.1" windspeed="50" pressure="990"/>
+  <Track date="2000-10-28T18:00:00" category="SS" latitude="38.0" longitude="-65.5" windspeed="55" pressure="984"/>
+  <Track date="2000-10-29T00:00:00" category="SS" latitude="40.5" longitude="-62.6" windspeed="55" pressure="978"/>
+  <Track date="2000-10-29T06:00:00" category="ES" latitude="44.0" longitude="-60.0" windspeed="50" pressure="980"/>
+  <Track date="2000-10-29T12:00:00" category="ES" latitude="46.0" longitude="-59.5" windspeed="45" pressure="992"/>
+</StormTrackResponse>

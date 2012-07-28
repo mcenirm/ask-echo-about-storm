@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2006132" name="LANE" pnumber="200613" hnumber="200613" from="2006-09-13 18:00:00" thru="2006-09-17 12:00:00" minlat="15.7" maxlat="26.0" minlon="-107.5" maxlon="-101.0" maxwind="110" minpress="952" maxcat="H3" basin="EP">
+  <Track date="2006-09-13T18:00:00" category="TD" latitude="15.7" longitude="-101.0" windspeed="30" pressure="1006"/>
+  <Track date="2006-09-14T00:00:00" category="TD" latitude="16.2" longitude="-101.7" windspeed="30" pressure="1005"/>
+  <Track date="2006-09-14T06:00:00" category="TS" latitude="16.7" longitude="-102.6" windspeed="35" pressure="1000"/>
+  <Track date="2006-09-14T12:00:00" category="TS" latitude="17.2" longitude="-103.6" windspeed="40" pressure="999"/>
+  <Track date="2006-09-14T18:00:00" category="TS" latitude="17.6" longitude="-104.4" windspeed="45" pressure="997"/>
+  <Track date="2006-09-15T00:00:00" category="TS" latitude="18.0" longitude="-105.0" windspeed="50" pressure="997"/>
+  <Track date="2006-09-15T06:00:00" category="TS" latitude="18.5" longitude="-105.6" windspeed="55" pressure="994"/>
+  <Track date="2006-09-15T12:00:00" category="H1" latitude="19.3" longitude="-106.0" windspeed="65" pressure="987"/>
+  <Track date="2006-09-15T18:00:00" category="H1" latitude="20.3" longitude="-106.3" windspeed="75" pressure="985"/>
+  <Track date="2006-09-16T00:00:00" category="H2" latitude="21.3" longitude="-106.6" windspeed="90" pressure="975"/>
+  <Track date="2006-09-16T06:00:00" category="H3" latitude="22.2" longitude="-106.9" windspeed="100" pressure="960"/>
+  <Track date="2006-09-16T12:00:00" category="H3" latitude="23.1" longitude="-107.1" windspeed="110" pressure="952"/>
+  <Track date="2006-09-16T18:00:00" category="H3" latitude="24.0" longitude="-107.2" windspeed="110" pressure="954"/>
+  <Track date="2006-09-17T00:00:00" category="H1" latitude="24.7" longitude="-107.3" windspeed="65" pressure="978"/>
+  <Track date="2006-09-17T06:00:00" category="TS" latitude="25.4" longitude="-107.4" windspeed="35" pressure="990"/>
+  <Track date="2006-09-17T12:00:00" category="TD" latitude="26.0" longitude="-107.5" windspeed="25" pressure="1005"/>
+</StormTrackResponse>

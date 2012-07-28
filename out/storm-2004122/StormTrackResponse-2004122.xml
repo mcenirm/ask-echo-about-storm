@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2004122" name="LESTER" pnumber="200412" hnumber="200412" from="2004-10-11 18:00:00" thru="2004-10-13 12:00:00" minlat="14.4" maxlat="16.7" minlon="-100.6" maxlon="-96.7" maxwind="45" minpress="1000" maxcat="TS" basin="EP">
+  <Track date="2004-10-11T18:00:00" category="TD" latitude="14.4" longitude="-96.7" windspeed="30" pressure="1006"/>
+  <Track date="2004-10-12T00:00:00" category="TD" latitude="14.8" longitude="-97.2" windspeed="30" pressure="1006"/>
+  <Track date="2004-10-12T06:00:00" category="TD" latitude="15.2" longitude="-97.9" windspeed="30" pressure="1006"/>
+  <Track date="2004-10-12T12:00:00" category="TD" latitude="15.7" longitude="-98.7" windspeed="30" pressure="1006"/>
+  <Track date="2004-10-12T18:00:00" category="TS" latitude="16.2" longitude="-99.2" windspeed="35" pressure="1004"/>
+  <Track date="2004-10-13T00:00:00" category="TS" latitude="16.4" longitude="-99.6" windspeed="45" pressure="1000"/>
+  <Track date="2004-10-13T06:00:00" category="TS" latitude="16.7" longitude="-100.2" windspeed="45" pressure="1000"/>
+  <Track date="2004-10-13T12:00:00" category="TD" latitude="16.7" longitude="-100.6" windspeed="30" pressure="1004"/>
+</StormTrackResponse>

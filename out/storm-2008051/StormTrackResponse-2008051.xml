@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2008051" name="EDOUARD" pnumber="200805" hnumber="200805" from="2008-08-03 12:00:00" thru="2008-08-06 18:00:00" minlat="28.1" maxlat="32.7" minlon="-98.7" maxlon="-87.4" maxwind="55" minpress="996" maxcat="TS" basin="AT">
+  <Track date="2008-08-03T12:00:00" category="TD" latitude="28.1" longitude="-87.4" windspeed="25" pressure="1010"/>
+  <Track date="2008-08-03T18:00:00" category="TD" latitude="28.1" longitude="-87.8" windspeed="30" pressure="1009"/>
+  <Track date="2008-08-04T00:00:00" category="TS" latitude="28.1" longitude="-88.5" windspeed="45" pressure="1002"/>
+  <Track date="2008-08-04T06:00:00" category="TS" latitude="28.1" longitude="-89.6" windspeed="40" pressure="1005"/>
+  <Track date="2008-08-04T12:00:00" category="TS" latitude="28.1" longitude="-90.3" windspeed="40" pressure="1002"/>
+  <Track date="2008-08-04T18:00:00" category="TS" latitude="28.3" longitude="-91.0" windspeed="40" pressure="1001"/>
+  <Track date="2008-08-05T00:00:00" category="TS" latitude="28.5" longitude="-91.7" windspeed="50" pressure="999"/>
+  <Track date="2008-08-05T06:00:00" category="TS" latitude="29.0" longitude="-92.9" windspeed="55" pressure="997"/>
+  <Track date="2008-08-05T12:00:00" category="TS" latitude="29.6" longitude="-94.2" windspeed="55" pressure="996"/>
+  <Track date="2008-08-05T18:00:00" category="TS" latitude="30.0" longitude="-94.8" windspeed="40" pressure="999"/>
+  <Track date="2008-08-06T00:00:00" category="TD" latitude="30.6" longitude="-95.7" windspeed="30" pressure="1003"/>
+  <Track date="2008-08-06T06:00:00" category="LP" latitude="31.4" longitude="-97.0" windspeed="25" pressure="1008"/>
+  <Track date="2008-08-06T12:00:00" category="LP" latitude="32.0" longitude="-98.0" windspeed="20" pressure="1011"/>
+  <Track date="2008-08-06T18:00:00" category="LP" latitude="32.7" longitude="-98.7" windspeed="20" pressure="1012"/>
+</StormTrackResponse>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2000031" name="CHRIS" pnumber="200003" hnumber="200003" from="2000-08-17 12:00:00" thru="2000-08-19 12:00:00" minlat="14.2" maxlat="18.3" minlon="-60.4" maxlon="-51.9" maxwind="35" minpress="1008" maxcat="TS" basin="AT">
+  <Track date="2000-08-17T12:00:00" category="TD" latitude="14.2" longitude="-51.9" windspeed="25" pressure="1009"/>
+  <Track date="2000-08-17T18:00:00" category="TD" latitude="14.7" longitude="-52.8" windspeed="25" pressure="1009"/>
+  <Track date="2000-08-18T00:00:00" category="TD" latitude="15.2" longitude="-53.4" windspeed="25" pressure="1009"/>
+  <Track date="2000-08-18T06:00:00" category="TD" latitude="15.6" longitude="-54.1" windspeed="30" pressure="1009"/>
+  <Track date="2000-08-18T12:00:00" category="TS" latitude="16.2" longitude="-55.4" windspeed="35" pressure="1008"/>
+  <Track date="2000-08-18T18:00:00" category="TD" latitude="16.8" longitude="-56.5" windspeed="30" pressure="1011"/>
+  <Track date="2000-08-19T00:00:00" category="TD" latitude="17.3" longitude="-57.7" windspeed="25" pressure="1012"/>
+  <Track date="2000-08-19T06:00:00" category="TD" latitude="17.8" longitude="-59.0" windspeed="25" pressure="1012"/>
+  <Track date="2000-08-19T12:00:00" category="TD" latitude="18.3" longitude="-60.4" windspeed="20" pressure="1013"/>
+</StormTrackResponse>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2003062" name="FELICIA" pnumber="200306" hnumber="200306" from="2003-07-17 18:00:00" thru="2003-07-24 12:00:00" minlat="14.0" maxlat="18.0" minlon="-144.5" maxlon="-105.3" maxwind="45" minpress="1000" maxcat="TS" basin="EP">
+  <Track date="2003-07-17T18:00:00" category="TD" latitude="14.0" longitude="-105.3" windspeed="25" pressure="1009"/>
+  <Track date="2003-07-18T00:00:00" category="TD" latitude="14.3" longitude="-107.0" windspeed="30" pressure="1008"/>
+  <Track date="2003-07-18T06:00:00" category="TS" latitude="14.6" longitude="-108.7" windspeed="35" pressure="1005"/>
+  <Track date="2003-07-18T12:00:00" category="TS" latitude="14.9" longitude="-110.1" windspeed="45" pressure="1000"/>
+  <Track date="2003-07-18T18:00:00" category="TS" latitude="15.2" longitude="-111.6" windspeed="40" pressure="1002"/>
+  <Track date="2003-07-19T00:00:00" category="TS" latitude="15.3" longitude="-113.2" windspeed="40" pressure="1002"/>
+  <Track date="2003-07-19T06:00:00" category="TS" latitude="15.4" longitude="-114.7" windspeed="40" pressure="1002"/>
+  <Track date="2003-07-19T12:00:00" category="TS" latitude="15.5" longitude="-116.1" windspeed="40" pressure="1003"/>
+  <Track date="2003-07-19T18:00:00" category="TS" latitude="15.5" longitude="-117.6" windspeed="35" pressure="1005"/>
+  <Track date="2003-07-20T00:00:00" category="TS" latitude="15.4" longitude="-119.2" windspeed="35" pressure="1006"/>
+  <Track date="2003-07-20T06:00:00" category="TD" latitude="15.2" longitude="-120.7" windspeed="30" pressure="1008"/>
+  <Track date="2003-07-20T12:00:00" category="TD" latitude="15.2" longitude="-121.7" windspeed="30" pressure="1009"/>
+  <Track date="2003-07-20T18:00:00" category="TD" latitude="15.2" longitude="-122.6" windspeed="30" pressure="1009"/>
+  <Track date="2003-07-21T00:00:00" category="TD" latitude="15.4" longitude="-123.6" windspeed="30" pressure="1009"/>
+  <Track date="2003-07-21T06:00:00" category="TD" latitude="15.6" longitude="-124.8" windspeed="30" pressure="1009"/>
+  <Track date="2003-07-21T12:00:00" category="TD" latitude="15.8" longitude="-126.2" windspeed="30" pressure="1009"/>
+  <Track date="2003-07-21T18:00:00" category="TD" latitude="15.9" longitude="-127.7" windspeed="30" pressure="1009"/>
+  <Track date="2003-07-22T00:00:00" category="TD" latitude="16.1" longitude="-129.1" windspeed="30" pressure="1009"/>
+  <Track date="2003-07-22T06:00:00" category="TD" latitude="16.4" longitude="-130.3" windspeed="25" pressure="1010"/>
+  <Track date="2003-07-22T12:00:00" category="TD" latitude="16.7" longitude="-131.4" windspeed="25" pressure="1010"/>
+  <Track date="2003-07-22T18:00:00" category="TD" latitude="17.1" longitude="-132.8" windspeed="25" pressure="1010"/>
+  <Track date="2003-07-23T00:00:00" category="TD" latitude="17.5" longitude="-134.5" windspeed="25" pressure="1010"/>
+  <Track date="2003-07-23T06:00:00" category="TD" latitude="17.6" longitude="-136.1" windspeed="25" pressure="1010"/>
+  <Track date="2003-07-23T12:00:00" category="LP" latitude="17.6" longitude="-137.6" windspeed="20" pressure="1010"/>
+  <Track date="2003-07-23T18:00:00" category="LP" latitude="17.7" longitude="-139.0" windspeed="20" pressure="1010"/>
+  <Track date="2003-07-24T00:00:00" category="LP" latitude="17.8" longitude="-140.5" windspeed="20" pressure="1010"/>
+  <Track date="2003-07-24T06:00:00" category="LP" latitude="17.9" longitude="-142.4" windspeed="20" pressure="1010"/>
+  <Track date="2003-07-24T12:00:00" category="LP" latitude="18.0" longitude="-144.5" windspeed="20" pressure="1010"/>
+</StormTrackResponse>

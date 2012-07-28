@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011081" name="HARVEY" pnumber="201108" hnumber="201108" from="2011-08-12 18:00:00" thru="2011-08-22 12:00:00" minlat="10.2" maxlat="18.8" minlon="-96.7" maxlon="-19.5" maxwind="50" minpress="994" maxcat="TS" basin="AT">
+  <Track date="2011-08-12T18:00:00" category="LP" latitude="11.3" longitude="-31.5" windspeed="25" pressure="1010"/>
+  <Track date="2011-08-19T00:00:00" category="TD" latitude="15.4" longitude="-82.0" windspeed="30" pressure="1006"/>
+  <Track date="2011-08-19T06:00:00" category="TD" latitude="15.7" longitude="-82.7" windspeed="30" pressure="1006"/>
+  <Track date="2011-08-19T12:00:00" category="TS" latitude="16.0" longitude="-83.3" windspeed="35" pressure="1004"/>
+  <Track date="2011-08-19T18:00:00" category="TS" latitude="16.1" longitude="-84.0" windspeed="40" pressure="1002"/>
+  <Track date="2011-08-20T00:00:00" category="TS" latitude="16.1" longitude="-84.7" windspeed="45" pressure="998"/>
+  <Track date="2011-08-20T06:00:00" category="TS" latitude="16.3" longitude="-85.7" windspeed="50" pressure="994"/>
+  <Track date="2011-08-20T12:00:00" category="TS" latitude="16.7" longitude="-87.0" windspeed="50" pressure="999"/>
+  <Track date="2011-08-20T18:00:00" category="TS" latitude="17.0" longitude="-88.3" windspeed="50" pressure="998"/>
+  <Track date="2011-08-21T00:00:00" category="TS" latitude="17.3" longitude="-89.6" windspeed="35" pressure="1003"/>
+  <Track date="2011-08-21T06:00:00" category="TD" latitude="17.5" longitude="-90.7" windspeed="30" pressure="1005"/>
+  <Track date="2011-08-21T12:00:00" category="TD" latitude="17.9" longitude="-92.0" windspeed="25" pressure="1006"/>
+  <Track date="2011-08-21T18:00:00" category="TD" latitude="18.4" longitude="-93.3" windspeed="30" pressure="1005"/>
+  <Track date="2011-08-22T00:00:00" category="TD" latitude="18.8" longitude="-94.6" windspeed="30" pressure="1005"/>
+  <Track date="2011-08-22T06:00:00" category="TD" latitude="18.5" longitude="-95.7" windspeed="30" pressure="1005"/>
+  <Track date="2011-08-22T12:00:00" category="XX" latitude="18.2" longitude="-96.7" windspeed="20" pressure="1007"/>
+</StormTrackResponse>

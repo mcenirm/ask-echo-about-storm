@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2006082" name="HECTOR" pnumber="200608" hnumber="200608" from="2006-08-15 18:00:00" thru="2006-08-24 06:00:00" minlat="12.9" maxlat="23.3" minlon="-143.5" maxlon="-113.5" maxwind="95" minpress="966" maxcat="H2" basin="EP">
+  <Track date="2006-08-15T18:00:00" category="TD" latitude="12.9" longitude="-113.5" windspeed="30" pressure="1006"/>
+  <Track date="2006-08-16T00:00:00" category="TS" latitude="13.0" longitude="-114.6" windspeed="35" pressure="1003"/>
+  <Track date="2006-08-16T06:00:00" category="TS" latitude="13.1" longitude="-115.6" windspeed="40" pressure="1000"/>
+  <Track date="2006-08-16T12:00:00" category="TS" latitude="13.3" longitude="-116.4" windspeed="50" pressure="995"/>
+  <Track date="2006-08-16T18:00:00" category="TS" latitude="13.7" longitude="-117.2" windspeed="55" pressure="992"/>
+  <Track date="2006-08-17T00:00:00" category="TS" latitude="14.1" longitude="-118.1" windspeed="60" pressure="990"/>
+  <Track date="2006-08-17T06:00:00" category="H1" latitude="14.4" longitude="-119.3" windspeed="65" pressure="986"/>
+  <Track date="2006-08-17T12:00:00" category="H1" latitude="14.6" longitude="-120.5" windspeed="75" pressure="979"/>
+  <Track date="2006-08-17T18:00:00" category="H1" latitude="14.8" longitude="-121.6" windspeed="80" pressure="975"/>
+  <Track date="2006-08-18T00:00:00" category="H2" latitude="15.2" longitude="-122.8" windspeed="85" pressure="973"/>
+  <Track date="2006-08-18T06:00:00" category="H2" latitude="15.6" longitude="-124.0" windspeed="95" pressure="966"/>
+  <Track date="2006-08-18T12:00:00" category="H2" latitude="16.0" longitude="-125.2" windspeed="90" pressure="970"/>
+  <Track date="2006-08-18T18:00:00" category="H2" latitude="16.4" longitude="-126.4" windspeed="90" pressure="970"/>
+  <Track date="2006-08-19T00:00:00" category="H2" latitude="16.8" longitude="-127.5" windspeed="90" pressure="970"/>
+  <Track date="2006-08-19T06:00:00" category="H2" latitude="17.2" longitude="-128.6" windspeed="90" pressure="972"/>
+  <Track date="2006-08-19T12:00:00" category="H1" latitude="17.6" longitude="-129.6" windspeed="80" pressure="974"/>
+  <Track date="2006-08-19T18:00:00" category="H1" latitude="18.1" longitude="-130.6" windspeed="75" pressure="978"/>
+  <Track date="2006-08-20T00:00:00" category="H1" latitude="18.6" longitude="-131.5" windspeed="75" pressure="981"/>
+  <Track date="2006-08-20T06:00:00" category="H1" latitude="19.1" longitude="-132.3" windspeed="70" pressure="983"/>
+  <Track date="2006-08-20T12:00:00" category="TS" latitude="19.6" longitude="-133.1" windspeed="60" pressure="988"/>
+  <Track date="2006-08-20T18:00:00" category="TS" latitude="20.1" longitude="-133.9" windspeed="50" pressure="995"/>
+  <Track date="2006-08-21T00:00:00" category="TS" latitude="20.7" longitude="-134.4" windspeed="45" pressure="1000"/>
+  <Track date="2006-08-21T06:00:00" category="TS" latitude="21.1" longitude="-134.7" windspeed="45" pressure="1000"/>
+  <Track date="2006-08-21T12:00:00" category="TS" latitude="21.6" longitude="-135.0" windspeed="45" pressure="1002"/>
+  <Track date="2006-08-21T18:00:00" category="TS" latitude="22.0" longitude="-135.3" windspeed="45" pressure="1002"/>
+  <Track date="2006-08-22T00:00:00" category="TS" latitude="22.5" longitude="-135.6" windspeed="45" pressure="1003"/>
+  <Track date="2006-08-22T06:00:00" category="TS" latitude="22.6" longitude="-136.1" windspeed="40" pressure="1005"/>
+  <Track date="2006-08-22T12:00:00" category="TS" latitude="22.7" longitude="-136.6" windspeed="35" pressure="1007"/>
+  <Track date="2006-08-22T18:00:00" category="TS" latitude="22.8" longitude="-137.1" windspeed="35" pressure="1007"/>
+  <Track date="2006-08-23T00:00:00" category="TD" latitude="22.8" longitude="-137.8" windspeed="30" pressure="1009"/>
+  <Track date="2006-08-23T06:00:00" category="LP" latitude="22.7" longitude="-138.7" windspeed="30" pressure="1009"/>
+  <Track date="2006-08-23T12:00:00" category="LP" latitude="22.7" longitude="-139.7" windspeed="25" pressure="1009"/>
+  <Track date="2006-08-23T18:00:00" category="LP" latitude="22.9" longitude="-140.8" windspeed="25" pressure="1009"/>
+  <Track date="2006-08-24T00:00:00" category="LP" latitude="23.1" longitude="-142.0" windspeed="25" pressure="1009"/>
+  <Track date="2006-08-24T06:00:00" category="LP" latitude="23.3" longitude="-143.5" windspeed="25" pressure="1009"/>
+</StormTrackResponse>

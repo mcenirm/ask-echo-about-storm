@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011072" name="GREG" pnumber="201107" hnumber="201107" from="2011-08-16 12:00:00" thru="2011-08-21 12:00:00" minlat="13.1" maxlat="20.2" minlon="-122.4" maxlon="-97.8" maxwind="75" minpress="980" maxcat="H1" basin="EP">
+  <Track date="2011-08-16T12:00:00" category="LP" latitude="13.1" longitude="-97.8" windspeed="25" pressure="1006"/>
+  <Track date="2011-08-16T18:00:00" category="TD" latitude="13.9" longitude="-99.0" windspeed="30" pressure="1006"/>
+  <Track date="2011-08-17T00:00:00" category="TD" latitude="14.7" longitude="-100.1" windspeed="30" pressure="1006"/>
+  <Track date="2011-08-17T06:00:00" category="TS" latitude="15.5" longitude="-101.5" windspeed="35" pressure="1004"/>
+  <Track date="2011-08-17T12:00:00" category="TS" latitude="16.3" longitude="-103.4" windspeed="45" pressure="1000"/>
+  <Track date="2011-08-17T18:00:00" category="TS" latitude="16.9" longitude="-105.6" windspeed="55" pressure="994"/>
+  <Track date="2011-08-18T00:00:00" category="H1" latitude="17.3" longitude="-107.5" windspeed="65" pressure="987"/>
+  <Track date="2011-08-18T06:00:00" category="H1" latitude="17.8" longitude="-109.2" windspeed="70" pressure="985"/>
+  <Track date="2011-08-18T12:00:00" category="H1" latitude="18.3" longitude="-110.8" windspeed="75" pressure="980"/>
+  <Track date="2011-08-18T18:00:00" category="H1" latitude="18.6" longitude="-112.0" windspeed="75" pressure="980"/>
+  <Track date="2011-08-19T00:00:00" category="H1" latitude="18.8" longitude="-113.3" windspeed="70" pressure="982"/>
+  <Track date="2011-08-19T06:00:00" category="H1" latitude="19.0" longitude="-114.5" windspeed="65" pressure="987"/>
+  <Track date="2011-08-19T12:00:00" category="TS" latitude="19.3" longitude="-115.5" windspeed="60" pressure="989"/>
+  <Track date="2011-08-19T18:00:00" category="TS" latitude="19.5" longitude="-116.5" windspeed="50" pressure="994"/>
+  <Track date="2011-08-20T00:00:00" category="TS" latitude="19.6" longitude="-117.6" windspeed="45" pressure="997"/>
+  <Track date="2011-08-20T06:00:00" category="TS" latitude="19.7" longitude="-118.6" windspeed="40" pressure="1000"/>
+  <Track date="2011-08-20T12:00:00" category="TS" latitude="19.8" longitude="-119.5" windspeed="35" pressure="1004"/>
+  <Track date="2011-08-20T18:00:00" category="TS" latitude="19.9" longitude="-120.1" windspeed="35" pressure="1006"/>
+  <Track date="2011-08-21T00:00:00" category="TD" latitude="20.0" longitude="-120.7" windspeed="30" pressure="1008"/>
+  <Track date="2011-08-21T06:00:00" category="TD" latitude="20.1" longitude="-121.5" windspeed="30" pressure="1008"/>
+  <Track date="2011-08-21T12:00:00" category="TD" latitude="20.2" longitude="-122.4" windspeed="30" pressure="1008"/>
+</StormTrackResponse>

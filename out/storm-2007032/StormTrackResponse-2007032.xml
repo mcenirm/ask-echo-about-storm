@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007032" name="COSME" pnumber="200703" hnumber="200703" from="2007-07-14 12:00:00" thru="2007-07-24 18:00:00" minlat="11.2" maxlat="16.5" minlon="-179.4" maxlon="-125.8" maxwind="65" minpress="987" maxcat="H1" basin="EP">
+  <Track date="2007-07-14T12:00:00" category="TD" latitude="11.2" longitude="-125.8" windspeed="25" pressure="1007"/>
+  <Track date="2007-07-14T18:00:00" category="TD" latitude="11.3" longitude="-126.3" windspeed="25" pressure="1007"/>
+  <Track date="2007-07-15T00:00:00" category="TD" latitude="11.6" longitude="-126.6" windspeed="25" pressure="1006"/>
+  <Track date="2007-07-15T06:00:00" category="TD" latitude="11.9" longitude="-126.9" windspeed="25" pressure="1006"/>
+  <Track date="2007-07-15T12:00:00" category="TD" latitude="12.1" longitude="-127.2" windspeed="30" pressure="1006"/>
+  <Track date="2007-07-15T18:00:00" category="TS" latitude="12.5" longitude="-127.7" windspeed="35" pressure="1005"/>
+  <Track date="2007-07-16T00:00:00" category="TS" latitude="13.0" longitude="-128.4" windspeed="45" pressure="1000"/>
+  <Track date="2007-07-16T06:00:00" category="TS" latitude="13.6" longitude="-129.1" windspeed="55" pressure="997"/>
+  <Track date="2007-07-16T12:00:00" category="TS" latitude="14.0" longitude="-130.0" windspeed="60" pressure="992"/>
+  <Track date="2007-07-16T18:00:00" category="H1" latitude="14.4" longitude="-130.9" windspeed="65" pressure="987"/>
+  <Track date="2007-07-17T00:00:00" category="TS" latitude="14.8" longitude="-131.8" windspeed="60" pressure="992"/>
+  <Track date="2007-07-17T06:00:00" category="TS" latitude="14.9" longitude="-132.8" windspeed="55" pressure="997"/>
+  <Track date="2007-07-17T12:00:00" category="TS" latitude="14.9" longitude="-133.8" windspeed="45" pressure="1000"/>
+  <Track date="2007-07-17T18:00:00" category="TS" latitude="14.9" longitude="-134.8" windspeed="35" pressure="1005"/>
+  <Track date="2007-07-18T00:00:00" category="TS" latitude="15.0" longitude="-136.0" windspeed="35" pressure="1005"/>
+  <Track date="2007-07-18T06:00:00" category="TS" latitude="15.1" longitude="-137.2" windspeed="35" pressure="1005"/>
+  <Track date="2007-07-18T12:00:00" category="TS" latitude="15.1" longitude="-138.3" windspeed="35" pressure="1005"/>
+  <Track date="2007-07-18T18:00:00" category="TD" latitude="15.0" longitude="-139.5" windspeed="30" pressure="1006"/>
+  <Track date="2007-07-19T00:00:00" category="TD" latitude="15.2" longitude="-140.7" windspeed="30" pressure="1008"/>
+  <Track date="2007-07-19T06:00:00" category="TD" latitude="15.3" longitude="-142.0" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-19T12:00:00" category="TD" latitude="15.5" longitude="-143.6" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-19T18:00:00" category="TD" latitude="15.7" longitude="-145.0" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-20T00:00:00" category="TD" latitude="16.0" longitude="-146.6" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-20T06:00:00" category="TD" latitude="16.0" longitude="-148.3" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-20T12:00:00" category="TD" latitude="16.1" longitude="-149.9" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-20T18:00:00" category="TD" latitude="16.5" longitude="-151.8" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-21T00:00:00" category="TD" latitude="16.5" longitude="-153.8" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-21T06:00:00" category="TD" latitude="16.3" longitude="-155.7" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-21T12:00:00" category="TD" latitude="16.1" longitude="-157.4" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-21T18:00:00" category="TD" latitude="16.2" longitude="-159.1" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-22T00:00:00" category="TD" latitude="16.4" longitude="-161.0" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-22T06:00:00" category="TD" latitude="16.4" longitude="-162.6" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-22T12:00:00" category="TD" latitude="16.3" longitude="-164.5" windspeed="30" pressure="1010"/>
+  <Track date="2007-07-22T18:00:00" category="LP" latitude="16.1" longitude="-166.5" windspeed="25" pressure="1010"/>
+  <Track date="2007-07-23T00:00:00" category="LP" latitude="16.1" longitude="-168.3" windspeed="25" pressure="1011"/>
+  <Track date="2007-07-23T06:00:00" category="LP" latitude="15.9" longitude="-170.0" windspeed="25" pressure="1011"/>
+  <Track date="2007-07-23T12:00:00" category="LP" latitude="15.8" longitude="-171.7" windspeed="25" pressure="1011"/>
+  <Track date="2007-07-23T18:00:00" category="LP" latitude="15.7" longitude="-173.3" windspeed="25" pressure="1011"/>
+  <Track date="2007-07-24T00:00:00" category="LP" latitude="15.7" longitude="-175.0" windspeed="25" pressure="1011"/>
+  <Track date="2007-07-24T06:00:00" category="LP" latitude="15.7" longitude="-176.8" windspeed="25" pressure="1011"/>
+  <Track date="2007-07-24T12:00:00" category="LP" latitude="15.8" longitude="-178.3" windspeed="25" pressure="1010"/>
+  <Track date="2007-07-24T18:00:00" category="LP" latitude="15.8" longitude="-179.4" windspeed="25" pressure="1009"/>
+</StormTrackResponse>

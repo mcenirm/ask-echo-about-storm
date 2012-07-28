@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2001012" name="ADOLPH" pnumber="200101" hnumber="200101" from="2001-05-25 18:00:00" thru="2001-06-01 18:00:00" minlat="13.2" maxlat="16.4" minlon="-112.5" maxlon="-99.5" maxwind="125" minpress="940" maxcat="H4" basin="EP">
+  <Track date="2001-05-25T18:00:00" category="TD" latitude="13.6" longitude="-101.1" windspeed="25" pressure="1006"/>
+  <Track date="2001-05-26T00:00:00" category="TD" latitude="13.7" longitude="-101.2" windspeed="30" pressure="1006"/>
+  <Track date="2001-05-26T06:00:00" category="TD" latitude="13.8" longitude="-101.2" windspeed="30" pressure="1006"/>
+  <Track date="2001-05-26T12:00:00" category="TD" latitude="13.7" longitude="-100.9" windspeed="30" pressure="1006"/>
+  <Track date="2001-05-26T18:00:00" category="TS" latitude="13.6" longitude="-100.5" windspeed="35" pressure="1004"/>
+  <Track date="2001-05-27T00:00:00" category="TS" latitude="13.5" longitude="-100.2" windspeed="40" pressure="1000"/>
+  <Track date="2001-05-27T06:00:00" category="TS" latitude="13.3" longitude="-100.0" windspeed="50" pressure="997"/>
+  <Track date="2001-05-27T12:00:00" category="TS" latitude="13.2" longitude="-99.7" windspeed="60" pressure="992"/>
+  <Track date="2001-05-27T18:00:00" category="H1" latitude="13.5" longitude="-99.5" windspeed="75" pressure="980"/>
+  <Track date="2001-05-28T00:00:00" category="H2" latitude="13.9" longitude="-99.8" windspeed="95" pressure="965"/>
+  <Track date="2001-05-28T06:00:00" category="H3" latitude="14.2" longitude="-100.2" windspeed="105" pressure="960"/>
+  <Track date="2001-05-28T12:00:00" category="H3" latitude="14.4" longitude="-100.5" windspeed="110" pressure="955"/>
+  <Track date="2001-05-28T18:00:00" category="H4" latitude="14.7" longitude="-101.2" windspeed="115" pressure="948"/>
+  <Track date="2001-05-29T00:00:00" category="H4" latitude="15.0" longitude="-102.1" windspeed="125" pressure="940"/>
+  <Track date="2001-05-29T06:00:00" category="H4" latitude="15.3" longitude="-103.2" windspeed="125" pressure="940"/>
+  <Track date="2001-05-29T12:00:00" category="H4" latitude="15.5" longitude="-104.2" windspeed="125" pressure="940"/>
+  <Track date="2001-05-29T18:00:00" category="H4" latitude="15.7" longitude="-105.2" windspeed="115" pressure="948"/>
+  <Track date="2001-05-30T00:00:00" category="H3" latitude="15.9" longitude="-106.1" windspeed="110" pressure="955"/>
+  <Track date="2001-05-30T06:00:00" category="H3" latitude="16.0" longitude="-107.0" windspeed="100" pressure="960"/>
+  <Track date="2001-05-30T12:00:00" category="H2" latitude="16.2" longitude="-107.8" windspeed="95" pressure="965"/>
+  <Track date="2001-05-30T18:00:00" category="H2" latitude="16.3" longitude="-108.6" windspeed="90" pressure="975"/>
+  <Track date="2001-05-31T00:00:00" category="H1" latitude="16.4" longitude="-109.4" windspeed="80" pressure="979"/>
+  <Track date="2001-05-31T06:00:00" category="H1" latitude="16.4" longitude="-110.2" windspeed="70" pressure="982"/>
+  <Track date="2001-05-31T12:00:00" category="H1" latitude="16.4" longitude="-110.8" windspeed="65" pressure="987"/>
+  <Track date="2001-05-31T18:00:00" category="H1" latitude="16.3" longitude="-111.3" windspeed="65" pressure="990"/>
+  <Track date="2001-06-01T00:00:00" category="TS" latitude="16.2" longitude="-111.8" windspeed="55" pressure="997"/>
+  <Track date="2001-06-01T06:00:00" category="TS" latitude="16.2" longitude="-112.0" windspeed="45" pressure="1003"/>
+  <Track date="2001-06-01T12:00:00" category="TS" latitude="16.3" longitude="-112.3" windspeed="35" pressure="1005"/>
+  <Track date="2001-06-01T18:00:00" category="TD" latitude="16.4" longitude="-112.5" windspeed="30" pressure="1006"/>
+</StormTrackResponse>

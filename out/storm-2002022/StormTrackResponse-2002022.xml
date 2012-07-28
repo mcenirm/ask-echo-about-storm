@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2002022" name="BORIS" pnumber="200202" hnumber="200202" from="2002-06-08 12:00:00" thru="2002-06-12 00:00:00" minlat="16.1" maxlat="17.3" minlon="-104.3" maxlon="-102.4" maxwind="50" minpress="997" maxcat="TS" basin="EP">
+  <Track date="2002-06-08T12:00:00" category="TD" latitude="16.1" longitude="-102.4" windspeed="25" pressure="1004"/>
+  <Track date="2002-06-08T18:00:00" category="TD" latitude="16.5" longitude="-103.1" windspeed="30" pressure="1004"/>
+  <Track date="2002-06-09T00:00:00" category="TS" latitude="16.6" longitude="-103.8" windspeed="40" pressure="1002"/>
+  <Track date="2002-06-09T06:00:00" category="TS" latitude="16.8" longitude="-104.1" windspeed="50" pressure="997"/>
+  <Track date="2002-06-09T12:00:00" category="TS" latitude="16.9" longitude="-104.2" windspeed="50" pressure="997"/>
+  <Track date="2002-06-09T18:00:00" category="TS" latitude="17.1" longitude="-104.3" windspeed="50" pressure="1000"/>
+  <Track date="2002-06-10T00:00:00" category="TS" latitude="17.2" longitude="-104.2" windspeed="45" pressure="1000"/>
+  <Track date="2002-06-10T06:00:00" category="TS" latitude="17.3" longitude="-104.1" windspeed="40" pressure="1002"/>
+  <Track date="2002-06-10T12:00:00" category="TS" latitude="17.3" longitude="-103.9" windspeed="35" pressure="1004"/>
+  <Track date="2002-06-10T18:00:00" category="TD" latitude="17.1" longitude="-103.7" windspeed="30" pressure="1004"/>
+  <Track date="2002-06-11T00:00:00" category="TD" latitude="17.1" longitude="-103.6" windspeed="30" pressure="1004"/>
+  <Track date="2002-06-11T06:00:00" category="TD" latitude="17.1" longitude="-103.5" windspeed="25" pressure="1004"/>
+  <Track date="2002-06-11T12:00:00" category="TD" latitude="17.1" longitude="-103.3" windspeed="25" pressure="1004"/>
+  <Track date="2002-06-11T18:00:00" category="LP" latitude="17.0" longitude="-103.2" windspeed="20" pressure="1006"/>
+  <Track date="2002-06-12T00:00:00" category="LP" latitude="16.8" longitude="-102.7" windspeed="20" pressure="1006"/>
+</StormTrackResponse>

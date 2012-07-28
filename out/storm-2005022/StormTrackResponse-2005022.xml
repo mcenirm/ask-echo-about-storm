@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2005022" name="BEATRIZ" pnumber="200502" hnumber="200502" from="2005-06-21 18:00:00" thru="2005-06-26 06:00:00" minlat="13.6" maxlat="18.7" minlon="-114.7" maxlon="-101.7" maxwind="45" minpress="1000" maxcat="TS" basin="EP">
+  <Track date="2005-06-21T18:00:00" category="TD" latitude="13.6" longitude="-101.7" windspeed="25" pressure="1006"/>
+  <Track date="2005-06-22T00:00:00" category="TD" latitude="13.9" longitude="-102.8" windspeed="30" pressure="1005"/>
+  <Track date="2005-06-22T06:00:00" category="TD" latitude="14.3" longitude="-103.8" windspeed="30" pressure="1004"/>
+  <Track date="2005-06-22T12:00:00" category="TS" latitude="14.8" longitude="-104.9" windspeed="35" pressure="1003"/>
+  <Track date="2005-06-22T18:00:00" category="TS" latitude="15.2" longitude="-106.0" windspeed="40" pressure="1002"/>
+  <Track date="2005-06-23T00:00:00" category="TS" latitude="15.7" longitude="-107.1" windspeed="45" pressure="1000"/>
+  <Track date="2005-06-23T06:00:00" category="TS" latitude="16.3" longitude="-108.3" windspeed="45" pressure="1000"/>
+  <Track date="2005-06-23T12:00:00" category="TS" latitude="16.7" longitude="-109.4" windspeed="40" pressure="1002"/>
+  <Track date="2005-06-23T18:00:00" category="TS" latitude="16.9" longitude="-110.4" windspeed="35" pressure="1004"/>
+  <Track date="2005-06-24T00:00:00" category="TD" latitude="17.1" longitude="-111.3" windspeed="30" pressure="1005"/>
+  <Track date="2005-06-24T06:00:00" category="LP" latitude="17.4" longitude="-112.2" windspeed="25" pressure="1006"/>
+  <Track date="2005-06-24T12:00:00" category="LP" latitude="17.8" longitude="-112.9" windspeed="20" pressure="1007"/>
+  <Track date="2005-06-24T18:00:00" category="LP" latitude="18.2" longitude="-113.6" windspeed="20" pressure="1008"/>
+  <Track date="2005-06-25T00:00:00" category="LP" latitude="18.7" longitude="-114.3" windspeed="20" pressure="1009"/>
+  <Track date="2005-06-25T06:00:00" category="LP" latitude="18.7" longitude="-114.5" windspeed="20" pressure="1009"/>
+  <Track date="2005-06-25T12:00:00" category="LP" latitude="18.6" longitude="-114.7" windspeed="20" pressure="1009"/>
+  <Track date="2005-06-25T18:00:00" category="LP" latitude="18.4" longitude="-114.7" windspeed="20" pressure="1009"/>
+  <Track date="2005-06-26T00:00:00" category="LP" latitude="18.2" longitude="-114.7" windspeed="20" pressure="1009"/>
+  <Track date="2005-06-26T06:00:00" category="LP" latitude="18.0" longitude="-114.5" windspeed="20" pressure="1010"/>
+</StormTrackResponse>

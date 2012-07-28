@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2003021" name="BILL" pnumber="200302" hnumber="200302" from="2003-06-28 06:00:00" thru="2003-07-03 00:00:00" minlat="19.5" maxlat="37.3" minlon="-91.5" maxlon="-79.5" maxwind="50" minpress="997" maxcat="TS" basin="AT">
+  <Track date="2003-06-28T06:00:00" category="LP" latitude="19.5" longitude="-89.0" windspeed="20" pressure="1009"/>
+  <Track date="2003-06-28T12:00:00" category="LP" latitude="20.0" longitude="-89.3" windspeed="20" pressure="1008"/>
+  <Track date="2003-06-28T18:00:00" category="LP" latitude="20.3" longitude="-89.4" windspeed="20" pressure="1008"/>
+  <Track date="2003-06-29T00:00:00" category="LP" latitude="21.0" longitude="-89.8" windspeed="20" pressure="1008"/>
+  <Track date="2003-06-29T06:00:00" category="TD" latitude="22.0" longitude="-90.0" windspeed="30" pressure="1007"/>
+  <Track date="2003-06-29T12:00:00" category="TS" latitude="23.4" longitude="-90.5" windspeed="35" pressure="1007"/>
+  <Track date="2003-06-29T18:00:00" category="TS" latitude="24.6" longitude="-91.1" windspeed="40" pressure="1009"/>
+  <Track date="2003-06-30T00:00:00" category="TS" latitude="25.9" longitude="-91.3" windspeed="45" pressure="1008"/>
+  <Track date="2003-06-30T06:00:00" category="TS" latitude="27.1" longitude="-91.5" windspeed="45" pressure="1007"/>
+  <Track date="2003-06-30T12:00:00" category="TS" latitude="28.2" longitude="-91.5" windspeed="50" pressure="1002"/>
+  <Track date="2003-06-30T18:00:00" category="TS" latitude="29.1" longitude="-91.0" windspeed="50" pressure="997"/>
+  <Track date="2003-07-01T00:00:00" category="TS" latitude="30.4" longitude="-90.3" windspeed="45" pressure="998"/>
+  <Track date="2003-07-01T06:00:00" category="TD" latitude="31.6" longitude="-89.3" windspeed="30" pressure="1003"/>
+  <Track date="2003-07-01T12:00:00" category="TD" latitude="32.7" longitude="-88.4" windspeed="25" pressure="1004"/>
+  <Track date="2003-07-01T18:00:00" category="TD" latitude="33.6" longitude="-87.0" windspeed="20" pressure="1007"/>
+  <Track date="2003-07-02T00:00:00" category="TD" latitude="34.1" longitude="-86.0" windspeed="20" pressure="1007"/>
+  <Track date="2003-07-02T06:00:00" category="TD" latitude="35.0" longitude="-84.5" windspeed="20" pressure="1007"/>
+  <Track date="2003-07-02T12:00:00" category="TD" latitude="35.6" longitude="-83.5" windspeed="20" pressure="1009"/>
+  <Track date="2003-07-02T18:00:00" category="ED" latitude="36.5" longitude="-82.0" windspeed="20" pressure="1009"/>
+  <Track date="2003-07-03T00:00:00" category="ED" latitude="37.3" longitude="-79.5" windspeed="20" pressure="1009"/>
+</StormTrackResponse>

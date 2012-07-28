@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007031" name="CHANTAL" pnumber="200703" hnumber="200703" from="2007-07-31 00:00:00" thru="2007-08-05 12:00:00" minlat="35.5" maxlat="66.0" minlon="-66.5" maxlon="-7.0" maxwind="60" minpress="964" maxcat="ES" basin="AT">
+  <Track date="2007-07-31T00:00:00" category="TD" latitude="35.5" longitude="-66.5" windspeed="30" pressure="1007"/>
+  <Track date="2007-07-31T06:00:00" category="TS" latitude="37.1" longitude="-65.5" windspeed="35" pressure="1004"/>
+  <Track date="2007-07-31T12:00:00" category="TS" latitude="39.1" longitude="-64.2" windspeed="45" pressure="999"/>
+  <Track date="2007-07-31T18:00:00" category="TS" latitude="40.7" longitude="-62.3" windspeed="45" pressure="999"/>
+  <Track date="2007-08-01T00:00:00" category="TS" latitude="42.5" longitude="-60.0" windspeed="45" pressure="994"/>
+  <Track date="2007-08-01T06:00:00" category="ES" latitude="44.0" longitude="-57.5" windspeed="45" pressure="992"/>
+  <Track date="2007-08-01T12:00:00" category="ES" latitude="46.0" longitude="-54.5" windspeed="55" pressure="990"/>
+  <Track date="2007-08-01T18:00:00" category="ES" latitude="49.0" longitude="-49.5" windspeed="60" pressure="988"/>
+  <Track date="2007-08-02T00:00:00" category="ES" latitude="53.0" longitude="-43.0" windspeed="60" pressure="985"/>
+  <Track date="2007-08-02T06:00:00" category="ES" latitude="55.5" longitude="-38.5" windspeed="50" pressure="975"/>
+  <Track date="2007-08-02T12:00:00" category="ES" latitude="57.5" longitude="-35.4" windspeed="50" pressure="970"/>
+  <Track date="2007-08-02T18:00:00" category="ES" latitude="58.6" longitude="-33.9" windspeed="55" pressure="967"/>
+  <Track date="2007-08-03T00:00:00" category="ES" latitude="58.9" longitude="-32.1" windspeed="60" pressure="964"/>
+  <Track date="2007-08-03T06:00:00" category="ES" latitude="58.9" longitude="-30.4" windspeed="60" pressure="964"/>
+  <Track date="2007-08-03T12:00:00" category="ES" latitude="58.9" longitude="-28.0" windspeed="60" pressure="964"/>
+  <Track date="2007-08-03T18:00:00" category="ES" latitude="58.9" longitude="-25.2" windspeed="55" pressure="967"/>
+  <Track date="2007-08-04T00:00:00" category="ES" latitude="59.1" longitude="-22.6" windspeed="55" pressure="967"/>
+  <Track date="2007-08-04T06:00:00" category="ES" latitude="59.5" longitude="-19.1" windspeed="50" pressure="970"/>
+  <Track date="2007-08-04T12:00:00" category="ES" latitude="60.7" longitude="-16.3" windspeed="50" pressure="975"/>
+  <Track date="2007-08-04T18:00:00" category="ES" latitude="61.7" longitude="-14.0" windspeed="45" pressure="978"/>
+  <Track date="2007-08-05T00:00:00" category="ES" latitude="62.7" longitude="-12.0" windspeed="45" pressure="980"/>
+  <Track date="2007-08-05T06:00:00" category="ES" latitude="64.0" longitude="-9.5" windspeed="45" pressure="982"/>
+  <Track date="2007-08-05T12:00:00" category="ES" latitude="66.0" longitude="-7.0" windspeed="35" pressure="985"/>
+</StormTrackResponse>

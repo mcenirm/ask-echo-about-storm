@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007081" name="HUMBERTO" pnumber="200708" hnumber="200708" from="2007-09-12 06:00:00" thru="2007-09-14 12:00:00" minlat="27.3" maxlat="32.7" minlon="-95.1" maxlon="-90.2" maxwind="80" minpress="985" maxcat="H1" basin="AT">
+  <Track date="2007-09-12T06:00:00" category="LP" latitude="27.3" longitude="-95.0" windspeed="25" pressure="1009"/>
+  <Track date="2007-09-12T12:00:00" category="TS" latitude="27.8" longitude="-95.1" windspeed="35" pressure="1006"/>
+  <Track date="2007-09-12T18:00:00" category="TS" latitude="28.3" longitude="-95.0" windspeed="45" pressure="1001"/>
+  <Track date="2007-09-13T00:00:00" category="TS" latitude="28.8" longitude="-94.8" windspeed="55" pressure="997"/>
+  <Track date="2007-09-13T06:00:00" category="H1" latitude="29.5" longitude="-94.4" windspeed="80" pressure="985"/>
+  <Track date="2007-09-13T12:00:00" category="H1" latitude="30.3" longitude="-93.6" windspeed="65" pressure="989"/>
+  <Track date="2007-09-13T18:00:00" category="TS" latitude="31.0" longitude="-92.9" windspeed="35" pressure="1000"/>
+  <Track date="2007-09-14T00:00:00" category="TD" latitude="31.7" longitude="-92.3" windspeed="25" pressure="1006"/>
+  <Track date="2007-09-14T06:00:00" category="LP" latitude="32.4" longitude="-91.3" windspeed="20" pressure="1009"/>
+  <Track date="2007-09-14T12:00:00" category="LP" latitude="32.7" longitude="-90.2" windspeed="20" pressure="1012"/>
+</StormTrackResponse>

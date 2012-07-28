@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2005181" name="STAN" pnumber="200518" hnumber="200518" from="2005-10-01 12:00:00" thru="2005-10-05 06:00:00" minlat="16.9" maxlat="20.5" minlon="-97.0" maxlon="-85.6" maxwind="70" minpress="977" maxcat="H1" basin="AT">
+  <Track date="2005-10-01T12:00:00" category="TD" latitude="18.9" longitude="-85.6" windspeed="25" pressure="1007"/>
+  <Track date="2005-10-01T18:00:00" category="TD" latitude="19.1" longitude="-86.2" windspeed="30" pressure="1005"/>
+  <Track date="2005-10-02T00:00:00" category="TD" latitude="19.3" longitude="-86.7" windspeed="30" pressure="1004"/>
+  <Track date="2005-10-02T06:00:00" category="TS" latitude="19.5" longitude="-87.2" windspeed="40" pressure="1003"/>
+  <Track date="2005-10-02T12:00:00" category="TS" latitude="19.8" longitude="-87.9" windspeed="35" pressure="1003"/>
+  <Track date="2005-10-02T18:00:00" category="TS" latitude="20.3" longitude="-88.8" windspeed="35" pressure="1004"/>
+  <Track date="2005-10-03T00:00:00" category="TD" latitude="20.5" longitude="-89.8" windspeed="30" pressure="1003"/>
+  <Track date="2005-10-03T06:00:00" category="TS" latitude="20.5" longitude="-91.0" windspeed="35" pressure="1003"/>
+  <Track date="2005-10-03T12:00:00" category="TS" latitude="20.3" longitude="-91.7" windspeed="40" pressure="1000"/>
+  <Track date="2005-10-03T18:00:00" category="TS" latitude="20.1" longitude="-92.2" windspeed="50" pressure="997"/>
+  <Track date="2005-10-04T00:00:00" category="TS" latitude="19.8" longitude="-93.2" windspeed="55" pressure="990"/>
+  <Track date="2005-10-04T06:00:00" category="H1" latitude="19.2" longitude="-94.1" windspeed="65" pressure="987"/>
+  <Track date="2005-10-04T12:00:00" category="H1" latitude="18.6" longitude="-94.9" windspeed="70" pressure="977"/>
+  <Track date="2005-10-04T18:00:00" category="TS" latitude="17.9" longitude="-95.6" windspeed="45" pressure="988"/>
+  <Track date="2005-10-05T00:00:00" category="TD" latitude="17.2" longitude="-96.4" windspeed="30" pressure="1000"/>
+  <Track date="2005-10-05T06:00:00" category="TD" latitude="16.9" longitude="-97.0" windspeed="25" pressure="1004"/>
+</StormTrackResponse>

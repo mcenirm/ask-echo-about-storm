@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2011082" name="EIGHT" pnumber="201108" hnumber="201108" from="2011-08-31 12:00:00" thru="2011-08-31 18:00:00" minlat="17.8" maxlat="18.3" minlon="-102.8" maxlon="-102.5" maxwind="30" minpress="1002" maxcat="TD" basin="EP">
+  <Track date="2011-08-31T12:00:00" category="TD" latitude="17.8" longitude="-102.5" windspeed="30" pressure="1002"/>
+  <Track date="2011-08-31T18:00:00" category="TD" latitude="18.3" longitude="-102.8" windspeed="25" pressure="1003"/>
+</StormTrackResponse>

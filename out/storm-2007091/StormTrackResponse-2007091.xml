@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2007091" name="INGRID" pnumber="200709" hnumber="200709" from="2007-09-12 06:00:00" thru="2007-09-18 12:00:00" minlat="13.0" maxlat="19.1" minlon="-62.0" maxlon="-43.6" maxwind="40" minpress="1002" maxcat="TS" basin="AT">
+  <Track date="2007-09-12T06:00:00" category="TD" latitude="13.0" longitude="-43.6" windspeed="25" pressure="1009"/>
+  <Track date="2007-09-12T12:00:00" category="TD" latitude="13.0" longitude="-44.3" windspeed="30" pressure="1008"/>
+  <Track date="2007-09-12T18:00:00" category="TD" latitude="13.1" longitude="-45.1" windspeed="30" pressure="1007"/>
+  <Track date="2007-09-13T00:00:00" category="TD" latitude="13.4" longitude="-45.9" windspeed="30" pressure="1006"/>
+  <Track date="2007-09-13T06:00:00" category="TS" latitude="13.7" longitude="-46.7" windspeed="35" pressure="1005"/>
+  <Track date="2007-09-13T12:00:00" category="TS" latitude="14.1" longitude="-47.5" windspeed="35" pressure="1005"/>
+  <Track date="2007-09-13T18:00:00" category="TS" latitude="14.4" longitude="-48.1" windspeed="35" pressure="1004"/>
+  <Track date="2007-09-14T00:00:00" category="TS" latitude="14.7" longitude="-48.6" windspeed="35" pressure="1002"/>
+  <Track date="2007-09-14T06:00:00" category="TS" latitude="15.0" longitude="-49.3" windspeed="35" pressure="1003"/>
+  <Track date="2007-09-14T12:00:00" category="TS" latitude="15.3" longitude="-49.9" windspeed="40" pressure="1004"/>
+  <Track date="2007-09-14T18:00:00" category="TS" latitude="15.6" longitude="-50.5" windspeed="40" pressure="1004"/>
+  <Track date="2007-09-15T00:00:00" category="TS" latitude="15.9" longitude="-51.2" windspeed="35" pressure="1005"/>
+  <Track date="2007-09-15T06:00:00" category="TS" latitude="16.2" longitude="-52.2" windspeed="35" pressure="1005"/>
+  <Track date="2007-09-15T12:00:00" category="TS" latitude="16.3" longitude="-53.3" windspeed="35" pressure="1005"/>
+  <Track date="2007-09-15T18:00:00" category="TD" latitude="16.5" longitude="-54.4" windspeed="30" pressure="1006"/>
+  <Track date="2007-09-16T00:00:00" category="TD" latitude="16.7" longitude="-55.4" windspeed="30" pressure="1006"/>
+  <Track date="2007-09-16T06:00:00" category="TD" latitude="16.9" longitude="-56.3" windspeed="30" pressure="1006"/>
+  <Track date="2007-09-16T12:00:00" category="TD" latitude="17.1" longitude="-57.2" windspeed="30" pressure="1006"/>
+  <Track date="2007-09-16T18:00:00" category="TD" latitude="17.2" longitude="-58.1" windspeed="30" pressure="1007"/>
+  <Track date="2007-09-17T00:00:00" category="TD" latitude="17.3" longitude="-59.0" windspeed="25" pressure="1009"/>
+  <Track date="2007-09-17T06:00:00" category="LP" latitude="17.5" longitude="-59.9" windspeed="25" pressure="1010"/>
+  <Track date="2007-09-17T12:00:00" category="LP" latitude="18.0" longitude="-60.6" windspeed="25" pressure="1010"/>
+  <Track date="2007-09-17T18:00:00" category="LP" latitude="18.4" longitude="-61.0" windspeed="25" pressure="1010"/>
+  <Track date="2007-09-18T00:00:00" category="LP" latitude="18.8" longitude="-61.4" windspeed="20" pressure="1011"/>
+  <Track date="2007-09-18T06:00:00" category="LP" latitude="19.0" longitude="-61.7" windspeed="20" pressure="1011"/>
+  <Track date="2007-09-18T12:00:00" category="LP" latitude="19.1" longitude="-62.0" windspeed="20" pressure="1011"/>
+</StormTrackResponse>

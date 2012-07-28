@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2009011" name="ANA" pnumber="200901" hnumber="200901" from="2009-08-10 06:00:00" thru="2009-08-16 12:00:00" minlat="14.0" maxlat="14.6" minlon="-54.8" maxlon="-24.0" maxwind="35" minpress="1003" maxcat="TS" basin="AT">
+  <Track date="2009-08-10T06:00:00" category="TD" latitude="14.3" longitude="-24.0" windspeed="25" pressure="1008"/>
+  <Track date="2009-08-10T12:00:00" category="LP" latitude="14.4" longitude="-24.9" windspeed="25" pressure="1008"/>
+  <Track date="2009-08-10T18:00:00" category="LP" latitude="14.4" longitude="-25.8" windspeed="25" pressure="1008"/>
+  <Track date="2009-08-11T00:00:00" category="LP" latitude="14.4" longitude="-26.8" windspeed="25" pressure="1008"/>
+  <Track date="2009-08-11T06:00:00" category="TD" latitude="14.4" longitude="-27.9" windspeed="25" pressure="1007"/>
+  <Track date="2009-08-11T12:00:00" category="TD" latitude="14.5" longitude="-29.0" windspeed="25" pressure="1006"/>
+  <Track date="2009-08-11T18:00:00" category="TD" latitude="14.6" longitude="-30.0" windspeed="25" pressure="1006"/>
+  <Track date="2009-08-12T00:00:00" category="TD" latitude="14.6" longitude="-31.0" windspeed="30" pressure="1006"/>
+  <Track date="2009-08-12T06:00:00" category="TD" latitude="14.5" longitude="-32.1" windspeed="30" pressure="1006"/>
+  <Track date="2009-08-12T12:00:00" category="TS" latitude="14.4" longitude="-33.3" windspeed="35" pressure="1005"/>
+  <Track date="2009-08-12T18:00:00" category="TS" latitude="14.3" longitude="-34.4" windspeed="35" pressure="1005"/>
+  <Track date="2009-08-13T00:00:00" category="TD" latitude="14.1" longitude="-35.3" windspeed="30" pressure="1006"/>
+  <Track date="2009-08-13T06:00:00" category="LP" latitude="14.0" longitude="-36.3" windspeed="30" pressure="1007"/>
+  <Track date="2009-08-13T12:00:00" category="LP" latitude="14.0" longitude="-37.2" windspeed="25" pressure="1008"/>
+  <Track date="2009-08-13T18:00:00" category="LP" latitude="14.1" longitude="-38.2" windspeed="25" pressure="1008"/>
+  <Track date="2009-08-14T00:00:00" category="LP" latitude="14.3" longitude="-39.3" windspeed="25" pressure="1008"/>
+  <Track date="2009-08-14T06:00:00" category="LP" latitude="14.5" longitude="-40.5" windspeed="25" pressure="1008"/>
+  <Track date="2009-08-14T12:00:00" category="LP" latitude="14.6" longitude="-41.8" windspeed="25" pressure="1008"/>
+  <Track date="2009-08-14T18:00:00" category="LP" latitude="14.6" longitude="-43.2" windspeed="25" pressure="1007"/>
+  <Track date="2009-08-15T00:00:00" category="TD" latitude="14.5" longitude="-44.7" windspeed="30" pressure="1005"/>
+  <Track date="2009-08-15T06:00:00" category="TS" latitude="14.4" longitude="-46.1" windspeed="35" pressure="1003"/>
+  <Track date="2009-08-15T12:00:00" category="TS" latitude="14.4" longitude="-47.6" windspeed="35" pressure="1003"/>
+  <Track date="2009-08-15T18:00:00" category="TS" latitude="14.4" longitude="-49.2" windspeed="35" pressure="1003"/>
+  <Track date="2009-08-16T00:00:00" category="TS" latitude="14.4" longitude="-50.7" windspeed="35" pressure="1003"/>
+  <Track date="2009-08-16T06:00:00" category="TS" latitude="14.5" longitude="-52.6" windspeed="35" pressure="1004"/>
+  <Track date="2009-08-16T12:00:00" category="TD" latitude="14.6" longitude="-54.8" windspeed="30" pressure="1006"/>
+</StormTrackResponse>

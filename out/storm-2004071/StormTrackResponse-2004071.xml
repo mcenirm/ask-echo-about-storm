@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2004071" name="GASTON" pnumber="200407" hnumber="200407" from="2004-08-27 12:00:00" thru="2004-09-03 00:00:00" minlat="31.3" maxlat="52.0" minlon="-79.6" maxlon="-28.9" maxwind="65" minpress="986" maxcat="H1" basin="AT">
+  <Track date="2004-08-27T12:00:00" category="TD" latitude="31.8" longitude="-78.1" windspeed="25" pressure="1015"/>
+  <Track date="2004-08-27T18:00:00" category="TD" latitude="31.6" longitude="-78.0" windspeed="25" pressure="1014"/>
+  <Track date="2004-08-28T00:00:00" category="TD" latitude="31.4" longitude="-78.0" windspeed="30" pressure="1011"/>
+  <Track date="2004-08-28T06:00:00" category="TS" latitude="31.3" longitude="-78.2" windspeed="35" pressure="1005"/>
+  <Track date="2004-08-28T12:00:00" category="TS" latitude="31.3" longitude="-78.5" windspeed="45" pressure="1000"/>
+  <Track date="2004-08-28T18:00:00" category="TS" latitude="31.3" longitude="-78.8" windspeed="50" pressure="997"/>
+  <Track date="2004-08-29T00:00:00" category="TS" latitude="31.5" longitude="-79.1" windspeed="55" pressure="994"/>
+  <Track date="2004-08-29T06:00:00" category="TS" latitude="32.1" longitude="-79.4" windspeed="60" pressure="991"/>
+  <Track date="2004-08-29T12:00:00" category="H1" latitude="32.8" longitude="-79.5" windspeed="65" pressure="986"/>
+  <Track date="2004-08-29T18:00:00" category="TS" latitude="33.5" longitude="-79.6" windspeed="45" pressure="992"/>
+  <Track date="2004-08-30T00:00:00" category="TD" latitude="34.2" longitude="-79.4" windspeed="30" pressure="995"/>
+  <Track date="2004-08-30T06:00:00" category="TD" latitude="34.9" longitude="-79.1" windspeed="30" pressure="998"/>
+  <Track date="2004-08-30T12:00:00" category="TD" latitude="35.6" longitude="-78.7" windspeed="25" pressure="1000"/>
+  <Track date="2004-08-30T18:00:00" category="TD" latitude="36.4" longitude="-77.8" windspeed="30" pressure="1002"/>
+  <Track date="2004-08-31T00:00:00" category="TS" latitude="37.2" longitude="-76.6" windspeed="35" pressure="1001"/>
+  <Track date="2004-08-31T06:00:00" category="TS" latitude="38.1" longitude="-74.8" windspeed="35" pressure="1001"/>
+  <Track date="2004-08-31T12:00:00" category="TS" latitude="39.1" longitude="-72.9" windspeed="35" pressure="1001"/>
+  <Track date="2004-08-31T18:00:00" category="TS" latitude="40.2" longitude="-70.5" windspeed="35" pressure="999"/>
+  <Track date="2004-09-01T00:00:00" category="TS" latitude="41.0" longitude="-67.5" windspeed="40" pressure="999"/>
+  <Track date="2004-09-01T06:00:00" category="TS" latitude="41.7" longitude="-63.5" windspeed="45" pressure="999"/>
+  <Track date="2004-09-01T12:00:00" category="ES" latitude="43.0" longitude="-59.6" windspeed="45" pressure="999"/>
+  <Track date="2004-09-01T18:00:00" category="ES" latitude="45.0" longitude="-55.0" windspeed="45" pressure="998"/>
+  <Track date="2004-09-02T00:00:00" category="ES" latitude="47.0" longitude="-50.0" windspeed="45" pressure="997"/>
+  <Track date="2004-09-02T06:00:00" category="ES" latitude="48.5" longitude="-44.0" windspeed="45" pressure="996"/>
+  <Track date="2004-09-02T12:00:00" category="ES" latitude="50.0" longitude="-38.0" windspeed="45" pressure="994"/>
+  <Track date="2004-09-02T18:00:00" category="ES" latitude="51.1" longitude="-32.0" windspeed="40" pressure="994"/>
+  <Track date="2004-09-03T00:00:00" category="ES" latitude="52.0" longitude="-28.9" windspeed="35" pressure="998"/>
+</StormTrackResponse>

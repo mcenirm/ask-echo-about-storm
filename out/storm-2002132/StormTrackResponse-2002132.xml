@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2002132" name="KENNA" pnumber="200213" hnumber="200213" from="2002-10-22 00:00:00" thru="2002-10-26 00:00:00" minlat="11.4" maxlat="23.7" minlon="-108.8" maxlon="-99.4" maxwind="145" minpress="913" maxcat="H5" basin="EP">
+  <Track date="2002-10-22T00:00:00" category="TD" latitude="11.4" longitude="-99.4" windspeed="30" pressure="1006"/>
+  <Track date="2002-10-22T06:00:00" category="TS" latitude="11.5" longitude="-100.4" windspeed="35" pressure="1004"/>
+  <Track date="2002-10-22T12:00:00" category="TS" latitude="11.7" longitude="-101.4" windspeed="35" pressure="1003"/>
+  <Track date="2002-10-22T18:00:00" category="TS" latitude="12.1" longitude="-102.5" windspeed="35" pressure="1003"/>
+  <Track date="2002-10-23T00:00:00" category="TS" latitude="12.6" longitude="-103.6" windspeed="40" pressure="1002"/>
+  <Track date="2002-10-23T06:00:00" category="TS" latitude="13.1" longitude="-104.6" windspeed="50" pressure="997"/>
+  <Track date="2002-10-23T12:00:00" category="TS" latitude="13.6" longitude="-105.7" windspeed="60" pressure="990"/>
+  <Track date="2002-10-23T18:00:00" category="H1" latitude="14.2" longitude="-106.9" windspeed="75" pressure="980"/>
+  <Track date="2002-10-24T00:00:00" category="H2" latitude="14.9" longitude="-108.0" windspeed="90" pressure="970"/>
+  <Track date="2002-10-24T06:00:00" category="H3" latitude="15.5" longitude="-108.5" windspeed="105" pressure="955"/>
+  <Track date="2002-10-24T12:00:00" category="H4" latitude="16.4" longitude="-108.8" windspeed="125" pressure="935"/>
+  <Track date="2002-10-24T18:00:00" category="H5" latitude="17.3" longitude="-108.8" windspeed="140" pressure="917"/>
+  <Track date="2002-10-25T00:00:00" category="H5" latitude="18.3" longitude="-108.3" windspeed="145" pressure="913"/>
+  <Track date="2002-10-25T06:00:00" category="H5" latitude="19.3" longitude="-107.5" windspeed="145" pressure="915"/>
+  <Track date="2002-10-25T12:00:00" category="H4" latitude="20.4" longitude="-106.5" windspeed="130" pressure="939"/>
+  <Track date="2002-10-25T18:00:00" category="H3" latitude="22.1" longitude="-105.1" windspeed="100" pressure="960"/>
+  <Track date="2002-10-26T00:00:00" category="TS" latitude="23.7" longitude="-103.5" windspeed="35" pressure="1000"/>
+</StormTrackResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2003071" name="GRACE" pnumber="200307" hnumber="200307" from="2003-08-30 12:00:00" thru="2003-09-02 06:00:00" minlat="24.3" maxlat="34.6" minlon="-96.6" maxlon="-92.4" maxwind="35" minpress="1007" maxcat="TS" basin="AT">
+  <Track date="2003-08-30T12:00:00" category="TD" latitude="24.3" longitude="-92.4" windspeed="30" pressure="1008"/>
+  <Track date="2003-08-30T18:00:00" category="TS" latitude="24.9" longitude="-93.3" windspeed="35" pressure="1009"/>
+  <Track date="2003-08-31T00:00:00" category="TS" latitude="25.8" longitude="-94.3" windspeed="35" pressure="1009"/>
+  <Track date="2003-08-31T06:00:00" category="TS" latitude="27.2" longitude="-94.9" windspeed="35" pressure="1008"/>
+  <Track date="2003-08-31T12:00:00" category="TS" latitude="29.4" longitude="-95.2" windspeed="35" pressure="1007"/>
+  <Track date="2003-08-31T18:00:00" category="TD" latitude="30.1" longitude="-95.6" windspeed="30" pressure="1009"/>
+  <Track date="2003-09-01T00:00:00" category="TD" latitude="30.9" longitude="-96.4" windspeed="25" pressure="1009"/>
+  <Track date="2003-09-01T06:00:00" category="TD" latitude="31.9" longitude="-96.6" windspeed="20" pressure="1010"/>
+  <Track date="2003-09-01T12:00:00" category="TD" latitude="32.6" longitude="-96.5" windspeed="20" pressure="1010"/>
+  <Track date="2003-09-01T18:00:00" category="TD" latitude="33.6" longitude="-95.7" windspeed="20" pressure="1011"/>
+  <Track date="2003-09-02T00:00:00" category="TD" latitude="34.1" longitude="-95.0" windspeed="15" pressure="1011"/>
+  <Track date="2003-09-02T06:00:00" category="TD" latitude="34.6" longitude="-94.5" windspeed="15" pressure="1013"/>
+</StormTrackResponse>

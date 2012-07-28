@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StormTrackResponse
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://ws3.itsc.uah.edu/services/storms/StormTrackResponse.xsd"
+  stormid="2009162" name="OLAF" pnumber="200916" hnumber="200916" from="2009-10-01 12:00:00" thru="2009-10-04 12:00:00" minlat="19.0" maxlat="24.5" minlon="-117.5" maxlon="-111.2" maxwind="40" minpress="996" maxcat="TS" basin="EP">
+  <Track date="2009-10-01T12:00:00" category="TD" latitude="19.0" longitude="-117.3" windspeed="30" pressure="1003"/>
+  <Track date="2009-10-01T18:00:00" category="TS" latitude="19.6" longitude="-117.4" windspeed="35" pressure="1000"/>
+  <Track date="2009-10-02T00:00:00" category="TS" latitude="20.4" longitude="-117.4" windspeed="40" pressure="997"/>
+  <Track date="2009-10-02T06:00:00" category="TS" latitude="21.5" longitude="-117.4" windspeed="40" pressure="996"/>
+  <Track date="2009-10-02T12:00:00" category="TS" latitude="22.6" longitude="-117.5" windspeed="40" pressure="996"/>
+  <Track date="2009-10-02T18:00:00" category="TS" latitude="23.3" longitude="-117.5" windspeed="35" pressure="997"/>
+  <Track date="2009-10-03T00:00:00" category="TS" latitude="23.8" longitude="-117.3" windspeed="35" pressure="997"/>
+  <Track date="2009-10-03T06:00:00" category="TD" latitude="24.0" longitude="-116.7" windspeed="30" pressure="998"/>
+  <Track date="2009-10-03T12:00:00" category="TD" latitude="23.9" longitude="-115.6" windspeed="30" pressure="998"/>
+  <Track date="2009-10-03T18:00:00" category="LP" latitude="23.8" longitude="-114.3" windspeed="30" pressure="999"/>
+  <Track date="2009-10-04T00:00:00" category="LP" latitude="23.9" longitude="-113.0" windspeed="25" pressure="1000"/>
+  <Track date="2009-10-04T06:00:00" category="LP" latitude="24.2" longitude="-111.8" windspeed="25" pressure="1002"/>
+  <Track date="2009-10-04T12:00:00" category="LP" latitude="24.5" longitude="-111.2" windspeed="25" pressure="1003"/>
+</StormTrackResponse>
